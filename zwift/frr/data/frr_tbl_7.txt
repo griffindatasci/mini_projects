@@ -1,0 +1,837 @@
+X1,X2,X3,X4,X5,X6,X7,X8
+SPRINT,SP-CAP,1,-M,Jared Benney (ABR),ABR - ABR Bloobo webdesign,8,394
+SPRINT,SP-CAP,2,-M,Stefan Kirchmair,KIRCHMAIR - KIRCHMAIR - LETOUR,8,378
+SPRINT,SP-CAP,3,-M,Tobias van Toledo,EVOLUTION - Warriors,8,366
+SPRINT,SP-CAP,4,-M,Kelsey smith,RELENTLESS - Taipan,8,361
+SPRINT,SP-CAP,5,-M,Teppo Laurio,WLECOL - WLECOL - LETOUR,8,357
+SPRINT,SP-CAP,6,-M,Nico Peller,KIRCHMAIR - KIRCHMAIR - LETOUR,8,341
+SPRINT,SP-CAP,7,-M,JP Durand,5W4T - 5W4T,6,337
+SPRINT,SP-CAP,8,-M,Daniel Mundell,BL13 - BL13 - LETOUR,8,324
+SPRINT,SP-CAP,9,-M,James Skulczuk,BURRITO - BURRITO - LETOUR,8,311
+SPRINT,SP-CAP,10,-M,Ritter Moritz,SWM - SWM - LETOUR,7,310
+SPRINT,SP-CAP,11,-M,Francis Cayouette,5W4T - 5W4T,7,302
+SPRINT,SP-CAP,12,-M,Andrew Dinsmore,TFC - TFC Harriers,8,298
+SPRINT,SP-CAP,13,-M,Duncan Johnson,OTR - Octopi,7,293
+SPRINT,SP-CAP,14,-M,Charles-Olivier Laporte,OPT - Velo Optimum,8,263
+SPRINT,SP-CAP,15,-M,Ben Soja,KIRCHMAIR - KIRCHMAIR - LETOUR,8,261
+SPRINT,SP-CAP,16,-M,Ben Russell,WLECOL - WLECOL - LETOUR,8,253
+SPRINT,SP-CAP,17,-M,Dom clarke,BURRITO - BURRITO - LETOUR,8,249
+SPRINT,SP-CAP,18,-M,Joris Voorn,ZSUNR - ZSUNR - LETOUR,8,244
+SPRINT,SP-CAP,19,-M,Mark Talbot,COALITION - Le Tour,8,243
+SPRINT,SP-CAP,20,-M,Paul Kearney,TEAMCLS - Vitesse verte,8,238
+SPRINT,SP-CAP,21,-M,Arend Cocquyt,BAKPDL - BP1,8,237
+SPRINT,SP-CAP,22,-M,Arne,COALITION - Beta,8,236
+SPRINT,SP-CAP,23,-M,Alex Lemp,TALENTF - TALENTF - LETOUR,8,234
+SPRINT,SP-CAP,24,-M,Gustav Lindqvist,FRR - Spectre,8,234
+SPRINT,SP-CAP,25,-M,Unknow Fellow,FRR - Spectre,8,234
+SPRINT,SP-CAP,26,-M,Henry Uys,ZSUNR - ZSUNR - LETOUR,6,232
+SPRINT,SP-CAP,27,-M,Kjell Gunnar Gjerdal,EVOLUTION - Warriors,8,230
+SPRINT,SP-CAP,28,-M,Nate Silva,COALITION - Beta,8,229
+SPRINT,SP-CAP,29,-M,Matthew spooner,BL13 - BL13 - LETOUR,8,229
+SPRINT,SP-CAP,30,-M,Christian Grupp,TALENTF - TALENTF - LETOUR,8,228
+SPRINT,SP-CAP,31,-M,Michel Rivard,5W4T - 5W4T,8,222
+SPRINT,SP-CAP,32,-M,Schwaiger Christian,SWM - SWM - LETOUR,6,218
+SPRINT,SP-CAP,33,-M,Rinus Verhelle,RELENTLESS - Taipan,8,216
+SPRINT,SP-CAP,34,-M,James Bowtell,CRCAF - CRCAF - LETOUR,8,215
+SPRINT,SP-CAP,35,-M,Karl Norris,ABR - ABR Bloobo webdesign,8,214
+SPRINT,SP-CAP,36,-M,e Harris,TFC - TFC Harriers,8,207
+SPRINT,SP-CAP,37,-M,Hugues Joannis,5W4T - 5W4T,7,205
+SPRINT,SP-CAP,38,-M,Mark Elding,BL13 - BL13 - LETOUR,8,200
+SPRINT,SP-CAP,39,-M,a.lex,TALENTF - TALENTF - LETOUR,8,200
+SPRINT,SP-CAP,40,-M,Charles-Antoine Messier,5W4T - 5W4T,7,198
+SPRINT,SP-CAP,41,-M,Travis Gatesman,RELENTLESS - Taipan,8,198
+SPRINT,SP-CAP,42,-M,Thomas Davison,EVOLUTION - Warriors,8,196
+SPRINT,SP-CAP,43,-M,Petar Dashev [CAP],FRR - Spectre,8,193
+SPRINT,SP-CAP,44,-M,Diogo Calçada,FRR - Spectre,8,190
+SPRINT,SP-CAP,45,-M,Cedric RICHARD,HEX - HEX - LETOUR,8,188
+SPRINT,SP-CAP,46,-M,David Henderson,OMG - OMG avec WEZ,5,188
+SPRINT,SP-CAP,47,-M,David Cheam,EVOLUTION - Warriors,8,185
+SPRINT,SP-CAP,48,-M,J. Carton CLS. CAP,TEAMCLS - Vitesse verte,8,185
+SPRINT,SP-CAP,49,-M,Yoann Deldossi,HEX - HEX - LETOUR,6,185
+SPRINT,SP-CAP,50,-M,Bastin Maxime,FFZ - FFZ Spartiate,6,184
+SPRINT,SP-CAP,51,-M,Gonzague PETIT,FFZ - FFZ Spartiate,8,183
+SPRINT,SP-CAP,52,-M,Tim Shields,ABR - ABR Bloobo webdesign,8,180
+SPRINT,SP-CAP,53,-M,CLAMOTE,FRR - Spectre,8,179
+SPRINT,SP-CAP,54,-M,Brian Bishop,OTR - Crazy8s,8,177
+SPRINT,SP-CAP,55,-M,Maxime Bernard,FFZ - FFZ Spartiate,8,175
+SPRINT,SP-CAP,56,-M,Felix Gauthier,OPT - Velo Optimum,5,174
+SPRINT,SP-CAP,57,-M,Thomas Wagner,FRR - Spectre,7,173
+SPRINT,SP-CAP,58,-M,Kalle Kadens,FRR - Spectre,8,172
+SPRINT,SP-CAP,59,-M,Michel Pinto machado,FRR - Spectre,8,165
+SPRINT,SP-CAP,60,-M,Brett boniface,OMG - OMG avec WEZ,6,164
+SPRINT,SP-CAP,61,-M,Bastian von Hayn,TALENTF - TALENTF - LETOUR,8,162
+SPRINT,SP-CAP,62,-M,Michael Greiner,OMG - OMG avec WEZ,8,161
+SPRINT,SP-CAP,63,-M,Patrick Schaefer,OTR - Snowflakes,7,160
+SPRINT,SP-CAP,64,-M,Daniel Pinto,OMG - OMG avec WEZ,8,157
+SPRINT,SP-CAP,65,-M,Samuel Le Dortz,BL13 - BL13 - LETOUR,4,157
+SPRINT,SP-CAP,66,-M,Aaron Girdlestone,EVOLUTION - Warriors,5,155
+SPRINT,SP-CAP,67,-M,Adam Vogt,OTR - Snowflakes,8,154
+SPRINT,SP-CAP,68,-M,Ben clarke,OTR - Crazy8s,8,153
+SPRINT,SP-CAP,69,-M,Mathias Kemnitz,FRR - Spectre,8,153
+SPRINT,SP-CAP,70,-M,Peter Mogg,OMG - OMG avec WEZ,8,153
+SPRINT,SP-CAP,71,-M,Adam Otstot,RELENTLESS - Taipan,6,148
+SPRINT,SP-CAP,72,-M,Nathan Miller,RELENTLESS - Taipan,8,147
+SPRINT,SP-CAP,73,-M,Greg Morgan,EVOLUTION - Warriors,6,147
+SPRINT,SP-CAP,74,-M,mickael plantureux,HEX - HEX - LETOUR,4,142
+SPRINT,SP-CAP,75,-M,Andrew Perkins,LVLESPORT - LEVEL Men,8,141
+SPRINT,SP-CAP,76,-M,Siegfried Pfeifer,SWM - SWM - LETOUR,6,139
+SPRINT,SP-CAP,77,-M,H. Çelebi,FRR - Spectre,8,136
+SPRINT,SP-CAP,78,-M,Michael Gamst,BL13 - BL13 - LETOUR,7,131
+SPRINT,SP-CAP,79,-M,Danies Camille,HEX - HEX - LETOUR,3,129
+SPRINT,SP-CAP,80,-M,Richard Watson,ABR - ABR Bloobo webdesign,7,127
+SPRINT,SP-CAP,81,-M,Jan Steinmann,WLECOL - WLECOL - LETOUR,5,124
+SPRINT,SP-CAP,82,-M,Paoloni,FFZ - FFZ Spartiate,4,123
+SPRINT,SP-CAP,83,-M,Thomas Vael,ZSUNR - ZSUNR - LETOUR,3,123
+SPRINT,SP-CAP,84,-M,Charles Asselin,OPT - Velo Optimum,6,121
+SPRINT,SP-CAP,85,-M,Bart Van der Linden,OMG - OMG avec WEZ,7,120
+SPRINT,SP-CAP,86,-M,Philipp Diethelm,RELENTLESS - Taipan,7,120
+SPRINT,SP-CAP,87,-M,Nicolas Boucher,OPT - Velo Optimum,6,119
+SPRINT,SP-CAP,88,-M,Jude LaRene,OMG - OMG avec WEZ,6,117
+SPRINT,SP-CAP,89,-M,Per Sam,TEAMCLS - Vitesse verte,2,116
+SPRINT,SP-CAP,90,-M,Noah Balch,OTR - Octopi,3,114
+SPRINT,SP-CAP,91,-M,Alex Banville,COALITION - Beta,7,113
+SPRINT,SP-CAP,92,-M,Patrick Orrick,OMG - OMG avec WEZ,6,112
+SPRINT,SP-CAP,93,-M,Hannes Hamberger,VEGAN - VEGAN - LETOUR,8,108
+SPRINT,SP-CAP,94,-M,Josh Harris,TBW - Watopia Tour,6,104
+SPRINT,SP-CAP,95,-M,Kial Jackson,BURRITO - BURRITO - LETOUR,3,99
+SPRINT,SP-CAP,96,-M,Andrew Nicholl,DIRT - DIRT - LETOUR,8,98
+SPRINT,SP-CAP,97,-M,Mark de Bruijn,RELENTLESS - Taipan,4,96
+SPRINT,SP-CAP,98,-M,Adrien,FFZ - FFZ Spartiate,5,94
+SPRINT,SP-CAP,99,-M,Jan Lammers,TALENTF - TALENTF - LETOUR,6,93
+SPRINT,SP-CAP,100,-M,Mark Redfern,EVOLUTION - Le Tour,5,92
+SPRINT,SP-CAP,101,-M,Martin Goikoetxea Conde,TT1 - TT1 - LETOUR,3,92
+SPRINT,SP-CAP,102,-M,Zack Muetterties,BL13 - BL13 - LETOUR,5,91
+SPRINT,SP-CAP,103,-M,thomas evans,TEAMCLS - Vitesse verte,6,91
+SPRINT,SP-CAP,104,-M,James E Furman,OTR - Snowflakes,4,90
+SPRINT,SP-CAP,105,-M,Walter Simon,SWM - SWM - LETOUR,4,90
+SPRINT,SP-CAP,106,-M,Peter McMullan,BURRITO - BURRITO - LETOUR,5,89
+SPRINT,SP-CAP,107,-M,Meyckeens Sébastien,FFZ - FFZ Spartiate,4,89
+SPRINT,SP-CAP,108,-M,Jon Werme,eSRT - eSRT - LETOUR,5,84
+SPRINT,SP-CAP,109,-M,Luke Marshall,COALITION - Le Tour,4,79
+SPRINT,SP-CAP,110,-M,Rusty Davis,FRR - Spectre,7,76
+SPRINT,SP-CAP,111,-M,Pierre Courtoy,CRYO-GEN - Lancelot,2,73
+SPRINT,SP-CAP,112,-M,Michael Painter,COALITION - Beta,2,67
+SPRINT,SP-CAP,113,-M,Jonathan Blomqvist,eSRT - eSRT - LETOUR,4,65
+SPRINT,SP-CAP,114,-M,Luc Guilbeault,5W4T - 5W4T,4,62
+SPRINT,SP-CAP,115,-M,Marc Gates,TBW - Watopia Tour,3,62
+SPRINT,SP-CAP,116,-M,Andrew Alderson,FRR - Spectre,4,60
+SPRINT,SP-CAP,117,-M,Mattias Wahlbeck,eSRT - eSRT - LETOUR,3,58
+SPRINT,SP-CAP,118,-M,Jacek Karluk,Race3R - ACDC,2,58
+SPRINT,SP-CAP,119,-M,Christopher Pruitt,RELENTLESS - Taipan,2,54
+SPRINT,SP-CAP,120,-M,Samuel Tremblay,OPT - Velo Optimum,3,52
+SPRINT,SP-CAP,121,-M,Joey M,DIRT - DIRT - LETOUR,3,51
+SPRINT,SP-CAP,122,-M,Rasmus Raben,ABR - ABR Bloobo webdesign,2,51
+SPRINT,SP-CAP,123,-M,Pascal Höhn,TALENTF - TALENTF - LETOUR,1,48
+SPRINT,SP-CAP,124,-M,Alex Rockwell,Race3R - ACDC,4,48
+SPRINT,SP-CAP,125,-M,André Canuto,OMG - OMG avec WEZ,1,45
+SPRINT,SP-CAP,126,-M,Anthony Hepworth,OPT - Velo Optimum,2,44
+SPRINT,SP-CAP,127,-M,Sebastien DUCASSE,FFZ - FFZ Spartiate,3,41
+SPRINT,SP-CAP,128,-M,Travis Samuel,WLECOL - WLECOL - LETOUR,1,38
+SPRINT,SP-CAP,129,-M,Felipe Nystrom,OMG - OMG avec WEZ,1,37
+SPRINT,SP-CAP,130,-M,Steve Shipman,Race3R - ACDC,2,35
+SPRINT,SP-CAP,131,-M,Mason Rocca,SISU - SISU - LETOUR,1,33
+SPRINT,SP-CAP,132,-M,Abdoullah Mitiche,EVOLUTION - Warriors,1,33
+SPRINT,SP-CAP,133,-M,Rui Oliveira,FRR - Spectre,2,32
+SPRINT,SP-CAP,134,-M,Nicolas Rousselange,TALENTF - TALENTF - LETOUR,1,31
+SPRINT,SP-CAP,135,-M,Massimiliano Wiser,TEAMCLS - Vitesse verte,1,31
+SPRINT,SP-CAP,136,-M,Sammy Knockaert,FRR - Spectre,1,29
+SPRINT,SP-CAP,137,-M,Eric Wise,VELOS - VELOSiraptors,2,29
+SPRINT,SP-CAP,138,-M,Adil Tabalong,ZIRT - ZIRT Uno,2,29
+SPRINT,SP-CAP,139,-M,Pedro Borlido,FRR - Spectre,2,26
+SPRINT,SP-CAP,140,-M,Strasser Matthias,SWM - SWM - LETOUR,2,25
+SPRINT,SP-CAP,141,-M,Mark Wise,ABR - ABR Bloobo webdesign,3,24
+SPRINT,SP-CAP,142,-M,Anders Broberg,eSRT - eSRT - LETOUR,2,23
+SPRINT,SP-CAP,143,-M,Maciek m,ZTPL - ZTPL - LETOUR,2,20
+SPRINT,SP-CAP,144,-M,Dan Pedroza,OMG - OMG avec WEZ,2,20
+SPRINT,SP-CAP,145,-M,Matt Tomlinson,TT1 - TT1 - LETOUR,1,20
+SPRINT,SP-CAP,146,-M,Jerry Olsson,SZ - SZ LOKE,1,19
+SPRINT,SP-CAP,147,-M,Alex Watts,TT1 - TT1 - LETOUR,2,17
+SPRINT,SP-CAP,148,-M,Hugo Viort,FRR - Spectre,1,16
+SPRINT,SP-CAP,149,-M,Gerome Romey,HEX - HEX - LETOUR,2,13
+SPRINT,SP-CAP,150,-M,André Minas,FRR - Spectre,1,13
+SPRINT,SP-CAP,151,-M,Marc Santo,TALENTF - TALENTF - LETOUR,1,10
+SPRINT,SP-CAP,152,-M,Jono Martin,Race3R - ACDC,3,7
+SPRINT,SP-CAP,153,-M,PESCE Julien,OMG - OMG avec WEZ,1,7
+SPRINT,SP-CAP,154,-M,Eric Flanders,OMG - OMG avec WEZ,1,7
+SPRINT,SP-CAP,155,-M,SCHMITT,FRR - Spectre,1,7
+SPRINT,SP-CRP,1,-M,Daniel Manalo,OTR - Octopi,8,378
+SPRINT,SP-CRP,2,-M,Dave Garguilo,CRCAF - CRCAF - LETOUR,8,365
+SPRINT,SP-CRP,3,-M,Leon O'Regan,ABR - ABR Bloobo webdesign,8,352
+SPRINT,SP-CRP,4,-M,Ally Loney,DIRT - DIRT - LETOUR,8,344
+SPRINT,SP-CRP,5,-M,Carl Frechette,OPT - Velo Optimum,8,335
+SPRINT,SP-CRP,6,-M,Jason Drummond,USMES - Tour,8,331
+SPRINT,SP-CRP,7,-M,Christian Seyr,KIRCHMAIR - KIRCHMAIR - LETOUR,8,326
+SPRINT,SP-CRP,8,-M,Justus Ade,SZ - SZ LOKE,8,324
+SPRINT,SP-CRP,9,-M,Dan Pannell,COALITION - Le Tour,8,300
+SPRINT,SP-CRP,10,-M,Cedrick Graham,OPT - Velo Optimum,8,297
+SPRINT,SP-CRP,11,-M,Philippe Hakier,5W4T - 5W4T,8,295
+SPRINT,SP-CRP,12,-M,Diogo Leite,TugaZ - Pico,8,290
+SPRINT,SP-CRP,13,-M,M.Tommis,TBR - JumboVisma,8,287
+SPRINT,SP-CRP,14,-M,Kris Poole,FRR - Spectre,8,279
+SPRINT,SP-CRP,15,-M,Guillaume Lamy,OPT - Velo Optimum,8,277
+SPRINT,SP-CRP,16,-M,Matthias Runge,WATTFAB - WATTFAB - LETOUR,8,274
+SPRINT,SP-CRP,17,-M,David Kowalski,COALITION - Le Tour,8,273
+SPRINT,SP-CRP,18,-M,Clement Desle,DIRT - DIRT - LETOUR,5,269
+SPRINT,SP-CRP,19,-M,Francis McKinnon,OPT - Velo Optimum,8,266
+SPRINT,SP-CRP,20,-M,David Bagdan,Race3R - ACDC,8,262
+SPRINT,SP-CRP,21,-M,Andy Styger,KIRCHMAIR - KIRCHMAIR - LETOUR,7,261
+SPRINT,SP-CRP,22,-M,Neil Turner,Race3R - ACDC,6,257
+SPRINT,SP-CRP,23,-M,Jason Bridges,RELENTLESS - Taipan,8,256
+SPRINT,SP-CRP,24,-M,Paul Buckland,RELENTLESS - Taipan,7,248
+SPRINT,SP-CRP,25,-M,Christoph Hindermann,WATTFAB - WATTFAB - LETOUR,8,245
+SPRINT,SP-CRP,26,-M,Joseph Shields,RELENTLESS - Taipan,7,241
+SPRINT,SP-CRP,27,-M,Pavel Morozov,EVOLUTION - Le Tour,8,239
+SPRINT,SP-CRP,28,-M,Stephan Schweiger,WATTFAB - WATTFAB - LETOUR,8,237
+SPRINT,SP-CRP,29,-M,Jean-Christophe Beaulieu,OPT - Velo Optimum,6,233
+SPRINT,SP-CRP,30,-M,Yves Niederhäuser,WLECOL - WLECOL - LETOUR,8,233
+SPRINT,SP-CRP,31,-M,Jonathan Bisson,5W4T - 5W4T,6,232
+SPRINT,SP-CRP,32,-M,Alexandre Doyon,OPT - Velo Optimum,7,232
+SPRINT,SP-CRP,33,-M,GIS,FFZ - FFZ Spartiate,8,231
+SPRINT,SP-CRP,34,-M,Colin Staats,FRR - Spectre,8,227
+SPRINT,SP-CRP,35,-M,Chris Pearce,TBR - JumboVisma,7,226
+SPRINT,SP-CRP,36,-M,Mike robson,OTR - Crazy8s,8,226
+SPRINT,SP-CRP,37,-M,Craig Segal,ABR - ABR Bloobo webdesign,6,226
+SPRINT,SP-CRP,38,-M,Taylor Gonsoulin,OTR - Crazy8s,8,224
+SPRINT,SP-CRP,39,-M,Mark Fenton,ABR - ABR Bloobo webdesign,8,224
+SPRINT,SP-CRP,40,-M,Martin Cote,LWATT - E-mmortels,8,222
+SPRINT,SP-CRP,41,-M,Raphael Caron Asselin,OPT - Velo Optimum,7,222
+SPRINT,SP-CRP,42,-M,David L Gabb,RELENTLESS - Taipan,8,221
+SPRINT,SP-CRP,43,-M,Nicolas Moreno,ZSUNR - ZSUNR - LETOUR,6,221
+SPRINT,SP-CRP,44,-M,Christian Baum,SWM - SWM - LETOUR,8,218
+SPRINT,SP-CRP,45,-M,Schaub Sebastian,SWM - SWM - LETOUR,8,214
+SPRINT,SP-CRP,46,-M,Eric Nevin,Race3R - ACDC,8,202
+SPRINT,SP-CRP,47,-M,Sylvain Lafrance,OPT - Velo Optimum,7,202
+SPRINT,SP-CRP,48,-M,Stefan Faulkner,WLECOL - WLECOL - LETOUR,8,196
+SPRINT,SP-CRP,49,-M,Tobias Lagemann,SISU - SISU - LETOUR,8,195
+SPRINT,SP-CRP,50,-M,Joker Aldo Sena [ZIRT],ZIRT - ZIRT Uno,8,195
+SPRINT,SP-CRP,51,-M,Kevin Mullins,TT1 - TT1 - LETOUR,8,193
+SPRINT,SP-CRP,52,-M,Gattlen Sébastien,FFZ - FFZ Spartiate,7,191
+SPRINT,SP-CRP,53,-M,Grant Womack,BL13 - BL13 - LETOUR,5,190
+SPRINT,SP-CRP,54,-M,Matjaz Zupanic,Race3R - ACDC,6,188
+SPRINT,SP-CRP,55,-M,Paul Dubienski,SWM - SWM - LETOUR,5,179
+SPRINT,SP-CRP,56,-M,Niels Delahoutre,ABR - ABR Bloobo webdesign,6,178
+SPRINT,SP-CRP,57,-M,Paul Chubb,BL13 - BL13 - LETOUR,6,170
+SPRINT,SP-CRP,58,-M,Jin Yamamoto,COALITION - Le Tour,8,162
+SPRINT,SP-CRP,59,-M,Jason ONeill,RELENTLESS - Taipan,4,158
+SPRINT,SP-CRP,60,-M,Massimo Fabbri,SOCKS4W - Le Tour,4,154
+SPRINT,SP-CRP,61,-M,Sandro LSZ,WATTFAB - WATTFAB - LETOUR,6,150
+SPRINT,SP-CRP,62,-M,Philipp Pene,TALENTF - TALENTF - LETOUR,5,147
+SPRINT,SP-CRP,63,-M,Paul Hollings,EVOLUTION - Warriors,6,142
+SPRINT,SP-CRP,64,-M,VO2max Coaching [CRP],FRR - Spectre,5,142
+SPRINT,SP-CRP,65,-M,Tom Naabe,TBR - JumboVisma,6,139
+SPRINT,SP-CRP,66,-M,Elton Judd,TBR - JumboVisma,6,136
+SPRINT,SP-CRP,67,-M,Ryan M Fiege,COALITION - Le Tour,4,128
+SPRINT,SP-CRP,68,-M,Ben Mackinson,ABR - ABR Bloobo webdesign,6,117
+SPRINT,SP-CRP,69,-M,Bill Dobson,WLECOL - WLECOL - LETOUR,5,108
+SPRINT,SP-CRP,70,-M,Robin Andersson,eSRT - eSRT - LETOUR,2,99
+SPRINT,SP-CRP,71,-M,Jesse Dekker,BAKPDL - BP1,3,92
+SPRINT,SP-CRP,72,-M,Chris Benham,RELENTLESS - Taipan,3,91
+SPRINT,SP-CRP,73,-M,DT,EVOLUTION - Warriors,3,89
+SPRINT,SP-CRP,74,-M,Richy howell,LVLESPORT - LEVEL Men,3,88
+SPRINT,SP-CRP,75,-M,Nelson Pinto,FRR - Spectre,2,88
+SPRINT,SP-CRP,76,-M,Ruben Villalain,TFC - TFC Harriers,1,87
+SPRINT,SP-CRP,77,-M,Alex Nairz,TALENTF - TALENTF - LETOUR,3,84
+SPRINT,SP-CRP,78,-M,Julian Herz,WATTFAB - WATTFAB - LETOUR,1,76
+SPRINT,SP-CRP,79,-M,Alexander Vellekoop,AMANI - AMANI - LETOUR,3,76
+SPRINT,SP-CRP,80,-M,Martin Ehmoser,TALENTF - TALENTF - LETOUR,4,73
+SPRINT,SP-CRP,81,-M,Alden Basmajian,RELENTLESS - Taipan,3,73
+SPRINT,SP-CRP,82,-M,Rune Jensen,KST - KST - LETOUR,1,69
+SPRINT,SP-CRP,83,-M,Unai Balenciaga,EVOLUTION - Le Tour,2,62
+SPRINT,SP-CRP,84,-M,Bob Jones,FRR - Spectre,2,57
+SPRINT,SP-CRP,85,-M,Tim van rennes,TBR - JumboVisma,2,56
+SPRINT,SP-CRP,86,-M,Benjamin Axt,WATTFAB - WATTFAB - LETOUR,3,52
+SPRINT,SP-CRP,87,-M,JÃ©rÃ©mie Vachon,5W4T - 5W4T,1,50
+SPRINT,SP-CRP,88,-M,David,VELOS - VELOSiraptors,2,50
+SPRINT,SP-CRP,89,-M,Mathew Bassett,COALITION - Le Tour,2,50
+SPRINT,SP-CRP,90,-M,Michiel Balcaen,COALITION - Le Tour,3,47
+SPRINT,SP-CRP,91,-M,Jakob Wilson,RELENTLESS - Taipan,1,44
+SPRINT,SP-CRP,92,-M,Matthias Seismann,TALENTF - TALENTF - LETOUR,2,44
+SPRINT,SP-CRP,93,-M,Kevin Metcalfe,COALITION - Le Tour,1,41
+SPRINT,SP-CRP,94,-M,Jason Caine,BAKPDL - BP1,2,41
+SPRINT,SP-CRP,95,-M,Davis Frease,USMES - Tour,3,38
+SPRINT,SP-CRP,96,-M,Magnus Wiklund,eSRT - eSRT - LETOUR,1,33
+SPRINT,SP-CRP,97,-M,Christian JACQUE,FFZ - FFZ Spartiate,3,32
+SPRINT,SP-CRP,98,-M,Peter Bradbury,ZSCOT - ZSCOT - LETOUR,1,32
+SPRINT,SP-CRP,99,-M,Nathan McGinty,DRAFTDINO - Dinos,2,32
+SPRINT,SP-CRP,100,-M,Neil Bennison,ABR - ABR Bloobo webdesign,1,31
+SPRINT,SP-CRP,101,-M,Christian Deschênes,5W4T - 5W4T,2,31
+SPRINT,SP-CRP,102,-M,Troy de Juncker,BAKPDL - BP1,1,25
+SPRINT,SP-CRP,103,-M,Nathan Parton,SISU - SISU - LETOUR,1,25
+SPRINT,SP-CRP,104,-M,Frank Walter,TALENTF - TALENTF - LETOUR,1,22
+SPRINT,SP-CRP,105,-M,Tom Boveree,Race3R - ACDC,1,22
+SPRINT,SP-CRP,106,-M,Myles Ward,FRR - Spectre,1,22
+SPRINT,SP-CRP,107,-M,Pedro Pinheiro,FRR - Spectre,1,19
+SPRINT,SP-CRP,108,-M,JamesLawler,WLECOL - WLECOL - LETOUR,1,19
+SPRINT,SP-CRP,109,-M,Bruno Passos,FRR - Spectre,1,19
+SPRINT,SP-GHT,1,-M,Jasmin Marinelli,5W4T - 5W4T,8,423
+SPRINT,SP-GHT,2,-M,Matt Corse,LVLESPORT - LEVEL Men,8,395
+SPRINT,SP-GHT,3,-M,Patrick Caisse,5W4T - 5W4T,8,364
+SPRINT,SP-GHT,4,-M,Maxime Turcotte,OPT - Velo Optimum,8,348
+SPRINT,SP-GHT,5,-M,Laurent LeBel,5W4T - 5W4T,7,327
+SPRINT,SP-GHT,6,-M,Wendell,USMES - Tour,8,325
+SPRINT,SP-GHT,7,-M,Colin Swan,DIRT - DIRT - LETOUR,8,312
+SPRINT,SP-GHT,8,-M,Dustin Hess,OTR - Octopi,8,308
+SPRINT,SP-GHT,9,-M,Jay Keteleers,WLECOL - WLECOL - LETOUR,8,298
+SPRINT,SP-GHT,10,-M,Luis Ma Olivares,TBW - Watopia Tour,8,292
+SPRINT,SP-GHT,11,-M,Markian Yskout,DIRT - DIRT - LETOUR,8,277
+SPRINT,SP-GHT,12,-M,Lukas Markard,SWM - SWM - LETOUR,8,275
+SPRINT,SP-GHT,13,-M,Jeremy Chaix,5W4T - 5W4T,6,273
+SPRINT,SP-GHT,14,-M,Jonathan Winward,TT1 - TT1 - LETOUR,8,262
+SPRINT,SP-GHT,15,-M,Jacket,FRR - Spectre,8,261
+SPRINT,SP-GHT,16,-M,Calle Olsen,SZ - SZ LOKE,8,261
+SPRINT,SP-GHT,17,-M,Luís Castro,TugaZ - Pico,8,252
+SPRINT,SP-GHT,18,-M,Nico Damrat,ABR - ABR Bloobo webdesign,8,249
+SPRINT,SP-GHT,19,-M,Scott Pomeroy,TFC - TFC Harriers,8,249
+SPRINT,SP-GHT,20,-M,Jean-Christophe Simard,OPT - Velo Optimum,8,242
+SPRINT,SP-GHT,21,-M,Robert Griffin,DRAFTDINO - Dinos,8,242
+SPRINT,SP-GHT,22,-M,Nathan Manyk,DIRT - DIRT - LETOUR,8,237
+SPRINT,SP-GHT,23,-M,Andrew Maljaars,EVOLUTION - Le Tour,7,236
+SPRINT,SP-GHT,24,-M,Jon Meals,TFC - TFC Harriers,8,235
+SPRINT,SP-GHT,25,-M,Kevin Broadstreet,FFZ - FFZ Spartiate,8,233
+SPRINT,SP-GHT,26,-M,Nicolas Rafael,OPT - Velo Optimum,8,228
+SPRINT,SP-GHT,27,-M,Neil Hodgson,OTR - Snowflakes,8,227
+SPRINT,SP-GHT,28,-M,Johan Löwenhamn,SZ - SZ LOKE,7,227
+SPRINT,SP-GHT,29,-M,Samuel Dupuis,LWATT - E-mmortels,7,225
+SPRINT,SP-GHT,30,-M,Martin Ward,ATWT - ATWT - LETOUR,8,225
+SPRINT,SP-GHT,31,-M,Peter Salt,CCC - CCC - LETOUR,8,223
+SPRINT,SP-GHT,32,-M,Felix,WATTFAB - WATTFAB - LETOUR,8,220
+SPRINT,SP-GHT,33,-M,Alexandre Dumont,5W4T - 5W4T,8,216
+SPRINT,SP-GHT,34,-M,Jon Telfer,FRR - Spectre,8,216
+SPRINT,SP-GHT,35,-M,Rui Azevedo,TugaZ - Pico,6,215
+SPRINT,SP-GHT,36,-M,Niels Harbs,WATTFAB - WATTFAB - LETOUR,6,211
+SPRINT,SP-GHT,37,-M,Chris Harnish,FRR - Spectre,8,209
+SPRINT,SP-GHT,38,-M,Martin Coffey,FRR - Spectre,7,209
+SPRINT,SP-GHT,39,-M,Stewart White,TFC - TFC Harriers,8,205
+SPRINT,SP-GHT,40,-M,Eric Detrick,FRR - Spectre,6,202
+SPRINT,SP-GHT,41,-M,DAVID LAMINETTE  FFZ,FFZ - FFZ Spartiate,7,201
+SPRINT,SP-GHT,42,-M,Florian Halstenbach,KIRCHMAIR - KIRCHMAIR - LETOUR,7,198
+SPRINT,SP-GHT,43,-M,Pedro Nunes,TugaZ - Pico,7,194
+SPRINT,SP-GHT,44,-M,Jens Schumann,WATTFAB - WATTFAB - LETOUR,8,192
+SPRINT,SP-GHT,45,-M,Fredrik Nygren,SZ - SZ LOKE,8,189
+SPRINT,SP-GHT,46,-M,Thomas Scholz,RCP - RC Pfeil Rebellunas 1,8,187
+SPRINT,SP-GHT,47,-M,Christian Müller,ABR - ABR Bloobo webdesign,4,184
+SPRINT,SP-GHT,48,-M,Duende Santana,FRR - Spectre,8,182
+SPRINT,SP-GHT,49,-M,Peter Holzmann,WLBB - WLBB - LETOUR,4,177
+SPRINT,SP-GHT,50,-M,Robert Taylor,ZSCOT - ZSCOT - LETOUR,8,175
+SPRINT,SP-GHT,51,-M,David Browne,PCH - PCH - LETOUR,8,174
+SPRINT,SP-GHT,52,-M,Robert Egelnor,SZ - SZ LOKE,5,169
+SPRINT,SP-GHT,53,-M,Janne HÃ¶ijer Jakobsson,eSRT - eSRT - LETOUR,7,169
+SPRINT,SP-GHT,54,-M,Eltjo Biemold,ZSUNR - ZSUNR - LETOUR,8,168
+SPRINT,SP-GHT,55,-M,Tom Durham,ATWT - ATWT - LETOUR,8,167
+SPRINT,SP-GHT,56,-M,Kieran Ronan,CRCAF - CRCAF - LETOUR,7,160
+SPRINT,SP-GHT,57,-M,Josh Mahlandt,OTR - Octopi,8,159
+SPRINT,SP-GHT,58,-M,Ossie Assem,EVOLUTION - Le Tour,8,156
+SPRINT,SP-GHT,59,-M,Antonio Dias,TugaZ - Pico,8,150
+SPRINT,SP-GHT,60,-M,Joe Woodson,DRAFTDINO - Dinos,6,147
+SPRINT,SP-GHT,61,-M,Kevin Horsley,WLECOL - WLECOL - LETOUR,8,146
+SPRINT,SP-GHT,62,-M,Rob Millar,OTR - Octopi,7,145
+SPRINT,SP-GHT,63,-M,Luis Barbosa,TugaZ - Pico,7,144
+SPRINT,SP-GHT,64,-M,Mattias Forslin,FRR - Spectre,8,141
+SPRINT,SP-GHT,65,-M,Espouy,FFZ - FFZ Spartiate,5,141
+SPRINT,SP-GHT,66,-M,Greg Welton,OTR - Snowflakes,8,141
+SPRINT,SP-GHT,67,-M,Magnus Boucsein,TALENTF - TALENTF - LETOUR,3,140
+SPRINT,SP-GHT,68,-M,Erik John,TFC - TFC Harriers,3,139
+SPRINT,SP-GHT,69,-M,Chris Rüter,WATTFAB - WATTFAB - LETOUR,8,138
+SPRINT,SP-GHT,70,-M,Fernando Cortes,FRR - Spectre,8,135
+SPRINT,SP-GHT,71,-M,Jonathan Grenier,5W4T - 5W4T,7,134
+SPRINT,SP-GHT,72,-M,Chris H,HERD - HERD - LETOUR,8,133
+SPRINT,SP-GHT,73,-M,Thomas Muraton,OPT - Velo Optimum,7,133
+SPRINT,SP-GHT,74,-M,Sean Phillips,DIRT - DIRT - LETOUR,2,133
+SPRINT,SP-GHT,75,-M,Edward Hems,COALITION - Le Tour,3,133
+SPRINT,SP-GHT,76,-M,Oliver Kiefer,ALPENTVC - AVC-Hippos,4,132
+SPRINT,SP-GHT,77,-M,Chris Shelton,OTR - Snowflakes,6,132
+SPRINT,SP-GHT,78,-M,Sven-Bertil Forsberg,SZ - SZ LOKE,7,129
+SPRINT,SP-GHT,79,-M,Oliver Tobian,ALPENTVC - AVC-Hippos,7,128
+SPRINT,SP-GHT,80,-M,Thomas Schulz,CRCAF - CRCAF - LETOUR,7,127
+SPRINT,SP-GHT,81,-M,JJ,ABR - ABR Bloobo webdesign,8,119
+SPRINT,SP-GHT,82,-M,Shaun Yeoman,TFC - TFC Harriers,5,117
+SPRINT,SP-GHT,83,-M,James Esbester,WELLW - WELLW - LETOUR,6,117
+SPRINT,SP-GHT,84,-M,Martijn Wiggers,AMANI - AMANI - LETOUR,4,115
+SPRINT,SP-GHT,85,-M,Kent Langridge,TFC - TFC Harriers,4,114
+SPRINT,SP-GHT,86,-M,Paul Graham,WELLW - WELLW - LETOUR,6,114
+SPRINT,SP-GHT,87,-M,Iain Sully,DIRT - DIRT - LETOUR,1,112
+SPRINT,SP-GHT,88,-M,Cory Dams,RELENTLESS - Taipan,6,112
+SPRINT,SP-GHT,89,-M,Matt Nelson,RELENTLESS - Taipan,5,108
+SPRINT,SP-GHT,90,-M,Kevin Davis,USMES - Tour,7,107
+SPRINT,SP-GHT,91,-M,Erwin Bootsmann,RCP - RC Pfeil Rebellunas 1,6,106
+SPRINT,SP-GHT,92,-M,Alessandro campana,PCH - PCH - LETOUR,6,106
+SPRINT,SP-GHT,93,-M,Steve Cambria,CRCAF - CRCAF - LETOUR,8,100
+SPRINT,SP-GHT,94,-M,Sacha Ouimet,5W4T - 5W4T,3,98
+SPRINT,SP-GHT,95,-M,David Higgins,TBR - JumboVisma,5,97
+SPRINT,SP-GHT,96,-M,Matthew Ladd,COALITION - Le Tour,8,95
+SPRINT,SP-GHT,97,-M,Gary Haydon,CRYO-GEN - Lancelot,5,90
+SPRINT,SP-GHT,98,-M,Neil Atherton,COALITION - Le Tour,3,89
+SPRINT,SP-GHT,99,-M,Philippe Ponsot,OPT - Velo Optimum,5,88
+SPRINT,SP-GHT,100,-M,Stuart Bulloch,Race3R - ACDC,5,86
+SPRINT,SP-GHT,101,-M,Francesco Roberto Bell,RELENTLESS - Taipan,4,84
+SPRINT,SP-GHT,102,-M,Andrew Harry,ZIRT - ZIRT Uno,7,84
+SPRINT,SP-GHT,103,-M,Tom Monta,CRYO-GEN - Lancelot,2,83
+SPRINT,SP-GHT,104,-M,Joseph Anthony,RELENTLESS - Taipan,5,83
+SPRINT,SP-GHT,105,-M,David Gillam,TT1 - TT1 - LETOUR,2,83
+SPRINT,SP-GHT,106,-M,S. Lebeau,FFZ - FFZ Spartiate,5,83
+SPRINT,SP-GHT,107,-M,Dennis 7B,EVOLUTION - Le Tour,6,82
+SPRINT,SP-GHT,108,-M,Marco Von Rickenbach,KIRCHMAIR - KIRCHMAIR - LETOUR,4,82
+SPRINT,SP-GHT,109,-M,Tiago SILVA,FRR - Spectre,1,79
+SPRINT,SP-GHT,110,-M,Vincent Kirste,WATTFAB - WATTFAB - LETOUR,5,78
+SPRINT,SP-GHT,111,-M,Michael da Silva Gunther,CRYO-GEN - Lancelot,4,76
+SPRINT,SP-GHT,112,-M,Michael Haar,KIRCHMAIR - KIRCHMAIR - LETOUR,2,71
+SPRINT,SP-GHT,113,-M,Dan robathan,DIRT - DIRT - LETOUR,2,71
+SPRINT,SP-GHT,114,-M,Andre Landry,5W4T - 5W4T,2,69
+SPRINT,SP-GHT,115,-M,Harm Verhoeven,TEAMCLS - Vitesse verte,4,68
+SPRINT,SP-GHT,116,-M,Kenneth Cools,COALITION - Le Tour,2,68
+SPRINT,SP-GHT,117,-M,Rui Dias,FRR - Spectre,4,67
+SPRINT,SP-GHT,118,-M,Jonathan Milberg,SWM - SWM - LETOUR,3,67
+SPRINT,SP-GHT,119,-M,Alex Wiseman,CRCAF - CRCAF - LETOUR,3,66
+SPRINT,SP-GHT,120,-M,Kendrew Leung,DIRT - DIRT - LETOUR,4,64
+SPRINT,SP-GHT,121,-M,René Meijer,AMANI - AMANI - LETOUR,4,63
+SPRINT,SP-GHT,122,-M,Andy Stewart,RELENTLESS - Taipan,2,61
+SPRINT,SP-GHT,123,-M,Sean van der Plas,AMANI - AMANI - LETOUR,5,58
+SPRINT,SP-GHT,124,-M,Stevie Cobb,ATWT - ATWT - LETOUR,4,58
+SPRINT,SP-GHT,125,-M,Michael Haran,BAKPDL - BP1,2,58
+SPRINT,SP-GHT,126,-M,Sören Schumacher,VEGAN - VEGAN - LETOUR,2,57
+SPRINT,SP-GHT,127,-M,Samuel Wirawibawa,ZIRT - ZIRT Uno,7,55
+SPRINT,SP-GHT,128,-M,Fredrik Ringström,SZ - SZ LOKE,2,54
+SPRINT,SP-GHT,129,-M,Anders PetersÃ©n,SZ - SZ LOKE,5,53
+SPRINT,SP-GHT,130,-M,Bob Dickhoff,WLECOL - WLECOL - LETOUR,2,53
+SPRINT,SP-GHT,131,-M,Tim Ellis,DIRT - DIRT - LETOUR,3,51
+SPRINT,SP-GHT,132,-M,Julian Rampelmann,CRCAF - CRCAF - LETOUR,3,50
+SPRINT,SP-GHT,133,-M,Victor Charlie,AMANI - AMANI - LETOUR,4,48
+SPRINT,SP-GHT,134,-M,Martin RanefjÃ¤rd,SZ - SZ LOKE,1,48
+SPRINT,SP-GHT,135,-M,Henrik Engelsen,FRR - Spectre,2,45
+SPRINT,SP-GHT,136,-M,Andrew Rayner,EVOLUTION - Le Tour,4,45
+SPRINT,SP-GHT,137,-M,Nick Benham,RELENTLESS - Taipan,1,39
+SPRINT,SP-GHT,138,-M,Reinold Bürki,WATTFAB - WATTFAB - LETOUR,4,39
+SPRINT,SP-GHT,139,-M,Truls Gronvold,FRR - Spectre,2,39
+SPRINT,SP-GHT,140,-M,giulio strazzulla,FOUDRE - FOUDRE - LETOUR,1,33
+SPRINT,SP-GHT,141,-M,Joel Harding,USMES - Tour,3,33
+SPRINT,SP-GHT,142,-M,Andreas Kuntz,FRR - Spectre,2,32
+SPRINT,SP-GHT,143,-M,Dejan Presen,Race3R - ACDC,2,31
+SPRINT,SP-GHT,144,-M,Ant Jenkins,SISU - SISU - LETOUR,2,31
+SPRINT,SP-GHT,145,-M,Stephan Hussmann,FRR - Spectre,4,30
+SPRINT,SP-GHT,146,-M,Mikael Herling,eSRT - eSRT - LETOUR,2,29
+SPRINT,SP-GHT,147,-M,Steve Carson,Race3R - ACDC,3,28
+SPRINT,SP-GHT,148,-M,Alfred Platzer,FRR - Spectre,2,26
+SPRINT,SP-GHT,149,-M,Magnus Andersson,SZ - SZ LOKE,3,26
+SPRINT,SP-GHT,150,-M,Florian KÃ¶rber,WLBB - WLBB - LETOUR,4,24
+SPRINT,SP-GHT,151,-M,Carl Desrosiers,5W4T - 5W4T,2,23
+SPRINT,SP-GHT,152,-M,Jordy,FRR - Spectre,1,22
+SPRINT,SP-GHT,153,-M,Reggie,FRR - Spectre,1,22
+SPRINT,SP-GHT,154,-M,Ulf Bergling,SZ - SZ LOKE,4,20
+SPRINT,SP-GHT,155,-M,Stephane lachance,LWATT - E-mmortels,3,19
+SPRINT,SP-GHT,156,-M,Tom,FRR - Spectre,1,19
+SPRINT,SP-GHT,157,-M,Simon Law,ABR - ABR Bloobo webdesign,1,17
+SPRINT,SP-GHT,158,-M,Gasper Matelic,Race3R - ACDC,2,17
+SPRINT,SP-GHT,159,-M,Björn Schaap,LVLESPORT - LEVEL Men,1,16
+SPRINT,SP-GHT,160,-M,Vincent Lavallee,OPT - Velo Optimum,2,10
+SPRINT,SP-GHT,161,-M,Thomas Janka,TALENTF - TALENTF - LETOUR,1,10
+SPRINT,SP-GHT,162,-M,Jeff Tsang,OTR - Snowflakes,3,7
+SPRINT,SP-HAB,1,-M,Julio Jimenez,ABR - ABR Bloobo webdesign,8,411
+SPRINT,SP-HAB,2,-M,Jesper Johansson,SZ - SZ LOKE,8,354
+SPRINT,SP-HAB,3,-M,Fabian H.,ABR - ABR Bloobo webdesign,8,338
+SPRINT,SP-HAB,4,-M,John O´Callaghan,ABR - ABR Bloobo webdesign,8,336
+SPRINT,SP-HAB,5,-M,Shane Lee,USMES - Tour,8,310
+SPRINT,SP-HAB,6,-M,Dan Poynton,DIRT - DIRT - LETOUR,8,308
+SPRINT,SP-HAB,7,-M,Henrik Tullborg,SZ - SZ LOKE,8,285
+SPRINT,SP-HAB,8,-M,Ralph Matecki,FRR - Spectre,8,278
+SPRINT,SP-HAB,9,-M,Schneemann,TALENTF - TALENTF - LETOUR,8,276
+SPRINT,SP-HAB,10,-M,Brian Glancy,FRR - Spectre,8,274
+SPRINT,SP-HAB,11,-M,Mike Box,BURRITO - BURRITO - LETOUR,8,273
+SPRINT,SP-HAB,12,-M,Dirk Seifried,ALPENTVC - AVC-Hippos,8,272
+SPRINT,SP-HAB,13,-M,Morten Monsrud-Nielsen,CRCAF - CRCAF - LETOUR,8,265
+SPRINT,SP-HAB,14,-M,Ricky Klingvall,eSRT - eSRT - LETOUR,8,260
+SPRINT,SP-HAB,15,-M,Richard Vale,Race3R - ACDC,8,257
+SPRINT,SP-HAB,16,-M,Akihiro Shinki,PCH - PCH - LETOUR,8,256
+SPRINT,SP-HAB,17,-M,Dominic LarrivÃ©e,LWATT - E-mmortels,8,256
+SPRINT,SP-HAB,18,-M,Bob Jongeneel,TFC - TFC Harriers,8,254
+SPRINT,SP-HAB,19,-M,Martin Grieger,ALPENTVC - AVC-Hippos,8,252
+SPRINT,SP-HAB,20,-M,Jose Teixeira,TugaZ - Pico,8,252
+SPRINT,SP-HAB,21,-M,Mick Woods,TFC - TFC Harriers,8,251
+SPRINT,SP-HAB,22,-M,Mark Feeney,COALITION - Le Tour,7,251
+SPRINT,SP-HAB,23,-M,Thomas Hebestreit,TALENTF - TALENTF - LETOUR,8,247
+SPRINT,SP-HAB,24,-M,Sam Mack,BPCC - BPCC - LETOUR,8,243
+SPRINT,SP-HAB,25,-M,david bird,WLECOL - WLECOL - LETOUR,8,242
+SPRINT,SP-HAB,26,-M,Christian Christoph,SWM - SWM - LETOUR,8,240
+SPRINT,SP-HAB,27,-M,Graeme Crane,ZSCOT - ZSCOT - LETOUR,8,238
+SPRINT,SP-HAB,28,-M,Fabio Santos,TugaZ - Pico,8,235
+SPRINT,SP-HAB,29,-M,Christopher Booth,EVOLUTION - Le Tour,8,234
+SPRINT,SP-HAB,30,-M,Frank Schweinheim,FRR - Spectre,8,232
+SPRINT,SP-HAB,31,-M,Andy Erickson (RC),CRCAF - CRCAF - LETOUR,8,231
+SPRINT,SP-HAB,32,-M,Zafar Siddiqui,TFC - TFC Harriers,5,231
+SPRINT,SP-HAB,33,-M,Lars Schrödel,ALPENTVC - AVC-Hippos,7,229
+SPRINT,SP-HAB,34,-M,Albert Chan,OTR - Octopi,8,229
+SPRINT,SP-HAB,35,-M,James Hilton,LVLESPORT - LEVEL Men,7,226
+SPRINT,SP-HAB,36,-M,Kevin jones [ BON],WELLW - WELLW - LETOUR,8,222
+SPRINT,SP-HAB,37,-M,Luis Rosado,TugaZ - Pico,8,217
+SPRINT,SP-HAB,38,-M,Gregor Simpson,ZSCOT - ZSCOT - LETOUR,8,217
+SPRINT,SP-HAB,39,-M,Henning | A-Team,FRR - Spectre,6,216
+SPRINT,SP-HAB,40,-M,Dean hunt,ABR - ABR Bloobo webdesign,8,212
+SPRINT,SP-HAB,41,-M,Jonathan Flavin,USMES - Tour,8,211
+SPRINT,SP-HAB,42,-M,Rene Benz,WATTFAB - WATTFAB - LETOUR,5,203
+SPRINT,SP-HAB,43,-M,Dany Foster,LWATT - E-mmortels,6,203
+SPRINT,SP-HAB,44,-M,Nathan Joyce,ABR - ABR Bloobo webdesign,8,199
+SPRINT,SP-HAB,45,-M,Benedikt Reiffer,DIRT - DIRT - LETOUR,7,197
+SPRINT,SP-HAB,46,-M,Jeffrey Janssen,OTR - Snowflakes,7,195
+SPRINT,SP-HAB,47,-M,Adam Leech,LVLESPORT - LEVEL Men,6,191
+SPRINT,SP-HAB,48,-M,arif rizki zesfi [ZIRT],ZIRT - ZIRT Duo,8,187
+SPRINT,SP-HAB,49,-M,g isenbarg,USMES - Tour,8,183
+SPRINT,SP-HAB,50,-M,Thomas Christiansen,FRR - Spectre,8,183
+SPRINT,SP-HAB,51,-M,Lucky S,ZIRT - ZIRT Uno,8,183
+SPRINT,SP-HAB,52,-M,Alexandre Branco,TugaZ - Pico,8,182
+SPRINT,SP-HAB,53,-M,Chris Hoiberg,TBR - JumboVisma,8,180
+SPRINT,SP-HAB,54,-M,Nick O'Connell,LVLESPORT - LEVEL Men,8,179
+SPRINT,SP-HAB,55,-M,Brendan Parker,Race3R - ACDC,6,175
+SPRINT,SP-HAB,56,-M,Peter Sjostrom,ABR - ABR Bloobo webdesign,8,174
+SPRINT,SP-HAB,57,-M,Paul Peppard,CRYO-GEN - Lancelot,8,173
+SPRINT,SP-HAB,58,-M,James Ranger,RELENTLESS - Taipan,5,171
+SPRINT,SP-HAB,59,-M,Erik Schulz,FRR - Spectre,8,171
+SPRINT,SP-HAB,60,-M,Hugo Angelina,TBW - Watopia Tour,8,168
+SPRINT,SP-HAB,61,-M,Dean Hardie,TFC - TFC Harriers,7,166
+SPRINT,SP-HAB,62,-M,James Farren,ABR - ABR Bloobo webdesign,4,165
+SPRINT,SP-HAB,63,-M,Martin Poettgen,KIRCHMAIR - KIRCHMAIR - LETOUR,7,164
+SPRINT,SP-HAB,64,-M,Colin Cunningham,BPCC - BPCC - LETOUR,8,162
+SPRINT,SP-HAB,65,-M,RIJAN Emmanuel,HEX - HEX - LETOUR,7,159
+SPRINT,SP-HAB,66,-M,Gary Birch,EVOLUTION - Le Tour,5,156
+SPRINT,SP-HAB,67,-M,Alex James,CRYO-GEN - Lancelot,4,156
+SPRINT,SP-HAB,68,-M,Irwan Budiman,ZIRT - ZIRT Uno,8,153
+SPRINT,SP-HAB,69,-M,Greg CARLITO,FFZ - FFZ Spartiate,5,149
+SPRINT,SP-HAB,70,-M,Mathieu Alarie,OPT - Velo Optimum,7,149
+SPRINT,SP-HAB,71,-M,Roy Imahara,BPCC - BPCC - LETOUR,8,145
+SPRINT,SP-HAB,72,-M,Mathieu Fournier G,LWATT - E-mmortels,4,141
+SPRINT,SP-HAB,73,-M,Torsten Boeswetter,KIRCHMAIR - KIRCHMAIR - LETOUR,7,141
+SPRINT,SP-HAB,74,-M,Jan van Doeselaar,COALITION - Le Tour,4,141
+SPRINT,SP-HAB,75,-M,guy junior beauvais,OPT - Velo Optimum,6,139
+SPRINT,SP-HAB,76,-M,Nate Wick,LVLESPORT - LEVEL Men,5,134
+SPRINT,SP-HAB,77,-M,Domenico Spano,VEGAN - VEGAN - LETOUR,6,133
+SPRINT,SP-HAB,78,-M,Guilherme Pereira,TugaZ - Pico,5,131
+SPRINT,SP-HAB,79,-M,Christian Lemyre,LWATT - Phoenix,8,129
+SPRINT,SP-HAB,80,-M,Ed England,eSRT - eSRT - LETOUR,8,126
+SPRINT,SP-HAB,81,-M,Tom Elliott,ZSUNR - ZSUNR - LETOUR,8,126
+SPRINT,SP-HAB,82,-M,Ronnie Reynolds,FRR - Spectre,8,126
+SPRINT,SP-HAB,83,-M,Casey Burton,OTR - Snowflakes,6,126
+SPRINT,SP-HAB,84,-M,Bram van Montfort,VEGAN - VEGAN - LETOUR,5,125
+SPRINT,SP-HAB,85,-M,Thomas Schneider,RCP - RC Pfeil Rebellunas 1,3,124
+SPRINT,SP-HAB,86,-M,Randy Hermann,BPCC - BPCC - LETOUR,4,120
+SPRINT,SP-HAB,87,-M,Andy Winterbottom,WELLW - WELLW - LETOUR,7,119
+SPRINT,SP-HAB,88,-M,Edu Harms,WLECOL - WLECOL - LETOUR,7,117
+SPRINT,SP-HAB,89,-M,Derek Cobb,LVLESPORT - LEVEL Men,8,116
+SPRINT,SP-HAB,90,-M,Michael SchÃ¼bel,ALPENTVC - AVC-Hippos,3,115
+SPRINT,SP-HAB,91,-M,Sébastien Filion,LWATT - E-mmortels,6,111
+SPRINT,SP-HAB,92,-M,Ralf Damrat,ABR - ABR Bloobo webdesign,8,108
+SPRINT,SP-HAB,93,-M,Bernd Mayer,ABR - ABR Bloobo webdesign,4,102
+SPRINT,SP-HAB,94,-M,Steve Ripley,EVOLUTION - Le Tour,6,101
+SPRINT,SP-HAB,95,-M,Ryan Manongdo,OTR - Octopi,2,100
+SPRINT,SP-HAB,96,-M,Weber Mark,SWM - SWM - LETOUR,5,95
+SPRINT,SP-HAB,97,-M,Chris Jasinski,EVOLUTION - Le Tour,4,93
+SPRINT,SP-HAB,98,-M,Langgo Farid,ZIRT - ZIRT Duo,6,92
+SPRINT,SP-HAB,99,-M,Stijn Bollen,FRR - Spectre,4,91
+SPRINT,SP-HAB,100,-M,Andreas Kasperek,ALPENTVC - AVC-Hippos,4,85
+SPRINT,SP-HAB,101,-M,Julius Küchler,SWM - SWM - LETOUR,3,83
+SPRINT,SP-HAB,102,-M,Marc Böhret,WATTFAB - WATTFAB - LETOUR,6,80
+SPRINT,SP-HAB,103,-M,John fickling,WLECOL - WLECOL - LETOUR,6,77
+SPRINT,SP-HAB,104,-M,Tommy,DIRT - DIRT - LETOUR,5,77
+SPRINT,SP-HAB,105,-M,Ryan Howard,BPCC - BPCC - LETOUR,5,77
+SPRINT,SP-HAB,106,-M,Beretio Thebe,FRR - Spectre,6,72
+SPRINT,SP-HAB,107,-M,Chris Gambs,WELLW - WELLW - LETOUR,6,71
+SPRINT,SP-HAB,108,-M,T.yso TBW (HAB ),TBW - Watopia Tour,4,71
+SPRINT,SP-HAB,109,-M,Paul Broom,WELLW - WELLW - LETOUR,5,68
+SPRINT,SP-HAB,110,-M,Rainer Faulstich,WATTFAB - WATTFAB - LETOUR,4,67
+SPRINT,SP-HAB,111,-M,Nicolas Santerre,SISU - SISU - LETOUR,2,64
+SPRINT,SP-HAB,112,-M,Frank Kratzer,OTR - Crazy8s,2,62
+SPRINT,SP-HAB,113,-M,Oli Stahl,RCP - RC Pfeil Rebellunas 1,4,62
+SPRINT,SP-HAB,114,-M,Robert Maas,ABR - ABR Bloobo webdesign,2,57
+SPRINT,SP-HAB,115,-M,Nicholas Keat,TFC - TFC Harriers,2,51
+SPRINT,SP-HAB,116,-M,Alan Bates,VELOS - VELOSiraptors,4,51
+SPRINT,SP-HAB,117,-M,Jürgen Wäger,WLBB - WLBB - LETOUR,2,50
+SPRINT,SP-HAB,118,-M,Bruno Carneiro,TugaZ - Pico,3,49
+SPRINT,SP-HAB,119,-M,Mike Jubb,ATWT - ATWT - LETOUR,3,48
+SPRINT,SP-HAB,120,-M,Henry,TBR - JumboVisma,3,48
+SPRINT,SP-HAB,121,-M,Daniel BjÃ¶rkman,SZ - SZ LOKE,4,48
+SPRINT,SP-HAB,122,-M,Tony Lo,EVOLUTION - Le Tour,3,47
+SPRINT,SP-HAB,123,-M,Robert Spink,WLECOL - WLECOL - LETOUR,3,44
+SPRINT,SP-HAB,124,-M,David Andrews,CRYO-GEN - Lancelot,3,39
+SPRINT,SP-HAB,125,-M,JHarvey,TBR - JumboVisma,1,38
+SPRINT,SP-HAB,126,-M,Allan Georgiou-Park,DIRT - DIRT - LETOUR,1,38
+SPRINT,SP-HAB,127,-M,Florian Meyer,TALENTF - TALENTF - LETOUR,2,38
+SPRINT,SP-HAB,128,-M,Gustaf Lindqvist,SZ - SZ LOKE,5,37
+SPRINT,SP-HAB,129,-M,Stephen Burrell,ATWT - ATWT - LETOUR,4,36
+SPRINT,SP-HAB,130,-M,Joaquim Viegas,TugaZ - Pico,2,35
+SPRINT,SP-HAB,131,-M,Don Wilkey,OTR - Snowflakes,2,35
+SPRINT,SP-HAB,132,-M,Rissyo Melandy RM,ZIRT - ZIRT Uno,2,35
+SPRINT,SP-HAB,133,-M,Richard Webster,DRAFTDINO - Dinos,5,35
+SPRINT,SP-HAB,134,-M,Jeremy Leal,OTR - Snowflakes,2,32
+SPRINT,SP-HAB,135,-M,Bas Inghels,BAKPDL - BP1,3,31
+SPRINT,SP-HAB,136,-M,Ronald Termaat,TEAMCLS - Vitesse verte,1,31
+SPRINT,SP-HAB,137,-M,Michael Frater,WATTFAB - WATTFAB - LETOUR,2,29
+SPRINT,SP-HAB,138,-M,HÃ¥kan Ohlsson,SZ - SZ LOKE,3,28
+SPRINT,SP-HAB,139,-M,Anthony Cree,EVOLUTION - Le Tour,3,27
+SPRINT,SP-HAB,140,-M,Breuil,FFZ - FFZ Spartiate,2,26
+SPRINT,SP-HAB,141,-M,Felipe (Luppe) Sanhueza,SZ - SZ LOKE,2,25
+SPRINT,SP-HAB,142,-M,Matthew Day,ABR - ABR Bloobo webdesign,4,23
+SPRINT,SP-HAB,143,-M,Ricardo Capelo,TugaZ - Pico,2,22
+SPRINT,SP-HAB,144,-M,Markus Goetz,WLBB - WLBB - LETOUR,2,20
+SPRINT,SP-HAB,145,-M,Simon Tuck,RELENTLESS - Taipan,2,20
+SPRINT,SP-HAB,146,-M,Aaron Locke,OMG - OMG avec WEZ,1,16
+SPRINT,SP-HAB,147,-M,Guillaume Letourneau,LWATT - Phoenix,4,13
+SPRINT,SP-HAB,148,-M,Michael Powell,TFC - TFC Harriers,3,13
+SPRINT,SP-HAB,149,-M,Frank Scherr,TALENTF - TALENTF - LETOUR,2,12
+SPRINT,SP-HAB,150,-M,Huub de Waard,FRR - Spectre,2,10
+SPRINT,SP-BON,1,-M,Gary Gaffel,TT1 - TT1 - LETOUR,8,382
+SPRINT,SP-BON,2,-M,Matt Cromwell,TFC - TFC Harriers,8,347
+SPRINT,SP-BON,3,-M,Dave Ronan,EVOLUTION - Le Tour,8,335
+SPRINT,SP-BON,4,-M,Jonathan Banks,TFC - TFC Harriers,7,334
+SPRINT,SP-BON,5,-M,Levente Incze,ABR - ABR Bloobo webdesign,8,329
+SPRINT,SP-BON,6,-M,Jens Lueckhof,ALPENTVC - AVC-Hippos,8,313
+SPRINT,SP-BON,7,-M,Frank Doyle,VEGAN - VEGAN - LETOUR,8,312
+SPRINT,SP-BON,8,-M,Jon Block,SISU - SISU - LETOUR,8,303
+SPRINT,SP-BON,9,-M,Patrick Wichert,WLBB - WLBB - LETOUR,8,296
+SPRINT,SP-BON,10,-M,Jens Bittner,ABR - ABR Bloobo webdesign,8,289
+SPRINT,SP-BON,11,-M,Jean-Francois Langlais,LWATT - Phoenix,7,288
+SPRINT,SP-BON,12,-M,James Balloch,COALITION - Le Tour,8,285
+SPRINT,SP-BON,13,-M,Frank Zitzelsberger,KIRCHMAIR - KIRCHMAIR - LETOUR,7,285
+SPRINT,SP-BON,14,-M,Luis Coelho,TugaZ - Pico,7,282
+SPRINT,SP-BON,15,-M,Guillaume Borduas,OPT - Velo Optimum,8,279
+SPRINT,SP-BON,16,-M,Adrian van Landbertsrode,COALITION - Le Tour,8,275
+SPRINT,SP-BON,17,-M,Huw Thomas,WELLW - WELLW - LETOUR,7,263
+SPRINT,SP-BON,18,-M,Juergen Becker,WATTFAB - WATTFAB - LETOUR,8,262
+SPRINT,SP-BON,19,-M,Andy Jones,SISU - SISU - LETOUR,8,258
+SPRINT,SP-BON,20,-M,Ludwig Kettenberger,ALPENTVC - AVC-Hippos,7,255
+SPRINT,SP-BON,21,-M,Richard Ersted,COALITION - Le Tour,8,242
+SPRINT,SP-BON,22,-M,John Atkinson,DRAFTDINO - Dinos,7,241
+SPRINT,SP-BON,23,-M,Jeffrey Budden,EVOLUTION - Le Tour,8,238
+SPRINT,SP-BON,24,-M,Douglas Munro,ZSCOT - ZSCOT - LETOUR,8,237
+SPRINT,SP-BON,25,-M,Alex Balke,OTR - Snowflakes,7,236
+SPRINT,SP-BON,26,-M,Johannes,WATTFAB - WATTFAB - LETOUR,8,233
+SPRINT,SP-BON,27,-M,Gary Cordery,COALITION - Le Tour,8,232
+SPRINT,SP-BON,28,-M,Micky Konsta,PCH - PCH - LETOUR,8,228
+SPRINT,SP-BON,29,-M,Adi Hense,TBW - Watopia Tour,8,226
+SPRINT,SP-BON,30,-M,Eric Brisebois,LWATT - Phoenix,8,223
+SPRINT,SP-BON,31,-M,Maxime LÃ©tourneau,LWATT - Phoenix,8,220
+SPRINT,SP-BON,32,-M,Wolfgang Reh,ALPENTVC - AVC-Hippos,8,214
+SPRINT,SP-BON,33,-M,José Mendes,TugaZ - Pico,8,211
+SPRINT,SP-BON,34,-M,Anders Kvale,HERD - HERD - LETOUR,8,210
+SPRINT,SP-BON,35,-M,Eric Lorenz,TFC - TFC Harriers,7,207
+SPRINT,SP-BON,36,-M,Dan Evanko,OTR - Snowflakes,5,207
+SPRINT,SP-BON,37,-M,Alexandre Gendron,LWATT - E-mmortels,7,206
+SPRINT,SP-BON,38,-M,Garry Cooper,DRAFTDINO - Dinos,8,204
+SPRINT,SP-BON,39,-M,Brian Monaghan,TFC - TFC Harriers,8,202
+SPRINT,SP-BON,40,-M,Joao Severino,TugaZ - Pico,7,201
+SPRINT,SP-BON,41,-M,Ian Greaves,OTR - Crazy8s,8,200
+SPRINT,SP-BON,42,-M,Louis-Pierre Dupuis,LWATT - Phoenix,8,199
+SPRINT,SP-BON,43,-M,Ron Gallo,OTR - Crazy8s,8,199
+SPRINT,SP-BON,44,-M,German Pizarro,OTR - Snowflakes,8,190
+SPRINT,SP-BON,45,-M,Mikael Myrsell,SZ - SZ LOKE,5,189
+SPRINT,SP-BON,46,-M,Helder Silva,TugaZ - Pico,8,185
+SPRINT,SP-BON,47,-M,Wyle Solomon,CRCAF - CRCAF - LETOUR,6,184
+SPRINT,SP-BON,48,-M,Mark Arnold,TBW - Watopia Tour,7,184
+SPRINT,SP-BON,49,-M,Keith Hardiman,VELOS - VELOSiraptors,4,184
+SPRINT,SP-BON,50,-M,Luís Marques,TugaZ - Pico,7,178
+SPRINT,SP-BON,51,-M,Charlie Marshall,ZSCOT - ZSCOT - LETOUR,8,177
+SPRINT,SP-BON,52,-M,Henrik Hansen,WELLW - WELLW - LETOUR,8,174
+SPRINT,SP-BON,53,-M,Paul Harrison,WELLW - WELLW - LETOUR,7,172
+SPRINT,SP-BON,54,-M,Micha Willer,ALPENTVC - AVC-Hippos,6,169
+SPRINT,SP-BON,55,-M,Jason Garratt,ABR - ABR Bloobo webdesign,8,168
+SPRINT,SP-BON,56,-M,Larry Tait [BON],WELLW - WELLW - LETOUR,8,166
+SPRINT,SP-BON,57,-M,Jonathan Cloutier,OPT - Velo Optimum,7,164
+SPRINT,SP-BON,58,-M,Niels Cornelisse,FRR - Spectre,8,164
+SPRINT,SP-BON,59,-M,Peter Mosbaek,RELENTLESS - Taipan,5,164
+SPRINT,SP-BON,60,-M,Jeffrey Lakerveld,AMANI - AMANI - LETOUR,4,163
+SPRINT,SP-BON,61,-M,Malte,TBR - JumboVisma,7,162
+SPRINT,SP-BON,62,-M,Peter Ferngren,SZ - SZ LOKE,6,161
+SPRINT,SP-BON,63,-M,Julien Beijer,TT1 - TT1 - LETOUR,6,161
+SPRINT,SP-BON,64,-M,Philip Plummer,CCC - CCC - LETOUR,8,154
+SPRINT,SP-BON,65,-M,Tovey Giezentanner,TFC - TFC Harriers,8,153
+SPRINT,SP-BON,66,-M,Jeffery Arnier,CRYO-GEN - Lancelot,8,147
+SPRINT,SP-BON,67,-M,JS Prenovost,LWATT - Phoenix,4,146
+SPRINT,SP-BON,68,-M,Mark Visser,PCH - PCH - LETOUR,5,142
+SPRINT,SP-BON,69,-M,Marc-Etienne Gagnon,OPT - Velo Optimum,6,142
+SPRINT,SP-BON,70,-M,Lar Hayden,TFC - TFC Harriers,6,142
+SPRINT,SP-BON,71,-M,Dave Hall,TBW - Watopia Tour,5,139
+SPRINT,SP-BON,72,-M,stefan bodin,SZ - SZ LOKE,5,134
+SPRINT,SP-BON,73,-M,lee messenger,FRR - Spectre,7,133
+SPRINT,SP-BON,74,-M,Berthold Wimmer,WLBB - WLBB - LETOUR,4,132
+SPRINT,SP-BON,75,-M,Mike Natleborg,CRCAF - CRCAF - LETOUR,8,129
+SPRINT,SP-BON,76,-M,Ricardo Machado,TugaZ - Pico,2,128
+SPRINT,SP-BON,77,-M,Leif Larsson,SZ - SZ LOKE,5,127
+SPRINT,SP-BON,78,-M,Dario Prudencio,TugaZ - Pico,7,127
+SPRINT,SP-BON,79,-M,Pat M (BON],ATWT - ATWT - LETOUR,7,124
+SPRINT,SP-BON,80,-M,Haydn Jones,Race3R - ACDC,4,120
+SPRINT,SP-BON,81,-M,Michael Beny Junior,ZIRT - ZIRT Duo,6,117
+SPRINT,SP-BON,82,-M,Ian Jervis,ZSUNR - ZSUNR - LETOUR,4,114
+SPRINT,SP-BON,83,-M,Dave Rossow,DRAFTDINO - Dinos,6,112
+SPRINT,SP-BON,84,-M,Mike Nelder,WELLW - WELLW - LETOUR,6,105
+SPRINT,SP-BON,85,-M,John Rogers,SISU - SISU - LETOUR,4,100
+SPRINT,SP-BON,86,-M,Simon Evatt,TFC - TFC Harriers,5,97
+SPRINT,SP-BON,87,-M,Brice Gary,COALITION - Le Tour,4,95
+SPRINT,SP-BON,88,-M,Richard Jones,EVOLUTION - Le Tour,3,95
+SPRINT,SP-BON,89,-M,Mike Platt,BPCC - BPCC - LETOUR,3,89
+SPRINT,SP-BON,90,-M,Anthony Nicholson,CRYO-GEN - Lancelot,4,87
+SPRINT,SP-BON,91,-M,Charlie Loignon,LWATT - Phoenix,3,86
+SPRINT,SP-BON,92,-M,Jeroen Rijk,RELENTLESS - Taipan,4,86
+SPRINT,SP-BON,93,-M,Stef Dixon,WELLW - WELLW - LETOUR,3,85
+SPRINT,SP-BON,94,-M,Stein Arvid,DRAFTDINO - Dinos,3,83
+SPRINT,SP-BON,95,-M,Andrew Mudge,EVOLUTION - Le Tour,2,80
+SPRINT,SP-BON,96,-M,Arran Leach,USMES - Tour,4,80
+SPRINT,SP-BON,97,-M,Johan Andersson,SZ - SZ LOKE,2,79
+SPRINT,SP-BON,98,-M,Simon Haaf,WLBB - WLBB - LETOUR,2,78
+SPRINT,SP-BON,99,-M,Toby Farrow,FRR - Spectre,6,78
+SPRINT,SP-BON,100,-M,Juergen Weinacht,KIRCHMAIR - KIRCHMAIR - LETOUR,3,77
+SPRINT,SP-BON,101,-M,Frank Göppinger,KIRCHMAIR - KIRCHMAIR - LETOUR,4,74
+SPRINT,SP-BON,102,-M,Shane Walker,ZSUNR - ZSUNR - LETOUR,4,73
+SPRINT,SP-BON,103,-M,John van der Veldt,AMANI - AMANI - LETOUR,3,72
+SPRINT,SP-BON,104,-M,Anthony Wooldridge,VELOS - VELOSiraptors,3,71
+SPRINT,SP-BON,105,-M,Peter Enserer,WLBB - WLBB - LETOUR,1,70
+SPRINT,SP-BON,106,-M,Danny Fritzsche,KIRCHMAIR - KIRCHMAIR - LETOUR,2,69
+SPRINT,SP-BON,107,-M,Eddie Jensen,TFC - TFC Harriers,2,68
+SPRINT,SP-BON,108,-M,Markus Schneider,ALPENTVC - AVC-Hippos,2,64
+SPRINT,SP-BON,109,-M,Antonio Superweak,TugaZ - Pico,2,60
+SPRINT,SP-BON,110,-M,Nathan Brauer,CRCAF - CRCAF - LETOUR,3,60
+SPRINT,SP-BON,111,-M,Mark,FRR - Spectre,3,56
+SPRINT,SP-BON,112,-M,Andreas Weilemann,PCH - PCH - LETOUR,2,56
+SPRINT,SP-BON,113,-M,Jan-Willem Huidink,TEAMCLS - Vitesse verte,5,54
+SPRINT,SP-BON,114,-M,Lionel Spooner,Race3R - ACDC,3,52
+SPRINT,SP-BON,115,-M,Jay O’Neil,EVOLUTION - Le Tour,5,51
+SPRINT,SP-BON,116,-M,Joe Bradshaw,AMANI - AMANI - LETOUR,3,51
+SPRINT,SP-BON,117,-M,FloWRiN [Dinos-BON],DRAFTDINO - Dinos,2,47
+SPRINT,SP-BON,118,-M,Nathan Kiger,OTR - Snowflakes,3,43
+SPRINT,SP-BON,119,-M,Edwin Euser,AMANI - AMANI - LETOUR,1,38
+SPRINT,SP-BON,120,-M,Stuart Codling,ABR - ABR Bloobo webdesign,2,37
+SPRINT,SP-BON,121,-M,Lee Dixon,BAKPDL - BP1,3,36
+SPRINT,SP-BON,122,-M,Mike Schuster,WATTFAB - WATTFAB - LETOUR,2,35
+SPRINT,SP-BON,123,-M,Paul Scully,EVOLUTION - Le Tour,1,32
+SPRINT,SP-BON,124,-M,Adrian ray,VELOS - VELOSiraptors,2,32
+SPRINT,SP-BON,125,-M,Piotr Trzciński,PCH - PCH - LETOUR,1,29
+SPRINT,SP-BON,126,-M,Marcel Marbaise,WATTFAB - WATTFAB - LETOUR,3,26
+SPRINT,SP-BON,127,-M,Mike barber,ATWT - ATWT - LETOUR,2,22
+SPRINT,SP-BON,128,-M,Pedro Pedroso,TugaZ - Pico,4,22
+SPRINT,SP-BON,129,-M,Paul Barber,WELLW - WELLW - LETOUR,1,20
+SPRINT,SP-BON,130,-M,Roger Puig Antunez,FRR - Spectre,2,19
+SPRINT,SP-BON,131,-M,Ian Brewer,BAKPDL - BP1,1,19
+SPRINT,SP-BON,132,-M,Stephan,FRR - Spectre,2,17
+SPRINT,SP-BON,133,-M,Mr. Pink,VELOS - VELOSiraptors,1,13
+SPRINT,SP-BON,134,-M,Abraham,DRAFTDINO - Dinos,3,13
+SPRINT,SP-CAY,1,-M,Jeff Edwards,TFC - TFC Harriers,7,392
+SPRINT,SP-CAY,2,-M,John Smalley,EVOLUTION - Le Tour,8,362
+SPRINT,SP-CAY,3,-M,David Gagnon,OPT - Velo Optimum,8,353
+SPRINT,SP-CAY,4,-M,James Hayes,ZSCOT - ZSCOT - LETOUR,8,336
+SPRINT,SP-CAY,5,-M,Andreas Fischer,WLBB - WLBB - LETOUR,8,335
+SPRINT,SP-CAY,6,-M,Nicolas Foisy,OPT - Velo Optimum,8,315
+SPRINT,SP-CAY,7,-M,Neil Glezer-Jones,DRAFTDINO - Dinos,8,307
+SPRINT,SP-CAY,8,-M,Damon McKay,TFC - TFC Harriers,6,303
+SPRINT,SP-CAY,9,-M,Laurence Dunford,SOCKS4W - Le Tour,7,300
+SPRINT,SP-CAY,10,-M,Matt Thomson,OTR - Crazy8s,8,298
+SPRINT,SP-CAY,11,-M,Pascal Gilbert,LWATT - E-mmortels,8,298
+SPRINT,SP-CAY,12,-M,Robert Ekberg,ZSUNR - ZSUNR - LETOUR,8,297
+SPRINT,SP-CAY,13,-M,Lars Junger,ALPENTVC - AVC-Hippos,8,287
+SPRINT,SP-CAY,14,-M,Tomek Koguc,PCH - PCH - LETOUR,8,280
+SPRINT,SP-CAY,15,-M,Glenn Houston,LWATT - Phoenix,7,270
+SPRINT,SP-CAY,16,-M,Jean Roy,LWATT - E-mmortels,8,267
+SPRINT,SP-CAY,17,-M,Jose Monteiro,TugaZ - Pico,8,264
+SPRINT,SP-CAY,18,-M,Dave Corbin,LWATT - E-mmortels,6,264
+SPRINT,SP-CAY,19,-M,Matt Armitage,CRYO-GEN - Lancelot,5,262
+SPRINT,SP-CAY,20,-M,Louis Fournaise,LWATT - E-mmortels,8,258
+SPRINT,SP-CAY,21,-M,Tom Marley,COALITION - Le Tour,8,257
+SPRINT,SP-CAY,22,-M,Barry McGuigan,ZSCOT - ZSCOT - LETOUR,8,255
+SPRINT,SP-CAY,23,-M,Mike Soukini,LWATT - E-mmortels,6,251
+SPRINT,SP-CAY,24,-M,J ohn K,TBR - JumboVisma,8,250
+SPRINT,SP-CAY,25,-M,Tam McNeish,ZSCOT - ZSCOT - LETOUR,7,247
+SPRINT,SP-CAY,26,-M,Andrew Smith,EVOLUTION - Le Tour,8,246
+SPRINT,SP-CAY,27,-M,Duncan Farley,CRYO-GEN - Lancelot,6,244
+SPRINT,SP-CAY,28,-M,Darren Ellis,CRYO-GEN - Lancelot,8,243
+SPRINT,SP-CAY,29,-M,Hal Sutherland,OTR - Snowflakes,8,243
+SPRINT,SP-CAY,30,-M,Mário Andrade,TugaZ - Pico,5,243
+SPRINT,SP-CAY,31,-M,Bob Horn,SISU - SISU - LETOUR,8,239
+SPRINT,SP-CAY,32,-M,Thomas Sachse,KIRCHMAIR - KIRCHMAIR - LETOUR,8,239
+SPRINT,SP-CAY,33,-M,Hengky Irawan,ZIRT - ZIRT Duo,8,224
+SPRINT,SP-CAY,34,-M,Philipp Foerster,FRR - Spectre,8,219
+SPRINT,SP-CAY,35,-M,Thomas Finger,WATTFAB - WATTFAB - LETOUR,6,212
+SPRINT,SP-CAY,36,-M,Mark Grasley,OTR - Snowflakes,5,212
+SPRINT,SP-CAY,37,-M,Justin Bolduc,LWATT - Phoenix,7,212
+SPRINT,SP-CAY,38,-M,Blake Chalson,BPCC - BPCC - LETOUR,6,209
+SPRINT,SP-CAY,39,-M,Christoph Bosshard,DRAFTDINO - Dinos,7,205
+SPRINT,SP-CAY,40,-M,Greg Morrow,TFC - TFC Harriers,6,199
+SPRINT,SP-CAY,41,-M,Rob Imrie,LWATT - Phoenix,7,190
+SPRINT,SP-CAY,42,-M,Jonathan Doyon,OPT - Velo Optimum,5,182
+SPRINT,SP-CAY,43,-M,Nathan Melvin,ABR - ABR Bloobo webdesign,6,173
+SPRINT,SP-CAY,44,-M,B.K. MILNE,SISU - SISU - LETOUR,6,172
+SPRINT,SP-CAY,45,-M,Andreas Kress,WLBB - WLBB - LETOUR,4,172
+SPRINT,SP-CAY,46,-M,Oliver Goßmann,WLBB - WLBB - LETOUR,6,166
+SPRINT,SP-CAY,47,-M,Johan Bäckström,SZ - SZ LOKE,5,163
+SPRINT,SP-CAY,48,-M,Stefan Bosin,WLBB - WLBB - LETOUR,3,162
+SPRINT,SP-CAY,49,-M,Juergen Pirker,KIRCHMAIR - KIRCHMAIR - LETOUR,7,161
+SPRINT,SP-CAY,50,-M,Jason Vaughan,BAKPDL - BP1,5,158
+SPRINT,SP-CAY,51,-M,Tobias Beck,FRR - Spectre,6,157
+SPRINT,SP-CAY,52,-M,Andy Baines,ABR - ABR Bloobo webdesign,5,155
+SPRINT,SP-CAY,53,-M,Gilo Clayson,ABR - ABR Bloobo webdesign,5,152
+SPRINT,SP-CAY,54,-M,John Smith,OTR - Octopi,5,151
+SPRINT,SP-CAY,55,-M,Dan Tice,DRAFTDINO - Dinos,5,138
+SPRINT,SP-CAY,56,-M,Gerhard Leeb,WLBB - WLBB - LETOUR,6,135
+SPRINT,SP-CAY,57,-M,Dirk Ehrmantraut,ALPENTVC - AVC-Hippos,5,115
+SPRINT,SP-CAY,58,-M,angelo mileto,HERD - HERD - LETOUR,2,109
+SPRINT,SP-CAY,59,-M,Andi Hakim,ZIRT - ZIRT Duo,3,108
+SPRINT,SP-CAY,60,-M,Ken deLaski,FRR - Spectre,2,101
+SPRINT,SP-CAY,61,-M,Jo Teddy,ZIRT - ZIRT Duo,3,101
+SPRINT,SP-CAY,62,-M,Herry Irpanni,ZIRT - ZIRT Duo,4,95
+SPRINT,SP-CAY,63,-M,Boen Bunawan,ZIRT - ZIRT Uno,3,93
+SPRINT,SP-CAY,64,-M,Mark Sole,ABR - ABR Bloobo webdesign,5,91
+SPRINT,SP-CAY,65,-M,Steven Robinson,CCC - CCC - LETOUR,4,89
+SPRINT,SP-CAY,66,-M,Ben Nitti,TT1 - TT1 - LETOUR,3,82
+SPRINT,SP-CAY,67,-M,Gary Joyce,ABR - ABR Bloobo webdesign,2,62
+SPRINT,SP-CAY,68,-M,Juan Mendez,DIRT - DIRT - LETOUR,3,56
+SPRINT,SP-CAY,69,-M,Tom Lawton,OTR - Octopi,2,55
+SPRINT,SP-CAY,70,-M,AndyCXR,CCC - CCC - LETOUR,1,55
+SPRINT,SP-CAY,71,-M,Arie Pandubowo,ZIRT - ZIRT Uno,2,47
+SPRINT,SP-CAY,72,-M,Paulo Costa,TugaZ - Pico,2,44
+SPRINT,SP-CAY,73,-M,Clayton Wilkinson,OTR - Crazy8s,1,38
+SPRINT,SP-CAY,74,-M,Nick Le-Mon,TFC - TFC Harriers,1,29
+SPRINT,SP-CAY,75,-M,Phil Pelgrim,TBW - Watopia Tour,1,25
+SPRINT,SP-CAY,76,-M,Kyle Hoover,DIRT - DIRT - LETOUR,1,25
+SPRINT,SP-CAY,77,-M,John Greenhalgh,ZSCOT - ZSCOT - LETOUR,1,25
+SPRINT,SP-JLP,1,-M,Mickael Vachon,OPT - Velo Optimum,8,437
+SPRINT,SP-JLP,2,-M,Gunter Haacke,FRR - Spectre,8,396
+SPRINT,SP-JLP,3,-M,Pierre Cypihot,LWATT - Phoenix,8,352
+SPRINT,SP-JLP,4,-M,Jeremy Lohman,TT1 - TT1 - LETOUR,8,332
+SPRINT,SP-JLP,5,-M,Enno Enno,WLBB - WLBB - LETOUR,8,332
+SPRINT,SP-JLP,6,-M,Jose Onofre,TugaZ - Pico,8,323
+SPRINT,SP-JLP,7,-M,Brian Walburn,FRR - Spectre,8,320
+SPRINT,SP-JLP,8,-M,Andy Craig,ZSCOT - ZSCOT - LETOUR,8,309
+SPRINT,SP-JLP,9,-M,Jack Son,DRAFTDINO - Dinos,8,299
+SPRINT,SP-JLP,10,-M,Ian Breslin,TFC - TFC Harriers,6,266
+SPRINT,SP-JLP,11,-M,Zorza,TugaZ - Pico,7,257
+SPRINT,SP-JLP,12,-M,Matt Sellors,TFC - TFC Harriers,6,237
+SPRINT,SP-JLP,13,-M,Eric Surprenant,OPT - Velo Optimum,6,232
+SPRINT,SP-JLP,14,-M,Peter Mignacca,OPT - Velo Optimum,7,231
+SPRINT,SP-JLP,15,-M,David Hill,TFC - TFC Harriers,6,220
+SPRINT,SP-JLP,16,-M,Ernst F Retief,CRYO-GEN - Lancelot,6,202
+SPRINT,SP-JLP,17,-M,Andrew Mead,TBR - JumboVisma,6,201
+SPRINT,SP-JLP,18,-M,kziere,TFC - TFC Harriers,5,199
+SPRINT,SP-JLP,19,-M,JFPINEAULT,LWATT - E-mmortels,3,191
+SPRINT,SP-JLP,20,-M,Mats Roesgaard Sjödin,WATTFAB - WATTFAB - LETOUR,4,178
+SPRINT,SP-JLP,21,-M,Moe Cascanette,DRAFTDINO - Dinos,5,169
+SPRINT,SP-JLP,22,-M,Waldemar Szewczuk,ABR - ABR Bloobo webdesign,3,158
+SPRINT,SP-JLP,23,-M,Gus Goad,WELLW - WELLW - LETOUR,4,135
+SPRINT,SP-JLP,24,-M,Steve Bowden,DRAFTDINO - Dinos,4,124
+SPRINT,SP-JLP,25,-M,Andrew Rodger,ZSCOT - ZSCOT - LETOUR,3,97
+SPRINT,SP-JLP,26,-M,Ike Messmore,TFC - TFC Harriers,2,66
+SPRINT,SP-PEP,1,-M,B B,DRAFTDINO - Dinos,8,433
+SPRINT,SP-PEP,2,-M,KevinJ Brown,OTR - Crazy8s,8,376
+SPRINT,SP-PEP,3,-M,David Roberts,DRAFTDINO - Dinos,8,365
+SPRINT,SP-PEP,4,-M,Dominic Harrison,TFC - TFC Harriers,8,359
+SPRINT,SP-PEP,5,-M,Jo Laniel,OPT - Velo Optimum,8,342
+SPRINT,SP-PEP,6,-M,Raffa,TALENTF - TALENTF - LETOUR,8,319
+SPRINT,SP-PEP,7,-M,Mark Parker,TEAMCLS - Vitesse verte,8,308
+SPRINT,SP-PEP,8,-M,Andreas Kunath,WLBB - WLBB - LETOUR,8,306
+SPRINT,SP-PEP,9,-M,David Barnett,TBW - Watopia Tour,4,263
+SPRINT,SP-PEP,10,-M,Richard D’Amour,LWATT - Phoenix,6,246
+SPRINT,SP-PEP,11,-M,David Perry,TEAMCLS - Vitesse verte,6,213
+SPRINT,SP-PEP,12,-M,Bruce Dovey,SISU - SISU - LETOUR,6,209
+SPRINT,SP-PEP,13,-M,Allan Poulsen,FRR - Spectre,6,198
+SPRINT,SP-PEP,14,-M,Kevin Mothersole,DRAFTDINO - Dinos,6,194
+SPRINT,SP-PEP,15,-M,Michiel Kersten,TFC - TFC Harriers,4,183
+SPRINT,SP-PEP,16,-M,Andrew Webster,ABR - ABR Bloobo webdesign,2,180
+SPRINT,SP-PEP,17,-M,Andy Fyles,ABR - ABR Bloobo webdesign,4,177
+SPRINT,SP-PEP,18,-M,Udo Sinz,WLBB - WLBB - LETOUR,3,174
+SPRINT,SP-PEP,19,-M,Shaun Chinapen,DRAFTDINO - Dinos,6,170
+SPRINT,SP-PEP,20,-M,Scott House,HERD - HERD - LETOUR,5,169
+SPRINT,SP-PEP,21,-M,Andre As [PEP][RCP],RCP - RC Pfeil Rebellunas 1,5,165
+SPRINT,SP-PEP,22,-M,Miles Ushaw,TFC - TFC Harriers,4,165
+SPRINT,SP-PEP,23,-M,Stuart Liggins,ABR - ABR Bloobo webdesign,2,41

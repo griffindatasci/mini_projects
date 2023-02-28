@@ -1,0 +1,106 @@
+---
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE, dpi=600, fig.align='center', fig.width=5, fig.height=3.7, out.width='80%')
+source('kwh_temp.R')
+
+custom_palette <- c(
+  color_1='#ff0073',
+  color_2='#57c1ff',
+  color_3='#406370',
+  `2021`='#406370',
+  `W21`='#406370',
+  `2022`='#ff0073',
+  `W22`='#ff0073',
+  kwh='#ff0073',
+  celsius='#406370')
+
+my_theme <- function(){
+  theme_minimal() %+replace%
+    theme(
+      # Leave only major gridlines and very light grey
+      panel.grid.major=element_line(color='#00000012'),
+      panel.grid.minor=element_blank(),
+      # Add in axes on x and y
+      axis.line.x=element_line(color='#000000'),
+      axis.line.y=element_line(color='#000000'),
+      axis.ticks=element_blank(),
+      # Position legend inside plot
+      legend.position=c('bottom'),
+      legend.justification='right',
+      legend.margin=margin(5,20,5,10),
+      legend.box.margin=margin(5,0,10,10),
+      #legend.title=element_blank(),
+      legend.background=element_rect(fill='#00000006', color='#00000012')
+    )
+}
+
+```
+
+## Why is my electricity consumption down this winter?
+
+Each month, my electricity bill is delivered with a plot like the one below &mdash; it shows the amount of electricity consumed (in kilowatt-hours, kwh) per month since we moved in. Since summer ended in 2022, we have seen consistently lower consumption than we did the previous year.
+
+```{r vattenfall, echo=FALSE, cache=FALSE}
+plot_vattenfall + 
+  my_theme() +  
+  scale_fill_manual(values=custom_palette, name='')
+```
+
+#### Two likely causes
+
+**Outside Temperature:** Our heating system is the single biggest consumer of electricity in our home. It uses electricity to heat water which is circulated radiators. The boiler determines warm that water will be on the basis of the outside temperature &mdash; **heating the water more, and using more energy, on colder days.**
+
+**Heating Curve:** We can also set the strength of the heating, altering how much it will heat the water in response to the outside temperature by setting a parameter in the system called the "heating curve". Roughly, the water is heated to 0.16&deg;C &times; *h* + 20, where *h* is the heating curve value (between 0 and 10), for every degree below 20&deg;C outside. The figure below illustrates this for a few example values of *h*. We have been gradually **lowering this curve value to reduce electricity consumption** in recent months.
+
+```{r heating_curve, echo=FALSE, cache=FALSE}
+# Temperature of water in radiator system detmerined by outside temperature (ot)
+#    and heating curve (hc, default = 4)
+radiator_temperature <- function(ot, hc=4){
+  20-0.16*hc*(ot-20)
+}
+
+rad_data <- data.table(hc=rep(1:10, each=451), ot=rep(seq(20,-25,-0.1), times=10))[, .(ot, hc, 'ht'=radiator_temperature(ot, hc))]
+rad_data[ht>80, ht:=80]
+rad_data[ht<20, ht:=20]
+
+ggplot(rad_data[hc%%2==0&hc<10], aes(x=ot, y=ht, color=as.factor(hc)))+
+  geom_line() + 
+  my_theme() + 
+  labs(x='Outside Temperature (C)', y='Heating Temperature (C)', color='Heating Curve')
+
+```
+
+#### Focal Question:
+
+> **Is our electricity consumption reducing because of warmer weather and/or lowered heating?**
+
+The figure from our electricity provider does not allow us to know why our electricity consumption is down. It may be down just because it has been a warm winter.
+
+
+#### Datasets
+
+I need two pieces of data to answer my question. First I need data showing our daily electricity consumption. This comes as from the [Swedish electricity distributor, Vattenfall](https://www.vattenfalleldistribution.se/). The other data I need is climate data, showing daily temperature here in Vänersborg. Climate data comes from the [Swedish meteorlogical and hydrological institute, SMHI](https://www.smhi.se/data/meteorologi/ladda-ner-meteorologiska-observationer#param=airtemperatureInstant,stations=core,stationid=82230).
+
+
+```{r}
+plot_annual + 
+  my_theme() + 
+  scale_color_manual(name="Variable", 
+                     labels=c('Temperature (C)', 'Electricity Use (kWh)'), 
+                     values=custom_palette)
+```
+
+
+```{r, echo=FALSE}
+plot_kwh_c_cold + 
+  my_theme() + 
+  scale_color_manual(name="Season", 
+                     labels=c('21/22', '22/23'),
+                     values=custom_palette)
+```
+
+
+

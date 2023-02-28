@@ -1,0 +1,861 @@
+X1,X2,X3,X4,X5,X6,X7,X8
+POLKA,PK-CAP,1,-M,Stefan Kirchmair,KIRCHMAIR - KIRCHMAIR - LETOUR,8,519
+POLKA,PK-CAP,2,-M,Mark Elding,BL13 - BL13 - LETOUR,8,487
+POLKA,PK-CAP,3,-M,Ben Russell,WLECOL - WLECOL - LETOUR,8,464
+POLKA,PK-CAP,4,-M,Teppo Laurio,WLECOL - WLECOL - LETOUR,8,461
+POLKA,PK-CAP,5,-M,Daniel Mundell,BL13 - BL13 - LETOUR,8,444
+POLKA,PK-CAP,6,-M,Nico Peller,KIRCHMAIR - KIRCHMAIR - LETOUR,8,420
+POLKA,PK-CAP,7,-M,Arne,COALITION - Beta,8,412
+POLKA,PK-CAP,8,-M,Rinus Verhelle,RELENTLESS - Taipan,8,406
+POLKA,PK-CAP,9,-M,Andrew Dinsmore,TFC - TFC Harriers,8,386
+POLKA,PK-CAP,10,-M,Ritter Moritz,SWM - SWM - LETOUR,7,386
+POLKA,PK-CAP,11,-M,Brett boniface,OMG - OMG avec WEZ,6,384
+POLKA,PK-CAP,12,-M,Arend Cocquyt,BAKPDL - BP1,8,384
+POLKA,PK-CAP,13,-M,Cedric RICHARD,HEX - HEX - LETOUR,8,384
+POLKA,PK-CAP,14,-M,Diogo Calçada,FRR - Spectre,8,383
+POLKA,PK-CAP,15,-M,Kjell Gunnar Gjerdal,EVOLUTION - Warriors,8,378
+POLKA,PK-CAP,16,-M,Thomas Wagner,FRR - Spectre,7,378
+POLKA,PK-CAP,17,-M,J. Carton CLS. CAP,TEAMCLS - Vitesse verte,8,369
+POLKA,PK-CAP,18,-M,Kalle Kadens,FRR - Spectre,8,368
+POLKA,PK-CAP,19,-M,Petar Dashev [CAP],FRR - Spectre,8,362
+POLKA,PK-CAP,20,-M,Charles-Olivier Laporte,OPT - Velo Optimum,8,361
+POLKA,PK-CAP,21,-M,James Skulczuk,BURRITO - BURRITO - LETOUR,8,360
+POLKA,PK-CAP,22,-M,Christian Grupp,TALENTF - TALENTF - LETOUR,8,360
+POLKA,PK-CAP,23,-M,a.lex,TALENTF - TALENTF - LETOUR,8,355
+POLKA,PK-CAP,24,-M,Alex Lemp,TALENTF - TALENTF - LETOUR,8,347
+POLKA,PK-CAP,25,-M,Michael Gamst,BL13 - BL13 - LETOUR,7,341
+POLKA,PK-CAP,26,-M,Michel Pinto machado,FRR - Spectre,8,341
+POLKA,PK-CAP,27,-M,Tim Shields,ABR - ABR Bloobo webdesign,8,339
+POLKA,PK-CAP,28,-M,Unknow Fellow,FRR - Spectre,8,336
+POLKA,PK-CAP,29,-M,Daniel Pinto,OMG - OMG avec WEZ,8,333
+POLKA,PK-CAP,30,-M,Matthew spooner,BL13 - BL13 - LETOUR,8,323
+POLKA,PK-CAP,31,-M,Mark Talbot,COALITION - Le Tour,8,322
+POLKA,PK-CAP,32,-M,Travis Gatesman,RELENTLESS - Taipan,8,321
+POLKA,PK-CAP,33,-M,CLAMOTE,FRR - Spectre,8,319
+POLKA,PK-CAP,34,-M,Mathias Kemnitz,FRR - Spectre,8,312
+POLKA,PK-CAP,35,-M,e Harris,TFC - TFC Harriers,8,310
+POLKA,PK-CAP,36,-M,Brian Bishop,OTR - Crazy8s,8,305
+POLKA,PK-CAP,37,-M,Gonzague PETIT,FFZ - FFZ Spartiate,8,303
+POLKA,PK-CAP,38,-M,Karl Norris,ABR - ABR Bloobo webdesign,8,297
+POLKA,PK-CAP,39,-M,Nathan Miller,RELENTLESS - Taipan,8,295
+POLKA,PK-CAP,40,-M,mickael plantureux,HEX - HEX - LETOUR,4,293
+POLKA,PK-CAP,41,-M,Adam Vogt,OTR - Snowflakes,8,292
+POLKA,PK-CAP,42,-M,Charles-Antoine Messier,5W4T - 5W4T,7,291
+POLKA,PK-CAP,43,-M,Maxime Bernard,FFZ - FFZ Spartiate,8,290
+POLKA,PK-CAP,44,-M,H. Çelebi,FRR - Spectre,8,288
+POLKA,PK-CAP,45,-M,Bart Van der Linden,OMG - OMG avec WEZ,7,288
+POLKA,PK-CAP,46,-M,Schwaiger Christian,SWM - SWM - LETOUR,6,286
+POLKA,PK-CAP,47,-M,Gustav Lindqvist,FRR - Spectre,8,283
+POLKA,PK-CAP,48,-M,Yoann Deldossi,HEX - HEX - LETOUR,6,280
+POLKA,PK-CAP,49,-M,Nate Silva,COALITION - Beta,8,279
+POLKA,PK-CAP,50,-M,Henry Uys,ZSUNR - ZSUNR - LETOUR,6,274
+POLKA,PK-CAP,51,-M,Paul Kearney,TEAMCLS - Vitesse verte,8,272
+POLKA,PK-CAP,52,-M,Joris Voorn,ZSUNR - ZSUNR - LETOUR,8,268
+POLKA,PK-CAP,53,-M,Bastian von Hayn,TALENTF - TALENTF - LETOUR,8,266
+POLKA,PK-CAP,54,-M,Thomas Davison,EVOLUTION - Warriors,8,259
+POLKA,PK-CAP,55,-M,Ben Soja,KIRCHMAIR - KIRCHMAIR - LETOUR,8,254
+POLKA,PK-CAP,56,-M,Tobias van Toledo,EVOLUTION - Warriors,8,246
+POLKA,PK-CAP,57,-M,Bastin Maxime,FFZ - FFZ Spartiate,6,244
+POLKA,PK-CAP,58,-M,Greg Morgan,EVOLUTION - Warriors,6,241
+POLKA,PK-CAP,59,-M,Andrew Perkins,LVLESPORT - LEVEL Men,8,238
+POLKA,PK-CAP,60,-M,Jan Lammers,TALENTF - TALENTF - LETOUR,6,233
+POLKA,PK-CAP,61,-M,David Cheam,EVOLUTION - Warriors,8,223
+POLKA,PK-CAP,62,-M,thomas evans,TEAMCLS - Vitesse verte,6,220
+POLKA,PK-CAP,63,-M,Ben clarke,OTR - Crazy8s,8,217
+POLKA,PK-CAP,64,-M,Adam Otstot,RELENTLESS - Taipan,6,213
+POLKA,PK-CAP,65,-M,David Henderson,OMG - OMG avec WEZ,5,212
+POLKA,PK-CAP,66,-M,Dom clarke,BURRITO - BURRITO - LETOUR,8,211
+POLKA,PK-CAP,67,-M,Duncan Johnson,OTR - Octopi,7,210
+POLKA,PK-CAP,68,-M,Michael Greiner,OMG - OMG avec WEZ,8,209
+POLKA,PK-CAP,69,-M,Patrick Schaefer,OTR - Snowflakes,7,206
+POLKA,PK-CAP,70,-M,Jared Benney (ABR),ABR - ABR Bloobo webdesign,8,203
+POLKA,PK-CAP,71,-M,Felix Gauthier,OPT - Velo Optimum,5,200
+POLKA,PK-CAP,72,-M,Adrien,FFZ - FFZ Spartiate,5,200
+POLKA,PK-CAP,73,-M,Hugues Joannis,5W4T - 5W4T,7,193
+POLKA,PK-CAP,74,-M,Martin Goikoetxea Conde,TT1 - TT1 - LETOUR,3,191
+POLKA,PK-CAP,75,-M,James Bowtell,CRCAF - CRCAF - LETOUR,8,190
+POLKA,PK-CAP,76,-M,Francis Cayouette,5W4T - 5W4T,7,187
+POLKA,PK-CAP,77,-M,Patrick Orrick,OMG - OMG avec WEZ,6,187
+POLKA,PK-CAP,78,-M,Meyckeens Sébastien,FFZ - FFZ Spartiate,4,187
+POLKA,PK-CAP,79,-M,Kial Jackson,BURRITO - BURRITO - LETOUR,3,182
+POLKA,PK-CAP,80,-M,Philipp Diethelm,RELENTLESS - Taipan,7,180
+POLKA,PK-CAP,81,-M,Luc Guilbeault,5W4T - 5W4T,4,177
+POLKA,PK-CAP,82,-M,Peter Mogg,OMG - OMG avec WEZ,8,176
+POLKA,PK-CAP,83,-M,Danies Camille,HEX - HEX - LETOUR,3,176
+POLKA,PK-CAP,84,-M,Aaron Girdlestone,EVOLUTION - Warriors,5,174
+POLKA,PK-CAP,85,-M,Pierre Courtoy,CRYO-GEN - Lancelot,2,173
+POLKA,PK-CAP,86,-M,Michel Rivard,5W4T - 5W4T,8,172
+POLKA,PK-CAP,87,-M,Josh Harris,TBW - Watopia Tour,6,170
+POLKA,PK-CAP,88,-M,Walter Simon,SWM - SWM - LETOUR,4,169
+POLKA,PK-CAP,89,-M,Alex Banville,COALITION - Beta,7,168
+POLKA,PK-CAP,90,-M,Maciek m,ZTPL - ZTPL - LETOUR,2,157
+POLKA,PK-CAP,91,-M,Mark Redfern,EVOLUTION - Le Tour,5,156
+POLKA,PK-CAP,92,-M,Charles Asselin,OPT - Velo Optimum,6,155
+POLKA,PK-CAP,93,-M,James E Furman,OTR - Snowflakes,4,154
+POLKA,PK-CAP,94,-M,Jan Steinmann,WLECOL - WLECOL - LETOUR,5,152
+POLKA,PK-CAP,95,-M,JP Durand,5W4T - 5W4T,6,148
+POLKA,PK-CAP,96,-M,Andrew Alderson,FRR - Spectre,4,145
+POLKA,PK-CAP,97,-M,Thomas Vael,ZSUNR - ZSUNR - LETOUR,3,144
+POLKA,PK-CAP,98,-M,Hannes Hamberger,VEGAN - VEGAN - LETOUR,8,143
+POLKA,PK-CAP,99,-M,Sebastien DUCASSE,FFZ - FFZ Spartiate,3,141
+POLKA,PK-CAP,100,-M,Jon Werme,eSRT - eSRT - LETOUR,5,140
+POLKA,PK-CAP,101,-M,Peter McMullan,BURRITO - BURRITO - LETOUR,5,136
+POLKA,PK-CAP,102,-M,Richard Watson,ABR - ABR Bloobo webdesign,7,135
+POLKA,PK-CAP,103,-M,Kelsey smith,RELENTLESS - Taipan,8,135
+POLKA,PK-CAP,104,-M,Paul Hamblett,BURRITO - BURRITO - LETOUR,1,134
+POLKA,PK-CAP,105,-M,Chris Dawson,WLECOL - WLECOL - LETOUR,1,126
+POLKA,PK-CAP,106,-M,Noah Balch,OTR - Octopi,3,125
+POLKA,PK-CAP,107,-M,Paoloni,FFZ - FFZ Spartiate,4,123
+POLKA,PK-CAP,108,-M,Per Sam,TEAMCLS - Vitesse verte,2,119
+POLKA,PK-CAP,109,-M,Christopher Pruitt,RELENTLESS - Taipan,2,117
+POLKA,PK-CAP,110,-M,Siegfried Pfeifer,SWM - SWM - LETOUR,6,114
+POLKA,PK-CAP,111,-M,Rusty Davis,FRR - Spectre,7,113
+POLKA,PK-CAP,112,-M,Andrew Nicholl,DIRT - DIRT - LETOUR,8,113
+POLKA,PK-CAP,113,-M,Alex Rockwell,Race3R - ACDC,4,111
+POLKA,PK-CAP,114,-M,Zack Muetterties,BL13 - BL13 - LETOUR,5,105
+POLKA,PK-CAP,115,-M,Luke Marshall,COALITION - Le Tour,4,104
+POLKA,PK-CAP,116,-M,Mark de Bruijn,RELENTLESS - Taipan,4,103
+POLKA,PK-CAP,117,-M,Nicolas Boucher,OPT - Velo Optimum,6,101
+POLKA,PK-CAP,118,-M,Marc Gates,TBW - Watopia Tour,3,101
+POLKA,PK-CAP,119,-M,Jude LaRene,OMG - OMG avec WEZ,6,100
+POLKA,PK-CAP,120,-M,Steve Shipman,Race3R - ACDC,2,99
+POLKA,PK-CAP,121,-M,Pedro Borlido,FRR - Spectre,2,97
+POLKA,PK-CAP,122,-M,Piotr Truszczyński,ZTPL - ZTPL - LETOUR,1,97
+POLKA,PK-CAP,123,-M,Samuel Le Dortz,BL13 - BL13 - LETOUR,4,94
+POLKA,PK-CAP,124,-M,Jonathan Blomqvist,eSRT - eSRT - LETOUR,4,94
+POLKA,PK-CAP,125,-M,Brett Hickford,COALITION - Beta,1,84
+POLKA,PK-CAP,126,-M,Nicolas Rousselange,TALENTF - TALENTF - LETOUR,1,70
+POLKA,PK-CAP,127,-M,Michael Painter,COALITION - Beta,2,66
+POLKA,PK-CAP,128,-M,Rui Oliveira,FRR - Spectre,2,65
+POLKA,PK-CAP,129,-M,Mason Rocca,SISU - SISU - LETOUR,1,64
+POLKA,PK-CAP,130,-M,Strasser Matthias,SWM - SWM - LETOUR,2,62
+POLKA,PK-CAP,131,-M,Matt Tomlinson,TT1 - TT1 - LETOUR,1,62
+POLKA,PK-CAP,132,-M,Samuel Tremblay,OPT - Velo Optimum,3,61
+POLKA,PK-CAP,133,-M,Dan Pedroza,OMG - OMG avec WEZ,2,61
+POLKA,PK-CAP,134,-M,Travis Samuel,WLECOL - WLECOL - LETOUR,1,60
+POLKA,PK-CAP,135,-M,Pascal Höhn,TALENTF - TALENTF - LETOUR,1,60
+POLKA,PK-CAP,136,-M,Marc Santo,TALENTF - TALENTF - LETOUR,1,56
+POLKA,PK-CAP,137,-M,Jake Saunders,RELENTLESS - Taipan,1,55
+POLKA,PK-CAP,138,-M,André Canuto,OMG - OMG avec WEZ,1,54
+POLKA,PK-CAP,139,-M,Mattias Wahlbeck,eSRT - eSRT - LETOUR,3,52
+POLKA,PK-CAP,140,-M,Felipe Nystrom,OMG - OMG avec WEZ,1,51
+POLKA,PK-CAP,141,-M,Paweł Kalita,ZTPL - ZTPL - LETOUR,1,51
+POLKA,PK-CAP,142,-M,Jacek Karluk,Race3R - ACDC,2,50
+POLKA,PK-CAP,143,-M,Jono Martin,Race3R - ACDC,3,47
+POLKA,PK-CAP,144,-M,Adil Tabalong,ZIRT - ZIRT Uno,2,46
+POLKA,PK-CAP,145,-M,Joey M,DIRT - DIRT - LETOUR,3,46
+POLKA,PK-CAP,146,-M,Abdoullah Mitiche,EVOLUTION - Warriors,1,45
+POLKA,PK-CAP,147,-M,Rasmus Raben,ABR - ABR Bloobo webdesign,2,44
+POLKA,PK-CAP,148,-M,Hugo Viort,FRR - Spectre,1,41
+POLKA,PK-CAP,149,-M,Massimiliano Wiser,TEAMCLS - Vitesse verte,1,41
+POLKA,PK-CAP,150,-M,Mark Wise,ABR - ABR Bloobo webdesign,3,40
+POLKA,PK-CAP,151,-M,Eric Flanders,OMG - OMG avec WEZ,1,39
+POLKA,PK-CAP,152,-M,Jerry Olsson,SZ - SZ LOKE,1,38
+POLKA,PK-CAP,153,-M,Lee Baxter,BURRITO - BURRITO - LETOUR,1,38
+POLKA,PK-CAP,154,-M,Uto HAMA,FRR - Spectre,1,33
+POLKA,PK-CAP,155,-M,Sammy Knockaert,FRR - Spectre,1,33
+POLKA,PK-CAP,156,-M,Chris,FRR - Spectre,1,30
+POLKA,PK-CAP,157,-M,PESCE Julien,OMG - OMG avec WEZ,1,29
+POLKA,PK-CAP,158,-M,Eric Wise,VELOS - VELOSiraptors,2,26
+POLKA,PK-CAP,159,-M,SCHMITT,FRR - Spectre,1,20
+POLKA,PK-CAP,160,-M,André Minas,FRR - Spectre,1,20
+POLKA,PK-CAP,161,-M,Alex Watts,TT1 - TT1 - LETOUR,2,19
+POLKA,PK-CAP,162,-M,Gabe Altopp,CRCAF - CRCAF - LETOUR,2,19
+POLKA,PK-CAP,163,-M,Stephen Corbyn,VELOS - VELOSiraptors,1,18
+POLKA,PK-CAP,164,-M,Gerome Romey,HEX - HEX - LETOUR,2,13
+POLKA,PK-CAP,165,-M,Anthony Hepworth,OPT - Velo Optimum,2,13
+POLKA,PK-CAP,166,-M,Anders Broberg,eSRT - eSRT - LETOUR,2,7
+POLKA,PK-CRP,1,-M,Justus Ade,SZ - SZ LOKE,8,510
+POLKA,PK-CRP,2,-M,Carl Frechette,OPT - Velo Optimum,8,510
+POLKA,PK-CRP,3,-M,Taylor Gonsoulin,OTR - Crazy8s,8,497
+POLKA,PK-CRP,4,-M,Jason Bridges,RELENTLESS - Taipan,8,494
+POLKA,PK-CRP,5,-M,Schaub Sebastian,SWM - SWM - LETOUR,8,488
+POLKA,PK-CRP,6,-M,Kris Poole,FRR - Spectre,8,486
+POLKA,PK-CRP,7,-M,David Kowalski,COALITION - Le Tour,8,450
+POLKA,PK-CRP,8,-M,Philippe Hakier,5W4T - 5W4T,8,430
+POLKA,PK-CRP,9,-M,Joseph Shields,RELENTLESS - Taipan,7,430
+POLKA,PK-CRP,10,-M,Eric Nevin,Race3R - ACDC,8,429
+POLKA,PK-CRP,11,-M,Cedrick Graham,OPT - Velo Optimum,8,428
+POLKA,PK-CRP,12,-M,Jean-Christophe Beaulieu,OPT - Velo Optimum,6,427
+POLKA,PK-CRP,13,-M,Diogo Leite,TugaZ - Pico,8,420
+POLKA,PK-CRP,14,-M,Mike robson,OTR - Crazy8s,8,418
+POLKA,PK-CRP,15,-M,Yves Niederhäuser,WLECOL - WLECOL - LETOUR,8,416
+POLKA,PK-CRP,16,-M,Christian Seyr,KIRCHMAIR - KIRCHMAIR - LETOUR,8,416
+POLKA,PK-CRP,17,-M,Leon O'Regan,ABR - ABR Bloobo webdesign,8,403
+POLKA,PK-CRP,18,-M,David Bagdan,Race3R - ACDC,8,397
+POLKA,PK-CRP,19,-M,Matthias Runge,WATTFAB - WATTFAB - LETOUR,8,383
+POLKA,PK-CRP,20,-M,Andy Styger,KIRCHMAIR - KIRCHMAIR - LETOUR,7,378
+POLKA,PK-CRP,21,-M,Alexandre Doyon,OPT - Velo Optimum,7,377
+POLKA,PK-CRP,22,-M,Paul Buckland,RELENTLESS - Taipan,7,375
+POLKA,PK-CRP,23,-M,Francis McKinnon,OPT - Velo Optimum,8,374
+POLKA,PK-CRP,24,-M,Pavel Morozov,EVOLUTION - Le Tour,8,369
+POLKA,PK-CRP,25,-M,Stephan Schweiger,WATTFAB - WATTFAB - LETOUR,8,362
+POLKA,PK-CRP,26,-M,Stefan Faulkner,WLECOL - WLECOL - LETOUR,8,361
+POLKA,PK-CRP,27,-M,Raphael Caron Asselin,OPT - Velo Optimum,7,358
+POLKA,PK-CRP,28,-M,Colin Staats,FRR - Spectre,8,358
+POLKA,PK-CRP,29,-M,Ally Loney,DIRT - DIRT - LETOUR,8,346
+POLKA,PK-CRP,30,-M,Joker Aldo Sena [ZIRT],ZIRT - ZIRT Uno,8,345
+POLKA,PK-CRP,31,-M,M.Tommis,TBR - JumboVisma,8,344
+POLKA,PK-CRP,32,-M,Christian Baum,SWM - SWM - LETOUR,8,340
+POLKA,PK-CRP,33,-M,Chris Pearce,TBR - JumboVisma,7,339
+POLKA,PK-CRP,34,-M,Mark Fenton,ABR - ABR Bloobo webdesign,8,336
+POLKA,PK-CRP,35,-M,Dan Pannell,COALITION - Le Tour,8,335
+POLKA,PK-CRP,36,-M,Daniel Manalo,OTR - Octopi,8,334
+POLKA,PK-CRP,37,-M,Christoph Hindermann,WATTFAB - WATTFAB - LETOUR,8,332
+POLKA,PK-CRP,38,-M,Neil Turner,Race3R - ACDC,6,332
+POLKA,PK-CRP,39,-M,VO2max Coaching [CRP],FRR - Spectre,5,330
+POLKA,PK-CRP,40,-M,David L Gabb,RELENTLESS - Taipan,8,326
+POLKA,PK-CRP,41,-M,Paul Chubb,BL13 - BL13 - LETOUR,6,323
+POLKA,PK-CRP,42,-M,GIS,FFZ - FFZ Spartiate,8,317
+POLKA,PK-CRP,43,-M,Jason Drummond,USMES - Tour,8,309
+POLKA,PK-CRP,44,-M,Martin Cote,LWATT - E-mmortels,8,306
+POLKA,PK-CRP,45,-M,Sylvain Lafrance,OPT - Velo Optimum,7,304
+POLKA,PK-CRP,46,-M,Guillaume Lamy,OPT - Velo Optimum,8,299
+POLKA,PK-CRP,47,-M,Paul Dubienski,SWM - SWM - LETOUR,5,288
+POLKA,PK-CRP,48,-M,Gattlen Sébastien,FFZ - FFZ Spartiate,7,288
+POLKA,PK-CRP,49,-M,Tobias Lagemann,SISU - SISU - LETOUR,8,285
+POLKA,PK-CRP,50,-M,Kevin Mullins,TT1 - TT1 - LETOUR,8,274
+POLKA,PK-CRP,51,-M,Niels Delahoutre,ABR - ABR Bloobo webdesign,6,273
+POLKA,PK-CRP,52,-M,Craig Segal,ABR - ABR Bloobo webdesign,6,271
+POLKA,PK-CRP,53,-M,Nicolas Moreno,ZSUNR - ZSUNR - LETOUR,6,270
+POLKA,PK-CRP,54,-M,Sandro LSZ,WATTFAB - WATTFAB - LETOUR,6,267
+POLKA,PK-CRP,55,-M,Matjaz Zupanic,Race3R - ACDC,6,264
+POLKA,PK-CRP,56,-M,Jonathan Bisson,5W4T - 5W4T,6,263
+POLKA,PK-CRP,57,-M,Massimo Fabbri,SOCKS4W - Le Tour,4,255
+POLKA,PK-CRP,58,-M,Jin Yamamoto,COALITION - Le Tour,8,254
+POLKA,PK-CRP,59,-M,Tom Naabe,TBR - JumboVisma,6,252
+POLKA,PK-CRP,60,-M,Ben Mackinson,ABR - ABR Bloobo webdesign,6,246
+POLKA,PK-CRP,61,-M,Dave Garguilo,CRCAF - CRCAF - LETOUR,8,232
+POLKA,PK-CRP,62,-M,Paul Hollings,EVOLUTION - Warriors,6,223
+POLKA,PK-CRP,63,-M,Grant Womack,BL13 - BL13 - LETOUR,5,209
+POLKA,PK-CRP,64,-M,Clement Desle,DIRT - DIRT - LETOUR,5,203
+POLKA,PK-CRP,65,-M,Ryan M Fiege,COALITION - Le Tour,4,196
+POLKA,PK-CRP,66,-M,DT,EVOLUTION - Warriors,3,186
+POLKA,PK-CRP,67,-M,Elton Judd,TBR - JumboVisma,6,183
+POLKA,PK-CRP,68,-M,Bill Dobson,WLECOL - WLECOL - LETOUR,5,180
+POLKA,PK-CRP,69,-M,Jason ONeill,RELENTLESS - Taipan,4,164
+POLKA,PK-CRP,70,-M,Benjamin Axt,WATTFAB - WATTFAB - LETOUR,3,160
+POLKA,PK-CRP,71,-M,Mathew Bassett,COALITION - Le Tour,2,148
+POLKA,PK-CRP,72,-M,Philipp Pene,TALENTF - TALENTF - LETOUR,5,139
+POLKA,PK-CRP,73,-M,Martin Ehmoser,TALENTF - TALENTF - LETOUR,4,130
+POLKA,PK-CRP,74,-M,Christian Deschênes,5W4T - 5W4T,2,119
+POLKA,PK-CRP,75,-M,Nelson Pinto,FRR - Spectre,2,118
+POLKA,PK-CRP,76,-M,Richy howell,LVLESPORT - LEVEL Men,3,109
+POLKA,PK-CRP,77,-M,Michiel Balcaen,COALITION - Le Tour,3,101
+POLKA,PK-CRP,78,-M,Chris Benham,RELENTLESS - Taipan,3,101
+POLKA,PK-CRP,79,-M,Robin Andersson,eSRT - eSRT - LETOUR,2,98
+POLKA,PK-CRP,80,-M,Julian Herz,WATTFAB - WATTFAB - LETOUR,1,97
+POLKA,PK-CRP,81,-M,Christian JACQUE,FFZ - FFZ Spartiate,3,92
+POLKA,PK-CRP,82,-M,Rune Jensen,KST - KST - LETOUR,1,83
+POLKA,PK-CRP,83,-M,Bob Jones,FRR - Spectre,2,82
+POLKA,PK-CRP,84,-M,Ruben Villalain,TFC - TFC Harriers,1,76
+POLKA,PK-CRP,85,-M,Alexander Vellekoop,AMANI - AMANI - LETOUR,3,72
+POLKA,PK-CRP,86,-M,Jesse Dekker,BAKPDL - BP1,3,69
+POLKA,PK-CRP,87,-M,Alden Basmajian,RELENTLESS - Taipan,3,67
+POLKA,PK-CRP,88,-M,Troy de Juncker,BAKPDL - BP1,1,66
+POLKA,PK-CRP,89,-M,JÃ©rÃ©mie Vachon,5W4T - 5W4T,1,64
+POLKA,PK-CRP,90,-M,Alex Nairz,TALENTF - TALENTF - LETOUR,3,63
+POLKA,PK-CRP,91,-M,Magnus Wiklund,eSRT - eSRT - LETOUR,1,56
+POLKA,PK-CRP,92,-M,Pedro Pinheiro,FRR - Spectre,1,56
+POLKA,PK-CRP,93,-M,Nathan Parton,SISU - SISU - LETOUR,1,55
+POLKA,PK-CRP,94,-M,Tom Boveree,Race3R - ACDC,1,54
+POLKA,PK-CRP,95,-M,Myles Ward,FRR - Spectre,1,53
+POLKA,PK-CRP,96,-M,Kevin Metcalfe,COALITION - Le Tour,1,51
+POLKA,PK-CRP,97,-M,Neil Bennison,ABR - ABR Bloobo webdesign,1,47
+POLKA,PK-CRP,98,-M,Jakob Wilson,RELENTLESS - Taipan,1,46
+POLKA,PK-CRP,99,-M,JamesLawler,WLECOL - WLECOL - LETOUR,1,44
+POLKA,PK-CRP,100,-M,Bruno Passos,FRR - Spectre,1,44
+POLKA,PK-CRP,101,-M,Frank Walter,TALENTF - TALENTF - LETOUR,1,38
+POLKA,PK-CRP,102,-M,Matthias Seismann,TALENTF - TALENTF - LETOUR,2,33
+POLKA,PK-CRP,103,-M,Tim van rennes,TBR - JumboVisma,2,33
+POLKA,PK-CRP,104,-M,Nathan McGinty,DRAFTDINO - Dinos,2,32
+POLKA,PK-CRP,105,-M,David,VELOS - VELOSiraptors,2,31
+POLKA,PK-CRP,106,-M,Jason Caine,BAKPDL - BP1,2,25
+POLKA,PK-CRP,107,-M,Peter Bradbury,ZSCOT - ZSCOT - LETOUR,1,16
+POLKA,PK-CRP,108,-M,Davis Frease,USMES - Tour,3,16
+POLKA,PK-CRP,109,-M,Unai Balenciaga,EVOLUTION - Le Tour,2,16
+POLKA,PK-GHT,1,-M,Chris Harnish,FRR - Spectre,8,477
+POLKA,PK-GHT,2,-M,Luis Ma Olivares,TBW - Watopia Tour,8,475
+POLKA,PK-GHT,3,-M,Eric Detrick,FRR - Spectre,6,471
+POLKA,PK-GHT,4,-M,Patrick Caisse,5W4T - 5W4T,8,469
+POLKA,PK-GHT,5,-M,Jacket,FRR - Spectre,8,441
+POLKA,PK-GHT,6,-M,Jens Schumann,WATTFAB - WATTFAB - LETOUR,8,435
+POLKA,PK-GHT,7,-M,Niels Harbs,WATTFAB - WATTFAB - LETOUR,6,425
+POLKA,PK-GHT,8,-M,DAVID LAMINETTE  FFZ,FFZ - FFZ Spartiate,7,417
+POLKA,PK-GHT,9,-M,Jonathan Winward,TT1 - TT1 - LETOUR,8,404
+POLKA,PK-GHT,10,-M,Neil Hodgson,OTR - Snowflakes,8,402
+POLKA,PK-GHT,11,-M,Stewart White,TFC - TFC Harriers,8,395
+POLKA,PK-GHT,12,-M,Markian Yskout,DIRT - DIRT - LETOUR,8,385
+POLKA,PK-GHT,13,-M,Jon Telfer,FRR - Spectre,8,378
+POLKA,PK-GHT,14,-M,Nicolas Rafael,OPT - Velo Optimum,8,373
+POLKA,PK-GHT,15,-M,Luís Castro,TugaZ - Pico,8,371
+POLKA,PK-GHT,16,-M,Maxime Turcotte,OPT - Velo Optimum,8,354
+POLKA,PK-GHT,17,-M,Felix,WATTFAB - WATTFAB - LETOUR,8,352
+POLKA,PK-GHT,18,-M,Laurent LeBel,5W4T - 5W4T,7,348
+POLKA,PK-GHT,19,-M,Jean-Christophe Simard,OPT - Velo Optimum,8,346
+POLKA,PK-GHT,20,-M,Andrew Maljaars,EVOLUTION - Le Tour,7,344
+POLKA,PK-GHT,21,-M,Colin Swan,DIRT - DIRT - LETOUR,8,330
+POLKA,PK-GHT,22,-M,Jon Meals,TFC - TFC Harriers,8,330
+POLKA,PK-GHT,23,-M,Antonio Dias,TugaZ - Pico,8,326
+POLKA,PK-GHT,24,-M,Fernando Cortes,FRR - Spectre,8,320
+POLKA,PK-GHT,25,-M,Lukas Markard,SWM - SWM - LETOUR,8,319
+POLKA,PK-GHT,26,-M,Samuel Dupuis,LWATT - E-mmortels,7,319
+POLKA,PK-GHT,27,-M,Calle Olsen,SZ - SZ LOKE,8,317
+POLKA,PK-GHT,28,-M,Duende Santana,FRR - Spectre,8,316
+POLKA,PK-GHT,29,-M,Fredrik Nygren,SZ - SZ LOKE,8,310
+POLKA,PK-GHT,30,-M,David Browne,PCH - PCH - LETOUR,8,310
+POLKA,PK-GHT,31,-M,Greg Welton,OTR - Snowflakes,8,309
+POLKA,PK-GHT,32,-M,Nico Damrat,ABR - ABR Bloobo webdesign,8,308
+POLKA,PK-GHT,33,-M,Eltjo Biemold,ZSUNR - ZSUNR - LETOUR,8,306
+POLKA,PK-GHT,34,-M,Janne HÃ¶ijer Jakobsson,eSRT - eSRT - LETOUR,7,298
+POLKA,PK-GHT,35,-M,Ossie Assem,EVOLUTION - Le Tour,8,290
+POLKA,PK-GHT,36,-M,Jonathan Grenier,5W4T - 5W4T,7,290
+POLKA,PK-GHT,37,-M,Kevin Broadstreet,FFZ - FFZ Spartiate,8,286
+POLKA,PK-GHT,38,-M,Robert Egelnor,SZ - SZ LOKE,5,284
+POLKA,PK-GHT,39,-M,Christian Müller,ABR - ABR Bloobo webdesign,4,282
+POLKA,PK-GHT,40,-M,Espouy,FFZ - FFZ Spartiate,5,275
+POLKA,PK-GHT,41,-M,Tom Durham,ATWT - ATWT - LETOUR,8,274
+POLKA,PK-GHT,42,-M,Johan Löwenhamn,SZ - SZ LOKE,7,273
+POLKA,PK-GHT,43,-M,Mattias Forslin,FRR - Spectre,8,266
+POLKA,PK-GHT,44,-M,Alessandro campana,PCH - PCH - LETOUR,6,265
+POLKA,PK-GHT,45,-M,Robert Taylor,ZSCOT - ZSCOT - LETOUR,8,264
+POLKA,PK-GHT,46,-M,Joe Woodson,DRAFTDINO - Dinos,6,262
+POLKA,PK-GHT,47,-M,Alexandre Dumont,5W4T - 5W4T,8,260
+POLKA,PK-GHT,48,-M,Jasmin Marinelli,5W4T - 5W4T,8,260
+POLKA,PK-GHT,49,-M,Chris H,HERD - HERD - LETOUR,8,259
+POLKA,PK-GHT,50,-M,Jeremy Chaix,5W4T - 5W4T,6,258
+POLKA,PK-GHT,51,-M,Shaun Yeoman,TFC - TFC Harriers,5,256
+POLKA,PK-GHT,52,-M,Scott Pomeroy,TFC - TFC Harriers,8,254
+POLKA,PK-GHT,53,-M,Pedro Nunes,TugaZ - Pico,7,252
+POLKA,PK-GHT,54,-M,Kieran Ronan,CRCAF - CRCAF - LETOUR,7,249
+POLKA,PK-GHT,55,-M,Chris Rüter,WATTFAB - WATTFAB - LETOUR,8,249
+POLKA,PK-GHT,56,-M,Rui Dias,FRR - Spectre,4,246
+POLKA,PK-GHT,57,-M,Chris Shelton,OTR - Snowflakes,6,245
+POLKA,PK-GHT,58,-M,Sven-Bertil Forsberg,SZ - SZ LOKE,7,244
+POLKA,PK-GHT,59,-M,Steve Cambria,CRCAF - CRCAF - LETOUR,8,243
+POLKA,PK-GHT,60,-M,Martin Coffey,FRR - Spectre,7,242
+POLKA,PK-GHT,61,-M,Kevin Davis,USMES - Tour,7,241
+POLKA,PK-GHT,62,-M,Florian Halstenbach,KIRCHMAIR - KIRCHMAIR - LETOUR,7,236
+POLKA,PK-GHT,63,-M,Nathan Manyk,DIRT - DIRT - LETOUR,8,233
+POLKA,PK-GHT,64,-M,Thomas Scholz,RCP - RC Pfeil Rebellunas 1,8,227
+POLKA,PK-GHT,65,-M,Peter Holzmann,WLBB - WLBB - LETOUR,4,225
+POLKA,PK-GHT,66,-M,Wendell,USMES - Tour,8,224
+POLKA,PK-GHT,67,-M,Joseph Anthony,RELENTLESS - Taipan,5,222
+POLKA,PK-GHT,68,-M,Rui Azevedo,TugaZ - Pico,6,222
+POLKA,PK-GHT,69,-M,Erik John,TFC - TFC Harriers,3,221
+POLKA,PK-GHT,70,-M,Robert Griffin,DRAFTDINO - Dinos,8,220
+POLKA,PK-GHT,71,-M,Matthew Ladd,COALITION - Le Tour,8,219
+POLKA,PK-GHT,72,-M,Dennis 7B,EVOLUTION - Le Tour,6,218
+POLKA,PK-GHT,73,-M,JJ,ABR - ABR Bloobo webdesign,8,217
+POLKA,PK-GHT,74,-M,Marco Von Rickenbach,KIRCHMAIR - KIRCHMAIR - LETOUR,4,212
+POLKA,PK-GHT,75,-M,Josh Mahlandt,OTR - Octopi,8,205
+POLKA,PK-GHT,76,-M,Oliver Tobian,ALPENTVC - AVC-Hippos,7,199
+POLKA,PK-GHT,77,-M,James Esbester,WELLW - WELLW - LETOUR,6,199
+POLKA,PK-GHT,78,-M,Thomas Schulz,CRCAF - CRCAF - LETOUR,7,198
+POLKA,PK-GHT,79,-M,Victor Charlie,AMANI - AMANI - LETOUR,4,198
+POLKA,PK-GHT,80,-M,Matt Corse,LVLESPORT - LEVEL Men,8,190
+POLKA,PK-GHT,81,-M,Martin Ward,ATWT - ATWT - LETOUR,8,187
+POLKA,PK-GHT,82,-M,Martijn Wiggers,AMANI - AMANI - LETOUR,4,186
+POLKA,PK-GHT,83,-M,Harm Verhoeven,TEAMCLS - Vitesse verte,4,184
+POLKA,PK-GHT,84,-M,Erwin Bootsmann,RCP - RC Pfeil Rebellunas 1,6,183
+POLKA,PK-GHT,85,-M,Kevin Horsley,WLECOL - WLECOL - LETOUR,8,181
+POLKA,PK-GHT,86,-M,Dustin Hess,OTR - Octopi,8,181
+POLKA,PK-GHT,87,-M,Luis Barbosa,TugaZ - Pico,7,179
+POLKA,PK-GHT,88,-M,Philippe Ponsot,OPT - Velo Optimum,5,176
+POLKA,PK-GHT,89,-M,Jay Keteleers,WLECOL - WLECOL - LETOUR,8,175
+POLKA,PK-GHT,90,-M,Peter Salt,CCC - CCC - LETOUR,8,175
+POLKA,PK-GHT,91,-M,David Gillam,TT1 - TT1 - LETOUR,2,174
+POLKA,PK-GHT,92,-M,Paul Graham,WELLW - WELLW - LETOUR,6,172
+POLKA,PK-GHT,93,-M,Rob Millar,OTR - Octopi,7,172
+POLKA,PK-GHT,94,-M,Thomas Muraton,OPT - Velo Optimum,7,168
+POLKA,PK-GHT,95,-M,Andrew Harry,ZIRT - ZIRT Uno,7,168
+POLKA,PK-GHT,96,-M,Matt Nelson,RELENTLESS - Taipan,5,167
+POLKA,PK-GHT,97,-M,S. Lebeau,FFZ - FFZ Spartiate,5,159
+POLKA,PK-GHT,98,-M,René Meijer,AMANI - AMANI - LETOUR,4,159
+POLKA,PK-GHT,99,-M,Cory Dams,RELENTLESS - Taipan,6,156
+POLKA,PK-GHT,100,-M,Kent Langridge,TFC - TFC Harriers,4,152
+POLKA,PK-GHT,101,-M,Samuel Wirawibawa,ZIRT - ZIRT Uno,7,151
+POLKA,PK-GHT,102,-M,Edward Hems,COALITION - Le Tour,3,144
+POLKA,PK-GHT,103,-M,Joel Harding,USMES - Tour,3,142
+POLKA,PK-GHT,104,-M,Oliver Kiefer,ALPENTVC - AVC-Hippos,4,139
+POLKA,PK-GHT,105,-M,Gary Haydon,CRYO-GEN - Lancelot,5,131
+POLKA,PK-GHT,106,-M,Vincent Kirste,WATTFAB - WATTFAB - LETOUR,5,128
+POLKA,PK-GHT,107,-M,David Higgins,TBR - JumboVisma,5,128
+POLKA,PK-GHT,108,-M,Sean Phillips,DIRT - DIRT - LETOUR,2,114
+POLKA,PK-GHT,109,-M,Alex Wiseman,CRCAF - CRCAF - LETOUR,3,113
+POLKA,PK-GHT,110,-M,Tiago SILVA,FRR - Spectre,1,111
+POLKA,PK-GHT,111,-M,Stevie Cobb,ATWT - ATWT - LETOUR,4,108
+POLKA,PK-GHT,112,-M,Ulf Bergling,SZ - SZ LOKE,4,102
+POLKA,PK-GHT,113,-M,Kenneth Cools,COALITION - Le Tour,2,95
+POLKA,PK-GHT,114,-M,Magnus Boucsein,TALENTF - TALENTF - LETOUR,3,93
+POLKA,PK-GHT,115,-M,Andy Stewart,RELENTLESS - Taipan,2,92
+POLKA,PK-GHT,116,-M,Michael Haar,KIRCHMAIR - KIRCHMAIR - LETOUR,2,91
+POLKA,PK-GHT,117,-M,Alfred Platzer,FRR - Spectre,2,89
+POLKA,PK-GHT,118,-M,Nick Benham,RELENTLESS - Taipan,1,87
+POLKA,PK-GHT,119,-M,Andrew Rayner,EVOLUTION - Le Tour,4,87
+POLKA,PK-GHT,120,-M,Ant Jenkins,SISU - SISU - LETOUR,2,86
+POLKA,PK-GHT,121,-M,Steve Carson,Race3R - ACDC,3,85
+POLKA,PK-GHT,122,-M,Truls Gronvold,FRR - Spectre,2,84
+POLKA,PK-GHT,123,-M,Stuart Bulloch,Race3R - ACDC,5,84
+POLKA,PK-GHT,124,-M,Sean van der Plas,AMANI - AMANI - LETOUR,5,82
+POLKA,PK-GHT,125,-M,Dan Stimson,Race3R - ACDC,2,79
+POLKA,PK-GHT,126,-M,Jordy,FRR - Spectre,1,76
+POLKA,PK-GHT,127,-M,Jonathan Milberg,SWM - SWM - LETOUR,3,72
+POLKA,PK-GHT,128,-M,Andre Landry,5W4T - 5W4T,2,72
+POLKA,PK-GHT,129,-M,Michael da Silva Gunther,CRYO-GEN - Lancelot,4,71
+POLKA,PK-GHT,130,-M,Iain Sully,DIRT - DIRT - LETOUR,1,69
+POLKA,PK-GHT,131,-M,Sacha Ouimet,5W4T - 5W4T,3,65
+POLKA,PK-GHT,132,-M,Francesco Roberto Bell,RELENTLESS - Taipan,4,64
+POLKA,PK-GHT,133,-M,Martin RanefjÃ¤rd,SZ - SZ LOKE,1,63
+POLKA,PK-GHT,134,-M,Thomas Janka,TALENTF - TALENTF - LETOUR,1,60
+POLKA,PK-GHT,135,-M,Kendrew Leung,DIRT - DIRT - LETOUR,4,58
+POLKA,PK-GHT,136,-M,Andreas Kuntz,FRR - Spectre,2,58
+POLKA,PK-GHT,137,-M,giulio strazzulla,FOUDRE - FOUDRE - LETOUR,1,56
+POLKA,PK-GHT,138,-M,Reinold Bürki,WATTFAB - WATTFAB - LETOUR,4,55
+POLKA,PK-GHT,139,-M,Henrik Engelsen,FRR - Spectre,2,49
+POLKA,PK-GHT,140,-M,Magnus Andersson,SZ - SZ LOKE,3,49
+POLKA,PK-GHT,141,-M,Julian Rampelmann,CRCAF - CRCAF - LETOUR,3,45
+POLKA,PK-GHT,142,-M,Dejan Presen,Race3R - ACDC,2,42
+POLKA,PK-GHT,143,-M,Tom,FRR - Spectre,1,41
+POLKA,PK-GHT,144,-M,Anders PetersÃ©n,SZ - SZ LOKE,5,38
+POLKA,PK-GHT,145,-M,Vincent Lavallee,OPT - Velo Optimum,2,38
+POLKA,PK-GHT,146,-M,Stephane lachance,LWATT - E-mmortels,3,35
+POLKA,PK-GHT,147,-M,Patrik Beck,eSRT - eSRT - LETOUR,1,33
+POLKA,PK-GHT,148,-M,Tom Monta,CRYO-GEN - Lancelot,2,33
+POLKA,PK-GHT,149,-M,Sören Schumacher,VEGAN - VEGAN - LETOUR,2,33
+POLKA,PK-GHT,150,-M,Tim Ellis,DIRT - DIRT - LETOUR,3,33
+POLKA,PK-GHT,151,-M,Simon Law,ABR - ABR Bloobo webdesign,1,32
+POLKA,PK-GHT,152,-M,Stephan Hussmann,FRR - Spectre,4,30
+POLKA,PK-GHT,153,-M,Neil Atherton,COALITION - Le Tour,3,29
+POLKA,PK-GHT,154,-M,Bob Dickhoff,WLECOL - WLECOL - LETOUR,2,29
+POLKA,PK-GHT,155,-M,Mikael Herling,eSRT - eSRT - LETOUR,2,26
+POLKA,PK-GHT,156,-M,Michael Haran,BAKPDL - BP1,2,25
+POLKA,PK-GHT,157,-M,Florian KÃ¶rber,WLBB - WLBB - LETOUR,4,24
+POLKA,PK-GHT,158,-M,Jeff Tsang,OTR - Snowflakes,3,23
+POLKA,PK-GHT,159,-M,Fredrik Ringström,SZ - SZ LOKE,2,22
+POLKA,PK-GHT,160,-M,Gasper Matelic,Race3R - ACDC,2,19
+POLKA,PK-GHT,161,-M,Björn Schaap,LVLESPORT - LEVEL Men,1,17
+POLKA,PK-GHT,162,-M,Dan robathan,DIRT - DIRT - LETOUR,2,13
+POLKA,PK-GHT,163,-M,Carl Desrosiers,5W4T - 5W4T,2,6
+POLKA,PK-GHT,164,-M,Reggie,FRR - Spectre,1,6
+POLKA,PK-HAB,1,-M,John O´Callaghan,ABR - ABR Bloobo webdesign,8,516
+POLKA,PK-HAB,2,-M,Ralph Matecki,FRR - Spectre,8,508
+POLKA,PK-HAB,3,-M,Schneemann,TALENTF - TALENTF - LETOUR,8,503
+POLKA,PK-HAB,4,-M,Andy Erickson (RC),CRCAF - CRCAF - LETOUR,8,481
+POLKA,PK-HAB,5,-M,Sam Mack,BPCC - BPCC - LETOUR,8,463
+POLKA,PK-HAB,6,-M,Jesper Johansson,SZ - SZ LOKE,8,459
+POLKA,PK-HAB,7,-M,Fabian H.,ABR - ABR Bloobo webdesign,8,438
+POLKA,PK-HAB,8,-M,Christian Christoph,SWM - SWM - LETOUR,8,427
+POLKA,PK-HAB,9,-M,Richard Vale,Race3R - ACDC,8,424
+POLKA,PK-HAB,10,-M,Akihiro Shinki,PCH - PCH - LETOUR,8,413
+POLKA,PK-HAB,11,-M,Christopher Booth,EVOLUTION - Le Tour,8,401
+POLKA,PK-HAB,12,-M,Thomas Hebestreit,TALENTF - TALENTF - LETOUR,8,399
+POLKA,PK-HAB,13,-M,Morten Monsrud-Nielsen,CRCAF - CRCAF - LETOUR,8,397
+POLKA,PK-HAB,14,-M,Dirk Seifried,ALPENTVC - AVC-Hippos,8,395
+POLKA,PK-HAB,15,-M,Julio Jimenez,ABR - ABR Bloobo webdesign,8,395
+POLKA,PK-HAB,16,-M,Mike Box,BURRITO - BURRITO - LETOUR,8,394
+POLKA,PK-HAB,17,-M,Ricky Klingvall,eSRT - eSRT - LETOUR,8,389
+POLKA,PK-HAB,18,-M,Jose Teixeira,TugaZ - Pico,8,389
+POLKA,PK-HAB,19,-M,Mark Feeney,COALITION - Le Tour,7,378
+POLKA,PK-HAB,20,-M,Dan Poynton,DIRT - DIRT - LETOUR,8,375
+POLKA,PK-HAB,21,-M,Frank Schweinheim,FRR - Spectre,8,374
+POLKA,PK-HAB,22,-M,Bob Jongeneel,TFC - TFC Harriers,8,368
+POLKA,PK-HAB,23,-M,Albert Chan,OTR - Octopi,8,366
+POLKA,PK-HAB,24,-M,Luis Rosado,TugaZ - Pico,8,365
+POLKA,PK-HAB,25,-M,Jeffrey Janssen,OTR - Snowflakes,7,364
+POLKA,PK-HAB,26,-M,Fabio Santos,TugaZ - Pico,8,363
+POLKA,PK-HAB,27,-M,Kevin jones [ BON],WELLW - WELLW - LETOUR,8,357
+POLKA,PK-HAB,28,-M,Hugo Angelina,TBW - Watopia Tour,8,349
+POLKA,PK-HAB,29,-M,guy junior beauvais,OPT - Velo Optimum,6,347
+POLKA,PK-HAB,30,-M,Peter Sjostrom,ABR - ABR Bloobo webdesign,8,347
+POLKA,PK-HAB,31,-M,Henrik Tullborg,SZ - SZ LOKE,8,344
+POLKA,PK-HAB,32,-M,Dominic LarrivÃ©e,LWATT - E-mmortels,8,332
+POLKA,PK-HAB,33,-M,Nathan Joyce,ABR - ABR Bloobo webdesign,8,330
+POLKA,PK-HAB,34,-M,Brian Glancy,FRR - Spectre,8,328
+POLKA,PK-HAB,35,-M,Martin Grieger,ALPENTVC - AVC-Hippos,8,319
+POLKA,PK-HAB,36,-M,Jonathan Flavin,USMES - Tour,8,314
+POLKA,PK-HAB,37,-M,Graeme Crane,ZSCOT - ZSCOT - LETOUR,8,312
+POLKA,PK-HAB,38,-M,Lars Schrödel,ALPENTVC - AVC-Hippos,7,310
+POLKA,PK-HAB,39,-M,Martin Poettgen,KIRCHMAIR - KIRCHMAIR - LETOUR,7,310
+POLKA,PK-HAB,40,-M,Dany Foster,LWATT - E-mmortels,6,305
+POLKA,PK-HAB,41,-M,Irwan Budiman,ZIRT - ZIRT Uno,8,303
+POLKA,PK-HAB,42,-M,James Hilton,LVLESPORT - LEVEL Men,7,295
+POLKA,PK-HAB,43,-M,Alexandre Branco,TugaZ - Pico,8,292
+POLKA,PK-HAB,44,-M,Guilherme Pereira,TugaZ - Pico,5,291
+POLKA,PK-HAB,45,-M,Colin Cunningham,BPCC - BPCC - LETOUR,8,289
+POLKA,PK-HAB,46,-M,Gregor Simpson,ZSCOT - ZSCOT - LETOUR,8,288
+POLKA,PK-HAB,47,-M,g isenbarg,USMES - Tour,8,281
+POLKA,PK-HAB,48,-M,Erik Schulz,FRR - Spectre,8,277
+POLKA,PK-HAB,49,-M,Thomas Christiansen,FRR - Spectre,8,274
+POLKA,PK-HAB,50,-M,arif rizki zesfi [ZIRT],ZIRT - ZIRT Duo,8,268
+POLKA,PK-HAB,51,-M,Henning | A-Team,FRR - Spectre,6,264
+POLKA,PK-HAB,52,-M,Paul Peppard,CRYO-GEN - Lancelot,8,261
+POLKA,PK-HAB,53,-M,Zafar Siddiqui,TFC - TFC Harriers,5,260
+POLKA,PK-HAB,54,-M,Benedikt Reiffer,DIRT - DIRT - LETOUR,7,259
+POLKA,PK-HAB,55,-M,Nick O'Connell,LVLESPORT - LEVEL Men,8,259
+POLKA,PK-HAB,56,-M,Beretio Thebe,FRR - Spectre,6,249
+POLKA,PK-HAB,57,-M,david bird,WLECOL - WLECOL - LETOUR,8,247
+POLKA,PK-HAB,58,-M,Greg CARLITO,FFZ - FFZ Spartiate,5,243
+POLKA,PK-HAB,59,-M,Dean hunt,ABR - ABR Bloobo webdesign,8,241
+POLKA,PK-HAB,60,-M,Torsten Boeswetter,KIRCHMAIR - KIRCHMAIR - LETOUR,7,241
+POLKA,PK-HAB,61,-M,Jan van Doeselaar,COALITION - Le Tour,4,241
+POLKA,PK-HAB,62,-M,Casey Burton,OTR - Snowflakes,6,229
+POLKA,PK-HAB,63,-M,Edu Harms,WLECOL - WLECOL - LETOUR,7,227
+POLKA,PK-HAB,64,-M,James Ranger,RELENTLESS - Taipan,5,221
+POLKA,PK-HAB,65,-M,Chris Hoiberg,TBR - JumboVisma,8,220
+POLKA,PK-HAB,66,-M,Brendan Parker,Race3R - ACDC,6,219
+POLKA,PK-HAB,67,-M,Steve Ripley,EVOLUTION - Le Tour,6,217
+POLKA,PK-HAB,68,-M,Henry,TBR - JumboVisma,3,211
+POLKA,PK-HAB,69,-M,Marc Böhret,WATTFAB - WATTFAB - LETOUR,6,210
+POLKA,PK-HAB,70,-M,Rene Benz,WATTFAB - WATTFAB - LETOUR,5,209
+POLKA,PK-HAB,71,-M,Dean Hardie,TFC - TFC Harriers,7,208
+POLKA,PK-HAB,72,-M,Randy Hermann,BPCC - BPCC - LETOUR,4,206
+POLKA,PK-HAB,73,-M,Tom Elliott,ZSUNR - ZSUNR - LETOUR,8,205
+POLKA,PK-HAB,74,-M,Weber Mark,SWM - SWM - LETOUR,5,203
+POLKA,PK-HAB,75,-M,Lucky S,ZIRT - ZIRT Uno,8,202
+POLKA,PK-HAB,76,-M,Bram van Montfort,VEGAN - VEGAN - LETOUR,5,200
+POLKA,PK-HAB,77,-M,Derek Cobb,LVLESPORT - LEVEL Men,8,187
+POLKA,PK-HAB,78,-M,Adam Leech,LVLESPORT - LEVEL Men,6,187
+POLKA,PK-HAB,79,-M,RIJAN Emmanuel,HEX - HEX - LETOUR,7,187
+POLKA,PK-HAB,80,-M,Christian Lemyre,LWATT - Phoenix,8,186
+POLKA,PK-HAB,81,-M,Andy Winterbottom,WELLW - WELLW - LETOUR,7,186
+POLKA,PK-HAB,82,-M,Mathieu Alarie,OPT - Velo Optimum,7,185
+POLKA,PK-HAB,83,-M,Domenico Spano,VEGAN - VEGAN - LETOUR,6,181
+POLKA,PK-HAB,84,-M,Ronnie Reynolds,FRR - Spectre,8,177
+POLKA,PK-HAB,85,-M,Roy Imahara,BPCC - BPCC - LETOUR,8,175
+POLKA,PK-HAB,86,-M,T.yso TBW (HAB ),TBW - Watopia Tour,4,172
+POLKA,PK-HAB,87,-M,James Farren,ABR - ABR Bloobo webdesign,4,170
+POLKA,PK-HAB,88,-M,Mick Woods,TFC - TFC Harriers,8,165
+POLKA,PK-HAB,89,-M,Shane Lee,USMES - Tour,8,164
+POLKA,PK-HAB,90,-M,Gary Birch,EVOLUTION - Le Tour,5,163
+POLKA,PK-HAB,91,-M,Nate Wick,LVLESPORT - LEVEL Men,5,156
+POLKA,PK-HAB,92,-M,Richard Webster,DRAFTDINO - Dinos,5,156
+POLKA,PK-HAB,93,-M,Sébastien Filion,LWATT - E-mmortels,6,155
+POLKA,PK-HAB,94,-M,Ed England,eSRT - eSRT - LETOUR,8,155
+POLKA,PK-HAB,95,-M,Ryan Howard,BPCC - BPCC - LETOUR,5,150
+POLKA,PK-HAB,96,-M,Ralf Damrat,ABR - ABR Bloobo webdesign,8,148
+POLKA,PK-HAB,97,-M,Chris Gambs,WELLW - WELLW - LETOUR,6,145
+POLKA,PK-HAB,98,-M,Julius Küchler,SWM - SWM - LETOUR,3,144
+POLKA,PK-HAB,99,-M,Thomas Schneider,RCP - RC Pfeil Rebellunas 1,3,140
+POLKA,PK-HAB,100,-M,Alan Bates,VELOS - VELOSiraptors,4,136
+POLKA,PK-HAB,101,-M,Langgo Farid,ZIRT - ZIRT Duo,6,134
+POLKA,PK-HAB,102,-M,Paul Broom,WELLW - WELLW - LETOUR,5,134
+POLKA,PK-HAB,103,-M,Mathieu Fournier G,LWATT - E-mmortels,4,123
+POLKA,PK-HAB,104,-M,Guillaume Letourneau,LWATT - Phoenix,4,120
+POLKA,PK-HAB,105,-M,Stijn Bollen,FRR - Spectre,4,114
+POLKA,PK-HAB,106,-M,Michael SchÃ¼bel,ALPENTVC - AVC-Hippos,3,97
+POLKA,PK-HAB,107,-M,Bernd Mayer,ABR - ABR Bloobo webdesign,4,95
+POLKA,PK-HAB,108,-M,Tommy,DIRT - DIRT - LETOUR,5,93
+POLKA,PK-HAB,109,-M,Alex James,CRYO-GEN - Lancelot,4,92
+POLKA,PK-HAB,110,-M,Jürgen Wäger,WLBB - WLBB - LETOUR,2,90
+POLKA,PK-HAB,111,-M,John fickling,WLECOL - WLECOL - LETOUR,6,89
+POLKA,PK-HAB,112,-M,Ryan Manongdo,OTR - Octopi,2,83
+POLKA,PK-HAB,113,-M,Andreas Kasperek,ALPENTVC - AVC-Hippos,4,82
+POLKA,PK-HAB,114,-M,Rissyo Melandy RM,ZIRT - ZIRT Uno,2,81
+POLKA,PK-HAB,115,-M,Rainer Faulstich,WATTFAB - WATTFAB - LETOUR,4,78
+POLKA,PK-HAB,116,-M,Oli Stahl,RCP - RC Pfeil Rebellunas 1,4,76
+POLKA,PK-HAB,117,-M,Robert Spink,WLECOL - WLECOL - LETOUR,3,76
+POLKA,PK-HAB,118,-M,Tony Lo,EVOLUTION - Le Tour,3,74
+POLKA,PK-HAB,119,-M,Allan Georgiou-Park,DIRT - DIRT - LETOUR,1,74
+POLKA,PK-HAB,120,-M,Daniel BjÃ¶rkman,SZ - SZ LOKE,4,69
+POLKA,PK-HAB,121,-M,Nicholas Keat,TFC - TFC Harriers,2,67
+POLKA,PK-HAB,122,-M,Robert Maas,ABR - ABR Bloobo webdesign,2,67
+POLKA,PK-HAB,123,-M,Chris Jasinski,EVOLUTION - Le Tour,4,63
+POLKA,PK-HAB,124,-M,Matt Goodld,ATWT - ATWT - LETOUR,1,63
+POLKA,PK-HAB,125,-M,Huub de Waard,FRR - Spectre,2,59
+POLKA,PK-HAB,126,-M,Stephen Burrell,ATWT - ATWT - LETOUR,4,58
+POLKA,PK-HAB,127,-M,Anthony Cree,EVOLUTION - Le Tour,3,55
+POLKA,PK-HAB,128,-M,HÃ¥kan Ohlsson,SZ - SZ LOKE,3,54
+POLKA,PK-HAB,129,-M,Bas Inghels,BAKPDL - BP1,3,52
+POLKA,PK-HAB,130,-M,Gustaf Lindqvist,SZ - SZ LOKE,5,47
+POLKA,PK-HAB,131,-M,Matthew Day,ABR - ABR Bloobo webdesign,4,43
+POLKA,PK-HAB,132,-M,Ricardo Capelo,TugaZ - Pico,2,42
+POLKA,PK-HAB,133,-M,Michael Powell,TFC - TFC Harriers,3,39
+POLKA,PK-HAB,134,-M,Mike Jubb,ATWT - ATWT - LETOUR,3,35
+POLKA,PK-HAB,135,-M,JHarvey,TBR - JumboVisma,1,35
+POLKA,PK-HAB,136,-M,Nicolas Santerre,SISU - SISU - LETOUR,2,33
+POLKA,PK-HAB,137,-M,Jeremy Leal,OTR - Snowflakes,2,31
+POLKA,PK-HAB,138,-M,Breuil,FFZ - FFZ Spartiate,2,29
+POLKA,PK-HAB,139,-M,Joaquim Viegas,TugaZ - Pico,2,29
+POLKA,PK-HAB,140,-M,Aaron Locke,OMG - OMG avec WEZ,1,26
+POLKA,PK-HAB,141,-M,Don Wilkey,OTR - Snowflakes,2,25
+POLKA,PK-HAB,142,-M,Bruno Carneiro,TugaZ - Pico,3,20
+POLKA,PK-HAB,143,-M,David Andrews,CRYO-GEN - Lancelot,3,20
+POLKA,PK-HAB,144,-M,Florian Meyer,TALENTF - TALENTF - LETOUR,2,13
+POLKA,PK-HAB,145,-M,Frank Kratzer,OTR - Crazy8s,2,13
+POLKA,PK-HAB,146,-M,Felipe (Luppe) Sanhueza,SZ - SZ LOKE,2,13
+POLKA,PK-HAB,147,-M,Ronald Termaat,TEAMCLS - Vitesse verte,1,10
+POLKA,PK-HAB,148,-M,Michael Frater,WATTFAB - WATTFAB - LETOUR,2,7
+POLKA,PK-HAB,149,-M,Frank Scherr,TALENTF - TALENTF - LETOUR,2,7
+POLKA,PK-HAB,150,-M,Simon Tuck,RELENTLESS - Taipan,2,6
+POLKA,PK-HAB,151,-M,Markus Goetz,WLBB - WLBB - LETOUR,2,6
+POLKA,PK-BON,1,-M,Jens Lueckhof,ALPENTVC - AVC-Hippos,8,512
+POLKA,PK-BON,2,-M,Luis Coelho,TugaZ - Pico,7,509
+POLKA,PK-BON,3,-M,Andy Jones,SISU - SISU - LETOUR,8,506
+POLKA,PK-BON,4,-M,Jon Block,SISU - SISU - LETOUR,8,495
+POLKA,PK-BON,5,-M,Frank Doyle,VEGAN - VEGAN - LETOUR,8,488
+POLKA,PK-BON,6,-M,Guillaume Borduas,OPT - Velo Optimum,8,451
+POLKA,PK-BON,7,-M,Dave Ronan,EVOLUTION - Le Tour,8,438
+POLKA,PK-BON,8,-M,Jens Bittner,ABR - ABR Bloobo webdesign,8,426
+POLKA,PK-BON,9,-M,Johannes,WATTFAB - WATTFAB - LETOUR,8,393
+POLKA,PK-BON,10,-M,Juergen Becker,WATTFAB - WATTFAB - LETOUR,8,384
+POLKA,PK-BON,11,-M,Jeffrey Budden,EVOLUTION - Le Tour,8,381
+POLKA,PK-BON,12,-M,Ian Greaves,OTR - Crazy8s,8,381
+POLKA,PK-BON,13,-M,Micky Konsta,PCH - PCH - LETOUR,8,381
+POLKA,PK-BON,14,-M,Matt Cromwell,TFC - TFC Harriers,8,379
+POLKA,PK-BON,15,-M,Brian Monaghan,TFC - TFC Harriers,8,368
+POLKA,PK-BON,16,-M,John Atkinson,DRAFTDINO - Dinos,7,367
+POLKA,PK-BON,17,-M,Alexandre Gendron,LWATT - E-mmortels,7,362
+POLKA,PK-BON,18,-M,Adi Hense,TBW - Watopia Tour,8,361
+POLKA,PK-BON,19,-M,Jean-Francois Langlais,LWATT - Phoenix,7,358
+POLKA,PK-BON,20,-M,Anders Kvale,HERD - HERD - LETOUR,8,355
+POLKA,PK-BON,21,-M,Gary Cordery,COALITION - Le Tour,8,354
+POLKA,PK-BON,22,-M,Richard Ersted,COALITION - Le Tour,8,352
+POLKA,PK-BON,23,-M,Frank Zitzelsberger,KIRCHMAIR - KIRCHMAIR - LETOUR,7,351
+POLKA,PK-BON,24,-M,Ron Gallo,OTR - Crazy8s,8,351
+POLKA,PK-BON,25,-M,Keith Hardiman,VELOS - VELOSiraptors,4,348
+POLKA,PK-BON,26,-M,José Mendes,TugaZ - Pico,8,346
+POLKA,PK-BON,27,-M,Patrick Wichert,WLBB - WLBB - LETOUR,8,344
+POLKA,PK-BON,28,-M,Peter Mosbaek,RELENTLESS - Taipan,5,336
+POLKA,PK-BON,29,-M,Wolfgang Reh,ALPENTVC - AVC-Hippos,8,332
+POLKA,PK-BON,30,-M,Maxime LÃ©tourneau,LWATT - Phoenix,8,327
+POLKA,PK-BON,31,-M,Douglas Munro,ZSCOT - ZSCOT - LETOUR,8,326
+POLKA,PK-BON,32,-M,Garry Cooper,DRAFTDINO - Dinos,8,321
+POLKA,PK-BON,33,-M,Mark Visser,PCH - PCH - LETOUR,5,321
+POLKA,PK-BON,34,-M,Joao Severino,TugaZ - Pico,7,306
+POLKA,PK-BON,35,-M,Mark Arnold,TBW - Watopia Tour,7,306
+POLKA,PK-BON,36,-M,Jonathan Banks,TFC - TFC Harriers,7,303
+POLKA,PK-BON,37,-M,Jonathan Cloutier,OPT - Velo Optimum,7,302
+POLKA,PK-BON,38,-M,Adrian van Landbertsrode,COALITION - Le Tour,8,300
+POLKA,PK-BON,39,-M,Paul Harrison,WELLW - WELLW - LETOUR,7,296
+POLKA,PK-BON,40,-M,Huw Thomas,WELLW - WELLW - LETOUR,7,295
+POLKA,PK-BON,41,-M,Dave Rossow,DRAFTDINO - Dinos,6,295
+POLKA,PK-BON,42,-M,Louis-Pierre Dupuis,LWATT - Phoenix,8,295
+POLKA,PK-BON,43,-M,Eric Lorenz,TFC - TFC Harriers,7,290
+POLKA,PK-BON,44,-M,Jeffery Arnier,CRYO-GEN - Lancelot,8,289
+POLKA,PK-BON,45,-M,Mikael Myrsell,SZ - SZ LOKE,5,288
+POLKA,PK-BON,46,-M,Jason Garratt,ABR - ABR Bloobo webdesign,8,288
+POLKA,PK-BON,47,-M,Gary Gaffel,TT1 - TT1 - LETOUR,8,284
+POLKA,PK-BON,48,-M,Wyle Solomon,CRCAF - CRCAF - LETOUR,6,282
+POLKA,PK-BON,49,-M,Niels Cornelisse,FRR - Spectre,8,282
+POLKA,PK-BON,50,-M,Eric Brisebois,LWATT - Phoenix,8,280
+POLKA,PK-BON,51,-M,Dario Prudencio,TugaZ - Pico,7,270
+POLKA,PK-BON,52,-M,Simon Evatt,TFC - TFC Harriers,5,267
+POLKA,PK-BON,53,-M,Arran Leach,USMES - Tour,4,266
+POLKA,PK-BON,54,-M,Levente Incze,ABR - ABR Bloobo webdesign,8,266
+POLKA,PK-BON,55,-M,Charlie Marshall,ZSCOT - ZSCOT - LETOUR,8,266
+POLKA,PK-BON,56,-M,Leif Larsson,SZ - SZ LOKE,5,261
+POLKA,PK-BON,57,-M,Tovey Giezentanner,TFC - TFC Harriers,8,260
+POLKA,PK-BON,58,-M,Malte,TBR - JumboVisma,7,260
+POLKA,PK-BON,59,-M,James Balloch,COALITION - Le Tour,8,257
+POLKA,PK-BON,60,-M,Luís Marques,TugaZ - Pico,7,256
+POLKA,PK-BON,61,-M,Alex Balke,OTR - Snowflakes,7,252
+POLKA,PK-BON,62,-M,Henrik Hansen,WELLW - WELLW - LETOUR,8,252
+POLKA,PK-BON,63,-M,Ludwig Kettenberger,ALPENTVC - AVC-Hippos,7,245
+POLKA,PK-BON,64,-M,lee messenger,FRR - Spectre,7,239
+POLKA,PK-BON,65,-M,Dave Hall,TBW - Watopia Tour,5,232
+POLKA,PK-BON,66,-M,Larry Tait [BON],WELLW - WELLW - LETOUR,8,217
+POLKA,PK-BON,67,-M,Helder Silva,TugaZ - Pico,8,208
+POLKA,PK-BON,68,-M,Berthold Wimmer,WLBB - WLBB - LETOUR,4,205
+POLKA,PK-BON,69,-M,Peter Ferngren,SZ - SZ LOKE,6,200
+POLKA,PK-BON,70,-M,Michael Beny Junior,ZIRT - ZIRT Duo,6,199
+POLKA,PK-BON,71,-M,Jeffrey Lakerveld,AMANI - AMANI - LETOUR,4,198
+POLKA,PK-BON,72,-M,Micha Willer,ALPENTVC - AVC-Hippos,6,195
+POLKA,PK-BON,73,-M,Pat M (BON],ATWT - ATWT - LETOUR,7,195
+POLKA,PK-BON,74,-M,Mike Natleborg,CRCAF - CRCAF - LETOUR,8,193
+POLKA,PK-BON,75,-M,Julien Beijer,TT1 - TT1 - LETOUR,6,191
+POLKA,PK-BON,76,-M,German Pizarro,OTR - Snowflakes,8,190
+POLKA,PK-BON,77,-M,Philip Plummer,CCC - CCC - LETOUR,8,190
+POLKA,PK-BON,78,-M,Lar Hayden,TFC - TFC Harriers,6,184
+POLKA,PK-BON,79,-M,Stef Dixon,WELLW - WELLW - LETOUR,3,177
+POLKA,PK-BON,80,-M,Mike Nelder,WELLW - WELLW - LETOUR,6,177
+POLKA,PK-BON,81,-M,Marc-Etienne Gagnon,OPT - Velo Optimum,6,176
+POLKA,PK-BON,82,-M,Ian Jervis,ZSUNR - ZSUNR - LETOUR,4,169
+POLKA,PK-BON,83,-M,stefan bodin,SZ - SZ LOKE,5,165
+POLKA,PK-BON,84,-M,Toby Farrow,FRR - Spectre,6,164
+POLKA,PK-BON,85,-M,John Rogers,SISU - SISU - LETOUR,4,148
+POLKA,PK-BON,86,-M,Jeroen Rijk,RELENTLESS - Taipan,4,144
+POLKA,PK-BON,87,-M,Joe Bradshaw,AMANI - AMANI - LETOUR,3,143
+POLKA,PK-BON,88,-M,John van der Veldt,AMANI - AMANI - LETOUR,3,140
+POLKA,PK-BON,89,-M,Ricardo Machado,TugaZ - Pico,2,139
+POLKA,PK-BON,90,-M,JS Prenovost,LWATT - Phoenix,4,139
+POLKA,PK-BON,91,-M,Haydn Jones,Race3R - ACDC,4,136
+POLKA,PK-BON,92,-M,Anthony Nicholson,CRYO-GEN - Lancelot,4,134
+POLKA,PK-BON,93,-M,Jan-Willem Huidink,TEAMCLS - Vitesse verte,5,133
+POLKA,PK-BON,94,-M,Dan Evanko,OTR - Snowflakes,5,133
+POLKA,PK-BON,95,-M,Charlie Loignon,LWATT - Phoenix,3,124
+POLKA,PK-BON,96,-M,Brice Gary,COALITION - Le Tour,4,119
+POLKA,PK-BON,97,-M,Shane Walker,ZSUNR - ZSUNR - LETOUR,4,117
+POLKA,PK-BON,98,-M,Stuart Codling,ABR - ABR Bloobo webdesign,2,114
+POLKA,PK-BON,99,-M,Danny Fritzsche,KIRCHMAIR - KIRCHMAIR - LETOUR,2,108
+POLKA,PK-BON,100,-M,Mike Platt,BPCC - BPCC - LETOUR,3,105
+POLKA,PK-BON,101,-M,Lee Dixon,BAKPDL - BP1,3,101
+POLKA,PK-BON,102,-M,Nils Edvardsson Stenvold,eSRT - eSRT - LETOUR,1,100
+POLKA,PK-BON,103,-M,Stein Arvid,DRAFTDINO - Dinos,3,95
+POLKA,PK-BON,104,-M,Pedro Pedroso,TugaZ - Pico,4,95
+POLKA,PK-BON,105,-M,Markus Schneider,ALPENTVC - AVC-Hippos,2,94
+POLKA,PK-BON,106,-M,Todd Wichman,USMES - Tour,1,93
+POLKA,PK-BON,107,-M,Frank Göppinger,KIRCHMAIR - KIRCHMAIR - LETOUR,4,90
+POLKA,PK-BON,108,-M,Mike barber,ATWT - ATWT - LETOUR,2,86
+POLKA,PK-BON,109,-M,Jay O’Neil,EVOLUTION - Le Tour,5,81
+POLKA,PK-BON,110,-M,Vasco,TugaZ - Pico,1,79
+POLKA,PK-BON,111,-M,Carl Raynham,BAKPDL - BP1,1,76
+POLKA,PK-BON,112,-M,Richard G,FRR - Spectre,1,74
+POLKA,PK-BON,113,-M,Piotr Trzciński,PCH - PCH - LETOUR,1,66
+POLKA,PK-BON,114,-M,Glen Pollock,ABR - ABR Bloobo webdesign,1,63
+POLKA,PK-BON,115,-M,Simon Haaf,WLBB - WLBB - LETOUR,2,63
+POLKA,PK-BON,116,-M,Peter Enserer,WLBB - WLBB - LETOUR,1,60
+POLKA,PK-BON,117,-M,Nathan Brauer,CRCAF - CRCAF - LETOUR,3,58
+POLKA,PK-BON,118,-M,Marcel Marbaise,WATTFAB - WATTFAB - LETOUR,3,55
+POLKA,PK-BON,119,-M,Lionel Spooner,Race3R - ACDC,3,54
+POLKA,PK-BON,120,-M,Richard Jones,EVOLUTION - Le Tour,3,51
+POLKA,PK-BON,121,-M,Abraham,DRAFTDINO - Dinos,3,50
+POLKA,PK-BON,122,-M,Anthony Wooldridge,VELOS - VELOSiraptors,3,48
+POLKA,PK-BON,123,-M,Juergen Weinacht,KIRCHMAIR - KIRCHMAIR - LETOUR,3,45
+POLKA,PK-BON,124,-M,Nathan Kiger,OTR - Snowflakes,3,45
+POLKA,PK-BON,125,-M,Roger Puig Antunez,FRR - Spectre,2,44
+POLKA,PK-BON,126,-M,Birdman23,FRR - Spectre,1,42
+POLKA,PK-BON,127,-M,Andrew Mudge,EVOLUTION - Le Tour,2,39
+POLKA,PK-BON,128,-M,Mr. Pink,VELOS - VELOSiraptors,1,38
+POLKA,PK-BON,129,-M,Antonio Superweak,TugaZ - Pico,2,36
+POLKA,PK-BON,130,-M,Edwin Euser,AMANI - AMANI - LETOUR,1,35
+POLKA,PK-BON,131,-M,Paul Scully,EVOLUTION - Le Tour,1,31
+POLKA,PK-BON,132,-M,Mark,FRR - Spectre,3,31
+POLKA,PK-BON,133,-M,Rene Haber,ABR - ABR Bloobo webdesign,2,30
+POLKA,PK-BON,134,-M,Eddie Jensen,TFC - TFC Harriers,2,29
+POLKA,PK-BON,135,-M,Ian Brewer,BAKPDL - BP1,1,29
+POLKA,PK-BON,136,-M,Paul Barber,WELLW - WELLW - LETOUR,1,23
+POLKA,PK-BON,137,-M,Mike Schuster,WATTFAB - WATTFAB - LETOUR,2,19
+POLKA,PK-BON,138,-M,Johan Andersson,SZ - SZ LOKE,2,19
+POLKA,PK-BON,139,-M,Andreas Weilemann,PCH - PCH - LETOUR,2,16
+POLKA,PK-BON,140,-M,FloWRiN [Dinos-BON],DRAFTDINO - Dinos,2,16
+POLKA,PK-BON,141,-M,Stephan,FRR - Spectre,2,13
+POLKA,PK-BON,142,-M,Adrian ray,VELOS - VELOSiraptors,2,7
+POLKA,PK-CAY,1,-M,David Gagnon,OPT - Velo Optimum,8,597
+POLKA,PK-CAY,2,-M,Lars Junger,ALPENTVC - AVC-Hippos,8,505
+POLKA,PK-CAY,3,-M,John Smalley,EVOLUTION - Le Tour,8,504
+POLKA,PK-CAY,4,-M,Andreas Fischer,WLBB - WLBB - LETOUR,8,500
+POLKA,PK-CAY,5,-M,Nicolas Foisy,OPT - Velo Optimum,8,493
+POLKA,PK-CAY,6,-M,Matt Thomson,OTR - Crazy8s,8,493
+POLKA,PK-CAY,7,-M,Jose Monteiro,TugaZ - Pico,8,464
+POLKA,PK-CAY,8,-M,Pascal Gilbert,LWATT - E-mmortels,8,455
+POLKA,PK-CAY,9,-M,Neil Glezer-Jones,DRAFTDINO - Dinos,8,448
+POLKA,PK-CAY,10,-M,James Hayes,ZSCOT - ZSCOT - LETOUR,8,438
+POLKA,PK-CAY,11,-M,Robert Ekberg,ZSUNR - ZSUNR - LETOUR,8,426
+POLKA,PK-CAY,12,-M,Andrew Smith,EVOLUTION - Le Tour,8,425
+POLKA,PK-CAY,13,-M,Jean Roy,LWATT - E-mmortels,8,394
+POLKA,PK-CAY,14,-M,Glenn Houston,LWATT - Phoenix,7,393
+POLKA,PK-CAY,15,-M,Hal Sutherland,OTR - Snowflakes,8,388
+POLKA,PK-CAY,16,-M,Darren Ellis,CRYO-GEN - Lancelot,8,387
+POLKA,PK-CAY,17,-M,Laurence Dunford,SOCKS4W - Le Tour,7,386
+POLKA,PK-CAY,18,-M,J ohn K,TBR - JumboVisma,8,383
+POLKA,PK-CAY,19,-M,Barry McGuigan,ZSCOT - ZSCOT - LETOUR,8,377
+POLKA,PK-CAY,20,-M,Thomas Sachse,KIRCHMAIR - KIRCHMAIR - LETOUR,8,375
+POLKA,PK-CAY,21,-M,Blake Chalson,BPCC - BPCC - LETOUR,6,374
+POLKA,PK-CAY,22,-M,Jeff Edwards,TFC - TFC Harriers,7,371
+POLKA,PK-CAY,23,-M,Tomek Koguc,PCH - PCH - LETOUR,8,371
+POLKA,PK-CAY,24,-M,Tom Marley,COALITION - Le Tour,8,368
+POLKA,PK-CAY,25,-M,Hengky Irawan,ZIRT - ZIRT Duo,8,359
+POLKA,PK-CAY,26,-M,Tam McNeish,ZSCOT - ZSCOT - LETOUR,7,352
+POLKA,PK-CAY,27,-M,Dave Corbin,LWATT - E-mmortels,6,349
+POLKA,PK-CAY,28,-M,Philipp Foerster,FRR - Spectre,8,344
+POLKA,PK-CAY,29,-M,Duncan Farley,CRYO-GEN - Lancelot,6,339
+POLKA,PK-CAY,30,-M,Bob Horn,SISU - SISU - LETOUR,8,339
+POLKA,PK-CAY,31,-M,Thomas Finger,WATTFAB - WATTFAB - LETOUR,6,338
+POLKA,PK-CAY,32,-M,Louis Fournaise,LWATT - E-mmortels,8,338
+POLKA,PK-CAY,33,-M,Christoph Bosshard,DRAFTDINO - Dinos,7,326
+POLKA,PK-CAY,34,-M,Rob Imrie,LWATT - Phoenix,7,322
+POLKA,PK-CAY,35,-M,Mike Soukini,LWATT - E-mmortels,6,321
+POLKA,PK-CAY,36,-M,Mark Grasley,OTR - Snowflakes,5,309
+POLKA,PK-CAY,37,-M,Greg Morrow,TFC - TFC Harriers,6,308
+POLKA,PK-CAY,38,-M,Justin Bolduc,LWATT - Phoenix,7,302
+POLKA,PK-CAY,39,-M,Johan Bäckström,SZ - SZ LOKE,5,300
+POLKA,PK-CAY,40,-M,Tobias Beck,FRR - Spectre,6,281
+POLKA,PK-CAY,41,-M,Jonathan Doyon,OPT - Velo Optimum,5,276
+POLKA,PK-CAY,42,-M,Gerhard Leeb,WLBB - WLBB - LETOUR,6,275
+POLKA,PK-CAY,43,-M,Damon McKay,TFC - TFC Harriers,6,273
+POLKA,PK-CAY,44,-M,B.K. MILNE,SISU - SISU - LETOUR,6,271
+POLKA,PK-CAY,45,-M,Juergen Pirker,KIRCHMAIR - KIRCHMAIR - LETOUR,7,264
+POLKA,PK-CAY,46,-M,Oliver Goßmann,WLBB - WLBB - LETOUR,6,255
+POLKA,PK-CAY,47,-M,Boen Bunawan,ZIRT - ZIRT Uno,3,251
+POLKA,PK-CAY,48,-M,Mário Andrade,TugaZ - Pico,5,247
+POLKA,PK-CAY,49,-M,Nathan Melvin,ABR - ABR Bloobo webdesign,6,246
+POLKA,PK-CAY,50,-M,John Smith,OTR - Octopi,5,228
+POLKA,PK-CAY,51,-M,Dirk Ehrmantraut,ALPENTVC - AVC-Hippos,5,223
+POLKA,PK-CAY,52,-M,Jason Vaughan,BAKPDL - BP1,5,221
+POLKA,PK-CAY,53,-M,Andreas Kress,WLBB - WLBB - LETOUR,4,219
+POLKA,PK-CAY,54,-M,Dan Tice,DRAFTDINO - Dinos,5,188
+POLKA,PK-CAY,55,-M,Gilo Clayson,ABR - ABR Bloobo webdesign,5,172
+POLKA,PK-CAY,56,-M,Herry Irpanni,ZIRT - ZIRT Duo,4,153
+POLKA,PK-CAY,57,-M,Steven Robinson,CCC - CCC - LETOUR,4,151
+POLKA,PK-CAY,58,-M,Matt Armitage,CRYO-GEN - Lancelot,5,150
+POLKA,PK-CAY,59,-M,Stefan Bosin,WLBB - WLBB - LETOUR,3,150
+POLKA,PK-CAY,60,-M,Ken deLaski,FRR - Spectre,2,137
+POLKA,PK-CAY,61,-M,Mark Sole,ABR - ABR Bloobo webdesign,5,132
+POLKA,PK-CAY,62,-M,angelo mileto,HERD - HERD - LETOUR,2,131
+POLKA,PK-CAY,63,-M,Andy Baines,ABR - ABR Bloobo webdesign,5,130
+POLKA,PK-CAY,64,-M,Juan Mendez,DIRT - DIRT - LETOUR,3,126
+POLKA,PK-CAY,65,-M,Simon Boyle,TFC - TFC Harriers,1,103
+POLKA,PK-CAY,66,-M,Andi Hakim,ZIRT - ZIRT Duo,3,89
+POLKA,PK-CAY,67,-M,Jo Teddy,ZIRT - ZIRT Duo,3,83
+POLKA,PK-CAY,68,-M,Tom Lawton,OTR - Octopi,2,62
+POLKA,PK-CAY,69,-M,Nick Le-Mon,TFC - TFC Harriers,1,62
+POLKA,PK-CAY,70,-M,Kyle Hoover,DIRT - DIRT - LETOUR,1,60
+POLKA,PK-CAY,71,-M,Ben Nitti,TT1 - TT1 - LETOUR,3,57
+POLKA,PK-CAY,72,-M,Phil Pelgrim,TBW - Watopia Tour,1,54
+POLKA,PK-CAY,73,-M,John Greenhalgh,ZSCOT - ZSCOT - LETOUR,1,54
+POLKA,PK-CAY,74,-M,Clayton Wilkinson,OTR - Crazy8s,1,38
+POLKA,PK-CAY,75,-M,Gary Joyce,ABR - ABR Bloobo webdesign,2,33
+POLKA,PK-CAY,76,-M,Arie Pandubowo,ZIRT - ZIRT Uno,2,31
+POLKA,PK-CAY,77,-M,Paulo Costa,TugaZ - Pico,2,29
+POLKA,PK-CAY,78,-M,AndyCXR,CCC - CCC - LETOUR,1,25
+POLKA,PK-JLP,1,-M,Jeremy Lohman,TT1 - TT1 - LETOUR,8,526
+POLKA,PK-JLP,2,-M,Brian Walburn,FRR - Spectre,8,506
+POLKA,PK-JLP,3,-M,Mickael Vachon,OPT - Velo Optimum,8,489
+POLKA,PK-JLP,4,-M,Gunter Haacke,FRR - Spectre,8,482
+POLKA,PK-JLP,5,-M,Jose Onofre,TugaZ - Pico,8,477
+POLKA,PK-JLP,6,-M,Zorza,TugaZ - Pico,7,471
+POLKA,PK-JLP,7,-M,Pierre Cypihot,LWATT - Phoenix,8,463
+POLKA,PK-JLP,8,-M,Jack Son,DRAFTDINO - Dinos,8,460
+POLKA,PK-JLP,9,-M,Andrew Mead,TBR - JumboVisma,6,459
+POLKA,PK-JLP,10,-M,Enno Enno,WLBB - WLBB - LETOUR,8,455
+POLKA,PK-JLP,11,-M,Andy Craig,ZSCOT - ZSCOT - LETOUR,8,436
+POLKA,PK-JLP,12,-M,Eric Surprenant,OPT - Velo Optimum,6,430
+POLKA,PK-JLP,13,-M,Ian Breslin,TFC - TFC Harriers,6,408
+POLKA,PK-JLP,14,-M,Matt Sellors,TFC - TFC Harriers,6,379
+POLKA,PK-JLP,15,-M,Ernst F Retief,CRYO-GEN - Lancelot,6,350
+POLKA,PK-JLP,16,-M,Peter Mignacca,OPT - Velo Optimum,7,334
+POLKA,PK-JLP,17,-M,David Hill,TFC - TFC Harriers,6,330
+POLKA,PK-JLP,18,-M,Gus Goad,WELLW - WELLW - LETOUR,4,293
+POLKA,PK-JLP,19,-M,kziere,TFC - TFC Harriers,5,236
+POLKA,PK-JLP,20,-M,JFPINEAULT,LWATT - E-mmortels,3,228
+POLKA,PK-JLP,21,-M,Steve Bowden,DRAFTDINO - Dinos,4,198
+POLKA,PK-JLP,22,-M,Moe Cascanette,DRAFTDINO - Dinos,5,184
+POLKA,PK-JLP,23,-M,Mats Roesgaard Sjödin,WATTFAB - WATTFAB - LETOUR,4,173
+POLKA,PK-JLP,24,-M,Andrew Rodger,ZSCOT - ZSCOT - LETOUR,3,138
+POLKA,PK-JLP,25,-M,Waldemar Szewczuk,ABR - ABR Bloobo webdesign,3,104
+POLKA,PK-JLP,26,-M,Ike Messmore,TFC - TFC Harriers,2,33
+POLKA,PK-PEP,1,-M,B B,DRAFTDINO - Dinos,8,614
+POLKA,PK-PEP,2,-M,David Roberts,DRAFTDINO - Dinos,8,587
+POLKA,PK-PEP,3,-M,Dominic Harrison,TFC - TFC Harriers,8,540
+POLKA,PK-PEP,4,-M,KevinJ Brown,OTR - Crazy8s,8,500
+POLKA,PK-PEP,5,-M,Jo Laniel,OPT - Velo Optimum,8,500
+POLKA,PK-PEP,6,-M,Raffa,TALENTF - TALENTF - LETOUR,8,465
+POLKA,PK-PEP,7,-M,Andreas Kunath,WLBB - WLBB - LETOUR,8,454
+POLKA,PK-PEP,8,-M,Mark Parker,TEAMCLS - Vitesse verte,8,453
+POLKA,PK-PEP,9,-M,David Perry,TEAMCLS - Vitesse verte,6,368
+POLKA,PK-PEP,10,-M,Richard D’Amour,LWATT - Phoenix,6,337
+POLKA,PK-PEP,11,-M,Allan Poulsen,FRR - Spectre,6,335
+POLKA,PK-PEP,12,-M,Bruce Dovey,SISU - SISU - LETOUR,6,330
+POLKA,PK-PEP,13,-M,Shaun Chinapen,DRAFTDINO - Dinos,6,284
+POLKA,PK-PEP,14,-M,Michiel Kersten,TFC - TFC Harriers,4,281
+POLKA,PK-PEP,15,-M,Andre As [PEP][RCP],RCP - RC Pfeil Rebellunas 1,5,280
+POLKA,PK-PEP,16,-M,Scott House,HERD - HERD - LETOUR,5,278
+POLKA,PK-PEP,17,-M,Kevin Mothersole,DRAFTDINO - Dinos,6,234
+POLKA,PK-PEP,18,-M,David Barnett,TBW - Watopia Tour,4,196
+POLKA,PK-PEP,19,-M,Udo Sinz,WLBB - WLBB - LETOUR,3,195
+POLKA,PK-PEP,20,-M,Andy Fyles,ABR - ABR Bloobo webdesign,4,185
+POLKA,PK-PEP,21,-M,Miles Ushaw,TFC - TFC Harriers,4,182
+POLKA,PK-PEP,22,-M,Andrew Webster,ABR - ABR Bloobo webdesign,2,150
+POLKA,PK-PEP,23,-M,Steve Brewer,ABR - ABR Bloobo webdesign,1,104
+POLKA,PK-PEP,24,-M,Stuart Liggins,ABR - ABR Bloobo webdesign,2,84

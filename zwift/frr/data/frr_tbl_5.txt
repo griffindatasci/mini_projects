@@ -1,0 +1,1140 @@
+X1,X2,X3,X4,X5,X6,X7,X8
+GC,GC-CAP,1,-M,Stefan Kirchmair,KIRCHMAIR - KIRCHMAIR - LETOUR,8,07:42:57.659
+GC,GC-CAP,2,-M,Rinus Verhelle,RELENTLESS - Taipan,8,07:45:01.676
+GC,GC-CAP,3,-M,Nathan Miller,RELENTLESS - Taipan,8,07:46:05.145
+GC,GC-CAP,4,-M,Arne,COALITION - Beta,8,07:46:27.805
+GC,GC-CAP,5,-M,Ben Russell,WLECOL - WLECOL - LETOUR,8,07:48:04.246
+GC,GC-CAP,6,-M,Alex Lemp,TALENTF - TALENTF - LETOUR,8,07:48:20.014
+GC,GC-CAP,7,-M,Brian Bishop,OTR - Crazy8s,8,07:48:55.146
+GC,GC-CAP,8,-M,Travis Gatesman,RELENTLESS - Taipan,8,07:49:23.700
+GC,GC-CAP,9,-M,Mathias Kemnitz,FRR - Spectre,8,07:51:31.353
+GC,GC-CAP,10,-M,James Skulczuk,BURRITO - BURRITO - LETOUR,8,07:51:49.246
+GC,GC-CAP,11,-M,Kalle Kadens,FRR - Spectre,8,07:52:31.986
+GC,GC-CAP,12,-M,Matthew spooner,BL13 - BL13 - LETOUR,8,07:53:42.572
+GC,GC-CAP,13,-M,Petar Dashev [CAP],FRR - Spectre,8,07:54:46.053
+GC,GC-CAP,14,-M,Mark Talbot,COALITION - Le Tour,8,07:54:46.611
+GC,GC-CAP,15,-M,a.lex,TALENTF - TALENTF - LETOUR,8,07:55:20.930
+GC,GC-CAP,16,-M,J. Carton CLS. CAP,TEAMCLS - Vitesse verte,8,07:55:40.561
+GC,GC-CAP,17,-M,Mark Elding,BL13 - BL13 - LETOUR,8,07:56:11.712
+GC,GC-CAP,18,-M,Thomas Davison,EVOLUTION - Warriors,8,07:56:23.582
+GC,GC-CAP,19,-M,Adam Vogt,OTR - Snowflakes,8,07:56:43.509
+GC,GC-CAP,20,-M,Maxime Bernard,FFZ - FFZ Spartiate,8,07:57:25.460
+GC,GC-CAP,21,-M,Arend Cocquyt,BAKPDL - BP1,8,07:57:36.978
+GC,GC-CAP,22,-M,Daniel Mundell,BL13 - BL13 - LETOUR,8,07:57:56.841
+GC,GC-CAP,23,-M,Diogo Calçada,FRR - Spectre,8,07:57:57.271
+GC,GC-CAP,24,-M,Nico Peller,KIRCHMAIR - KIRCHMAIR - LETOUR,8,07:58:21.108
+GC,GC-CAP,25,-M,Tim Shields,ABR - ABR Bloobo webdesign,8,07:58:37.033
+GC,GC-CAP,26,-M,Andrew Dinsmore,TFC - TFC Harriers,8,07:59:06.936
+GC,GC-CAP,27,-M,Gustav Lindqvist,FRR - Spectre,8,07:59:56.964
+GC,GC-CAP,28,-M,Michel Pinto machado,FRR - Spectre,8,08:00:04.860
+GC,GC-CAP,29,-M,Kjell Gunnar Gjerdal,EVOLUTION - Warriors,8,08:00:06.703
+GC,GC-CAP,30,-M,Cedric RICHARD,HEX - HEX - LETOUR,8,08:00:52.432
+GC,GC-CAP,31,-M,Unknow Fellow,FRR - Spectre,8,08:02:14.503
+GC,GC-CAP,32,-M,CLAMOTE,FRR - Spectre,8,08:03:10.376
+GC,GC-CAP,33,-M,Charles-Olivier Laporte,OPT - Velo Optimum,8,08:03:11.218
+GC,GC-CAP,34,-M,H. Çelebi,FRR - Spectre,8,08:03:14.983
+GC,GC-CAP,35,-M,Tobias van Toledo,EVOLUTION - Warriors,8,08:04:04.733
+GC,GC-CAP,36,-M,Paul Kearney,TEAMCLS - Vitesse verte,8,08:05:53.131
+GC,GC-CAP,37,-M,Christian Grupp,TALENTF - TALENTF - LETOUR,8,08:06:40.425
+GC,GC-CAP,38,-M,Joris Voorn,ZSUNR - ZSUNR - LETOUR,8,08:06:54.751
+GC,GC-CAP,39,-M,Teppo Laurio,WLECOL - WLECOL - LETOUR,8,08:07:34.784
+GC,GC-CAP,40,-M,Ben Soja,KIRCHMAIR - KIRCHMAIR - LETOUR,8,08:08:53.550
+GC,GC-CAP,41,-M,Gonzague PETIT,FFZ - FFZ Spartiate,8,08:10:47.950
+GC,GC-CAP,42,-M,Daniel Pinto,OMG - OMG avec WEZ,8,08:11:40.217
+GC,GC-CAP,43,-M,Karl Norris,ABR - ABR Bloobo webdesign,8,08:12:32.594
+GC,GC-CAP,44,-M,Dom clarke,BURRITO - BURRITO - LETOUR,8,08:13:39.581
+GC,GC-CAP,45,-M,Nate Silva,COALITION - Beta,8,08:14:46.798
+GC,GC-CAP,46,-M,e Harris,TFC - TFC Harriers,8,08:15:56.816
+GC,GC-CAP,47,-M,Peter Mogg,OMG - OMG avec WEZ,8,08:19:41.239
+GC,GC-CAP,48,-M,Michael Greiner,OMG - OMG avec WEZ,8,08:20:04.023
+GC,GC-CAP,49,-M,Ben clarke,OTR - Crazy8s,8,08:20:16.642
+GC,GC-CAP,50,-M,Jared Benney (ABR),ABR - ABR Bloobo webdesign,8,08:22:21.150
+GC,GC-CAP,51,-M,David Cheam,EVOLUTION - Warriors,8,08:23:23.895
+GC,GC-CAP,52,-M,Andrew Perkins,LVLESPORT - LEVEL Men,8,08:31:56.639
+GC,GC-CAP,53,-M,Hannes Hamberger,VEGAN - VEGAN - LETOUR,8,08:32:51.432
+GC,GC-CAP,54,-M,Michel Rivard,5W4T - 5W4T,8,08:36:11.596
+GC,GC-CAP,55,-M,James Bowtell,CRCAF - CRCAF - LETOUR,8,08:36:14.332
+GC,GC-CAP,56,-M,Bastian von Hayn,TALENTF - TALENTF - LETOUR,8,08:52:42.287
+GC,GC-CAP,57,-M,Andrew Nicholl,DIRT - DIRT - LETOUR,8,09:01:43.442
+GC,GC-CAP,58,-M,Kelsey smith,RELENTLESS - Taipan,8,09:27:50.012
+GC,GC-CAP,59,-M,Thomas Wagner,FRR - Spectre,7,07:56:54.012
+GC,GC-CAP,60,-M,Charles-Antoine Messier,5W4T - 5W4T,7,07:04:54.888
+GC,GC-CAP,61,-M,Michael Gamst,BL13 - BL13 - LETOUR,7,06:43:26.685
+GC,GC-CAP,62,-M,Patrick Schaefer,OTR - Snowflakes,7,06:58:42.718
+GC,GC-CAP,63,-M,Rusty Davis,FRR - Spectre,7,06:40:41.142
+GC,GC-CAP,64,-M,Ritter Moritz,SWM - SWM - LETOUR,7,07:08:21.983
+GC,GC-CAP,65,-M,Philipp Diethelm,RELENTLESS - Taipan,7,07:19:29.668
+GC,GC-CAP,66,-M,Duncan Johnson,OTR - Octopi,7,07:22:10.355
+GC,GC-CAP,67,-M,Bart Van der Linden,OMG - OMG avec WEZ,7,07:24:44.283
+GC,GC-CAP,68,-M,Francis Cayouette,5W4T - 5W4T,7,07:31:34.786
+GC,GC-CAP,69,-M,Alex Banville,COALITION - Beta,7,07:34:52.146
+GC,GC-CAP,70,-M,Hugues Joannis,5W4T - 5W4T,7,07:38:21.409
+GC,GC-CAP,71,-M,Richard Watson,ABR - ABR Bloobo webdesign,7,07:57:10.112
+GC,GC-CAP,72,-M,Jan Steinmann,WLECOL - WLECOL - LETOUR,5,04:39:51.908
+GC,GC-CAP,73,-M,Bastin Maxime,FFZ - FFZ Spartiate,6,05:45:23.531
+GC,GC-CAP,74,-M,Yoann Deldossi,HEX - HEX - LETOUR,6,05:46:08.832
+GC,GC-CAP,75,-M,JP Durand,5W4T - 5W4T,6,06:20:45.730
+GC,GC-CAP,76,-M,Charles Asselin,OPT - Velo Optimum,6,05:09:10.664
+GC,GC-CAP,77,-M,Nicolas Boucher,OPT - Velo Optimum,6,05:16:15.980
+GC,GC-CAP,78,-M,thomas evans,TEAMCLS - Vitesse verte,6,06:19:16.198
+GC,GC-CAP,79,-M,Adam Otstot,RELENTLESS - Taipan,6,06:39:56.538
+GC,GC-CAP,80,-M,Henry Uys,ZSUNR - ZSUNR - LETOUR,6,05:55:45.042
+GC,GC-CAP,81,-M,Schwaiger Christian,SWM - SWM - LETOUR,6,06:45:00.430
+GC,GC-CAP,82,-M,Josh Harris,TBW - Watopia Tour,6,07:05:36.480
+GC,GC-CAP,83,-M,Noah Balch,OTR - Octopi,3,03:27:31.124
+GC,GC-CAP,84,-M,Greg Morgan,EVOLUTION - Warriors,6,05:09:29.235
+GC,GC-CAP,85,-M,Jan Lammers,TALENTF - TALENTF - LETOUR,6,05:10:18.964
+GC,GC-CAP,86,-M,Brett boniface,OMG - OMG avec WEZ,6,05:10:46.131
+GC,GC-CAP,87,-M,Patrick Orrick,OMG - OMG avec WEZ,6,05:16:39.151
+GC,GC-CAP,88,-M,Jonathan Blomqvist,eSRT - eSRT - LETOUR,4,05:26:07.247
+GC,GC-CAP,89,-M,Siegfried Pfeifer,SWM - SWM - LETOUR,6,05:36:40.104
+GC,GC-CAP,90,-M,Jude LaRene,OMG - OMG avec WEZ,6,05:48:48.007
+GC,GC-CAP,91,-M,Thomas Vael,ZSUNR - ZSUNR - LETOUR,3,04:03:35.321
+GC,GC-CAP,92,-M,Andrew Alderson,FRR - Spectre,4,04:09:17.400
+GC,GC-CAP,93,-M,mickael plantureux,HEX - HEX - LETOUR,4,04:28:05.247
+GC,GC-CAP,94,-M,Aaron Girdlestone,EVOLUTION - Warriors,5,05:13:11.936
+GC,GC-CAP,95,-M,Mark Redfern,EVOLUTION - Le Tour,5,05:27:52.862
+GC,GC-CAP,96,-M,David Henderson,OMG - OMG avec WEZ,5,05:13:53.252
+GC,GC-CAP,97,-M,Mark Wise,ABR - ABR Bloobo webdesign,3,02:31:44.421
+GC,GC-CAP,98,-M,Danies Camille,HEX - HEX - LETOUR,3,03:33:38.790
+GC,GC-CAP,99,-M,Adrien,FFZ - FFZ Spartiate,5,04:16:42.464
+GC,GC-CAP,100,-M,Peter McMullan,BURRITO - BURRITO - LETOUR,5,04:28:55.257
+GC,GC-CAP,101,-M,Felix Gauthier,OPT - Velo Optimum,5,05:27:09.683
+GC,GC-CAP,102,-M,Jon Werme,eSRT - eSRT - LETOUR,5,06:16:53.118
+GC,GC-CAP,103,-M,Mattias Wahlbeck,eSRT - eSRT - LETOUR,3,02:58:14.697
+GC,GC-CAP,104,-M,Luc Guilbeault,5W4T - 5W4T,4,03:06:52.356
+GC,GC-CAP,105,-M,James E Furman,OTR - Snowflakes,4,04:25:21.075
+GC,GC-CAP,106,-M,Marc Gates,TBW - Watopia Tour,3,04:44:56.324
+GC,GC-CAP,107,-M,Zack Muetterties,BL13 - BL13 - LETOUR,5,05:02:19.531
+GC,GC-CAP,108,-M,Mark de Bruijn,RELENTLESS - Taipan,4,02:47:08.349
+GC,GC-CAP,109,-M,Paoloni,FFZ - FFZ Spartiate,4,02:47:38.292
+GC,GC-CAP,110,-M,Walter Simon,SWM - SWM - LETOUR,4,02:52:33.699
+GC,GC-CAP,111,-M,Samuel Le Dortz,BL13 - BL13 - LETOUR,4,04:50:02.512
+GC,GC-CAP,112,-M,Rasmus Raben,ABR - ABR Bloobo webdesign,2,01:54:02.640
+GC,GC-CAP,113,-M,Eric Wise,VELOS - VELOSiraptors,2,01:55:47.506
+GC,GC-CAP,114,-M,Per Sam,TEAMCLS - Vitesse verte,2,03:02:27.951
+GC,GC-CAP,115,-M,Kial Jackson,BURRITO - BURRITO - LETOUR,3,03:20:11.869
+GC,GC-CAP,116,-M,Martin Goikoetxea Conde,TT1 - TT1 - LETOUR,3,04:18:36.662
+GC,GC-CAP,117,-M,Christopher Pruitt,RELENTLESS - Taipan,2,01:42:47.171
+GC,GC-CAP,118,-M,Dan Pedroza,OMG - OMG avec WEZ,2,01:47:23.085
+GC,GC-CAP,119,-M,Pedro Borlido,FRR - Spectre,2,01:49:31.356
+GC,GC-CAP,120,-M,Alex Rockwell,Race3R - ACDC,4,03:55:11.394
+GC,GC-CAP,121,-M,Joey M,DIRT - DIRT - LETOUR,3,02:16:18.073
+GC,GC-CAP,122,-M,Pierre Courtoy,CRYO-GEN - Lancelot,2,03:02:18.712
+GC,GC-CAP,123,-M,Meyckeens Sébastien,FFZ - FFZ Spartiate,4,03:23:37.081
+GC,GC-CAP,124,-M,Luke Marshall,COALITION - Le Tour,4,03:32:57.732
+GC,GC-CAP,125,-M,Jono Martin,Race3R - ACDC,3,02:39:41.093
+GC,GC-CAP,126,-M,Peeters Thierry,TEAMCLS - Vitesse verte,1,00:57:43.711
+GC,GC-CAP,127,-M,Mathieu Dorion,FRR - Spectre,1,01:05:01.098
+GC,GC-CAP,128,-M,Samuel Tremblay,OPT - Velo Optimum,3,02:23:11.296
+GC,GC-CAP,129,-M,Strasser Matthias,SWM - SWM - LETOUR,2,00:39:49.857
+GC,GC-CAP,130,-M,Pascal Höhn,TALENTF - TALENTF - LETOUR,1,02:00:12.979
+GC,GC-CAP,131,-M,André Canuto,OMG - OMG avec WEZ,1,02:04:37.433
+GC,GC-CAP,132,-M,Abdoullah Mitiche,EVOLUTION - Warriors,1,02:07:22.217
+GC,GC-CAP,133,-M,Rui Oliveira,FRR - Spectre,2,02:13:43.928
+GC,GC-CAP,134,-M,Michael Painter,COALITION - Beta,2,02:14:38.353
+GC,GC-CAP,135,-M,Jerry Olsson,SZ - SZ LOKE,1,00:34:10.655
+GC,GC-CAP,136,-M,Felipe Nystrom,OMG - OMG avec WEZ,1,00:34:43.473
+GC,GC-CAP,137,-M,PESCE Julien,OMG - OMG avec WEZ,1,00:36:37.790
+GC,GC-CAP,138,-M,SCHMITT,FRR - Spectre,1,00:37:29.945
+GC,GC-CAP,139,-M,Sebastien DUCASSE,FFZ - FFZ Spartiate,3,02:28:12.155
+GC,GC-CAP,140,-M,Travis Samuel,WLECOL - WLECOL - LETOUR,1,01:08:14.332
+GC,GC-CAP,141,-M,Mason Rocca,SISU - SISU - LETOUR,1,01:08:14.929
+GC,GC-CAP,142,-M,Nicolas Rousselange,TALENTF - TALENTF - LETOUR,1,01:08:15.338
+GC,GC-CAP,143,-M,Marc Santo,TALENTF - TALENTF - LETOUR,1,01:08:26.159
+GC,GC-CAP,144,-M,Massimiliano Wiser,TEAMCLS - Vitesse verte,1,01:08:48.865
+GC,GC-CAP,145,-M,Eric Flanders,OMG - OMG avec WEZ,1,01:10:16.099
+GC,GC-CAP,146,-M,Hugo Viort,FRR - Spectre,1,01:12:52.081
+GC,GC-CAP,147,-M,André Minas,FRR - Spectre,1,01:15:41.753
+GC,GC-CAP,148,-M,Maciek m,ZTPL - ZTPL - LETOUR,2,02:24:36.749
+GC,GC-CAP,149,-M,Steve Shipman,Race3R - ACDC,2,02:33:24.582
+GC,GC-CAP,150,-M,Matt Tomlinson,TT1 - TT1 - LETOUR,1,00:55:02.040
+GC,GC-CAP,151,-M,Gabe Altopp,CRCAF - CRCAF - LETOUR,2,01:27:13.984
+GC,GC-CAP,152,-M,Chris Dawson,WLECOL - WLECOL - LETOUR,1,01:09:59.670
+GC,GC-CAP,153,-M,Paul Hamblett,BURRITO - BURRITO - LETOUR,1,01:10:33.693
+GC,GC-CAP,154,-M,Piotr Truszczyński,ZTPL - ZTPL - LETOUR,1,01:12:11.977
+GC,GC-CAP,155,-M,Brett Hickford,COALITION - Beta,1,01:12:36.908
+GC,GC-CAP,156,-M,Paweł Kalita,ZTPL - ZTPL - LETOUR,1,01:15:42.183
+GC,GC-CAP,157,-M,Jake Saunders,RELENTLESS - Taipan,1,01:15:46.085
+GC,GC-CAP,158,-M,Chris,FRR - Spectre,1,01:18:25.233
+GC,GC-CAP,159,-M,Lee Baxter,BURRITO - BURRITO - LETOUR,1,01:18:26.550
+GC,GC-CAP,160,-M,Uto HAMA,FRR - Spectre,1,01:18:42.589
+GC,GC-CAP,161,-M,Adil Tabalong,ZIRT - ZIRT Uno,2,01:21:51.188
+GC,GC-CAP,162,-M,Jacek Karluk,Race3R - ACDC,2,01:22:04.149
+GC,GC-CAP,163,-M,Anthony Hepworth,OPT - Velo Optimum,2,01:22:25.217
+GC,GC-CAP,164,-M,Alex Watts,TT1 - TT1 - LETOUR,2,01:22:51.128
+GC,GC-CAP,165,-M,Anders Broberg,eSRT - eSRT - LETOUR,2,01:23:46.356
+GC,GC-CAP,166,-M,Gerome Romey,HEX - HEX - LETOUR,2,01:25:02.475
+GC,GC-CAP,167,-M,Stephen Corbyn,VELOS - VELOSiraptors,1,01:27:19.217
+GC,GC-CAP,168,-M,Sammy Knockaert,FRR - Spectre,1,01:12:52.849
+GC,GC-CAP,169,-M,Maario Silm,VELOS - VELOSiraptors,1,00:05:04.443
+GC,GC-CAP,170,-M,Rob Halsall,LVLESPORT - LEVEL Men,1,00:05:13.210
+GC,GC-CAP,171,-M,Sim Adyns,ABR - ABR Bloobo webdesign,1,00:05:17.834
+GC,GC-CRP,1,-M,Jason Bridges,RELENTLESS - Taipan,8,07:53:47.370
+GC,GC-CRP,2,-M,Justus Ade,SZ - SZ LOKE,8,07:54:27.558
+GC,GC-CRP,3,-M,Kris Poole,FRR - Spectre,8,08:10:54.173
+GC,GC-CRP,4,-M,Yves Niederhäuser,WLECOL - WLECOL - LETOUR,8,08:14:20.402
+GC,GC-CRP,5,-M,Eric Nevin,Race3R - ACDC,8,08:16:06.975
+GC,GC-CRP,6,-M,Mike robson,OTR - Crazy8s,8,08:16:23.407
+GC,GC-CRP,7,-M,Christian Seyr,KIRCHMAIR - KIRCHMAIR - LETOUR,8,08:17:01.623
+GC,GC-CRP,8,-M,Carl Frechette,OPT - Velo Optimum,8,08:17:33.577
+GC,GC-CRP,9,-M,David Bagdan,Race3R - ACDC,8,08:17:59.250
+GC,GC-CRP,10,-M,Philippe Hakier,5W4T - 5W4T,8,08:20:14.719
+GC,GC-CRP,11,-M,David Kowalski,COALITION - Le Tour,8,08:20:37.975
+GC,GC-CRP,12,-M,Diogo Leite,TugaZ - Pico,8,08:21:02.395
+GC,GC-CRP,13,-M,Cedrick Graham,OPT - Velo Optimum,8,08:21:10.768
+GC,GC-CRP,14,-M,Schaub Sebastian,SWM - SWM - LETOUR,8,08:21:31.256
+GC,GC-CRP,15,-M,Francis McKinnon,OPT - Velo Optimum,8,08:24:08.535
+GC,GC-CRP,16,-M,Matthias Runge,WATTFAB - WATTFAB - LETOUR,8,08:27:04.267
+GC,GC-CRP,17,-M,Pavel Morozov,EVOLUTION - Le Tour,8,08:28:43.336
+GC,GC-CRP,18,-M,Leon O'Regan,ABR - ABR Bloobo webdesign,8,08:28:43.560
+GC,GC-CRP,19,-M,M.Tommis,TBR - JumboVisma,8,08:30:39.760
+GC,GC-CRP,20,-M,Christian Baum,SWM - SWM - LETOUR,8,08:30:44.140
+GC,GC-CRP,21,-M,Stefan Faulkner,WLECOL - WLECOL - LETOUR,8,08:34:38.719
+GC,GC-CRP,22,-M,Dan Pannell,COALITION - Le Tour,8,08:34:39.894
+GC,GC-CRP,23,-M,GIS,FFZ - FFZ Spartiate,8,08:35:10.602
+GC,GC-CRP,24,-M,Christoph Hindermann,WATTFAB - WATTFAB - LETOUR,8,08:38:36.053
+GC,GC-CRP,25,-M,Taylor Gonsoulin,OTR - Crazy8s,8,08:39:08.721
+GC,GC-CRP,26,-M,Tobias Lagemann,SISU - SISU - LETOUR,8,08:40:46.648
+GC,GC-CRP,27,-M,Stephan Schweiger,WATTFAB - WATTFAB - LETOUR,8,08:40:47.069
+GC,GC-CRP,28,-M,Mark Fenton,ABR - ABR Bloobo webdesign,8,08:40:48.733
+GC,GC-CRP,29,-M,Joker Aldo Sena [ZIRT],ZIRT - ZIRT Uno,8,08:42:50.597
+GC,GC-CRP,30,-M,David L Gabb,RELENTLESS - Taipan,8,08:43:13.264
+GC,GC-CRP,31,-M,Colin Staats,FRR - Spectre,8,08:43:27.588
+GC,GC-CRP,32,-M,Martin Cote,LWATT - E-mmortels,8,08:48:11.156
+GC,GC-CRP,33,-M,Daniel Manalo,OTR - Octopi,8,08:55:39.000
+GC,GC-CRP,34,-M,Ally Loney,DIRT - DIRT - LETOUR,8,08:58:50.922
+GC,GC-CRP,35,-M,Kevin Mullins,TT1 - TT1 - LETOUR,8,09:03:07.120
+GC,GC-CRP,36,-M,Jason Drummond,USMES - Tour,8,09:07:16.749
+GC,GC-CRP,37,-M,Guillaume Lamy,OPT - Velo Optimum,8,09:15:55.566
+GC,GC-CRP,38,-M,Jin Yamamoto,COALITION - Le Tour,8,09:23:14.963
+GC,GC-CRP,39,-M,Dave Garguilo,CRCAF - CRCAF - LETOUR,8,10:34:57.004
+GC,GC-CRP,40,-M,Jean-Christophe Beaulieu,OPT - Velo Optimum,6,07:15:48.267
+GC,GC-CRP,41,-M,Paul Chubb,BL13 - BL13 - LETOUR,6,07:21:10.633
+GC,GC-CRP,42,-M,Gattlen Sébastien,FFZ - FFZ Spartiate,7,07:34:33.107
+GC,GC-CRP,43,-M,Sylvain Lafrance,OPT - Velo Optimum,7,07:16:20.866
+GC,GC-CRP,44,-M,Paul Buckland,RELENTLESS - Taipan,7,07:12:16.324
+GC,GC-CRP,45,-M,Joseph Shields,RELENTLESS - Taipan,7,07:18:27.794
+GC,GC-CRP,46,-M,Alexandre Doyon,OPT - Velo Optimum,7,07:30:18.703
+GC,GC-CRP,47,-M,Chris Pearce,TBR - JumboVisma,7,07:43:12.081
+GC,GC-CRP,48,-M,Raphael Caron Asselin,OPT - Velo Optimum,7,07:51:14.050
+GC,GC-CRP,49,-M,Andy Styger,KIRCHMAIR - KIRCHMAIR - LETOUR,7,08:02:15.272
+GC,GC-CRP,50,-M,Ben Mackinson,ABR - ABR Bloobo webdesign,6,05:29:17.017
+GC,GC-CRP,51,-M,Craig Segal,ABR - ABR Bloobo webdesign,6,06:40:27.180
+GC,GC-CRP,52,-M,Jonathan Bisson,5W4T - 5W4T,6,06:41:18.241
+GC,GC-CRP,53,-M,Elton Judd,TBR - JumboVisma,6,06:07:41.684
+GC,GC-CRP,54,-M,Neil Turner,Race3R - ACDC,6,06:15:28.291
+GC,GC-CRP,55,-M,VO2max Coaching [CRP],FRR - Spectre,5,06:40:42.442
+GC,GC-CRP,56,-M,Sandro LSZ,WATTFAB - WATTFAB - LETOUR,6,05:25:40.436
+GC,GC-CRP,57,-M,Niels Delahoutre,ABR - ABR Bloobo webdesign,6,05:31:13.315
+GC,GC-CRP,58,-M,Matjaz Zupanic,Race3R - ACDC,6,05:36:10.886
+GC,GC-CRP,59,-M,Nicolas Moreno,ZSUNR - ZSUNR - LETOUR,6,05:42:23.031
+GC,GC-CRP,60,-M,Tom Naabe,TBR - JumboVisma,6,05:45:48.444
+GC,GC-CRP,61,-M,Paul Hollings,EVOLUTION - Warriors,6,05:49:26.196
+GC,GC-CRP,62,-M,Paul Dubienski,SWM - SWM - LETOUR,5,05:04:18.326
+GC,GC-CRP,63,-M,Clement Desle,DIRT - DIRT - LETOUR,5,05:42:18.918
+GC,GC-CRP,64,-M,Bill Dobson,WLECOL - WLECOL - LETOUR,5,04:33:16.557
+GC,GC-CRP,65,-M,Philipp Pene,TALENTF - TALENTF - LETOUR,5,04:54:39.860
+GC,GC-CRP,66,-M,Massimo Fabbri,SOCKS4W - Le Tour,4,05:54:47.301
+GC,GC-CRP,67,-M,Alexander Vellekoop,AMANI - AMANI - LETOUR,3,03:15:11.406
+GC,GC-CRP,68,-M,Jason ONeill,RELENTLESS - Taipan,4,04:02:14.321
+GC,GC-CRP,69,-M,Grant Womack,BL13 - BL13 - LETOUR,5,04:51:53.905
+GC,GC-CRP,70,-M,DT,EVOLUTION - Warriors,3,03:02:47.313
+GC,GC-CRP,71,-M,Martin Ehmoser,TALENTF - TALENTF - LETOUR,4,03:54:44.230
+GC,GC-CRP,72,-M,Nelson Pinto,FRR - Spectre,2,03:24:56.197
+GC,GC-CRP,73,-M,Davis Frease,USMES - Tour,3,02:26:28.664
+GC,GC-CRP,74,-M,Tim van rennes,TBR - JumboVisma,2,02:11:00.394
+GC,GC-CRP,75,-M,Richy howell,LVLESPORT - LEVEL Men,3,02:11:36.852
+GC,GC-CRP,76,-M,Ryan M Fiege,COALITION - Le Tour,4,03:42:17.701
+GC,GC-CRP,77,-M,Robin Andersson,eSRT - eSRT - LETOUR,2,02:13:38.171
+GC,GC-CRP,78,-M,Bob Jones,FRR - Spectre,2,02:24:40.267
+GC,GC-CRP,79,-M,Chris Benham,RELENTLESS - Taipan,3,02:27:09.178
+GC,GC-CRP,80,-M,Christian JACQUE,FFZ - FFZ Spartiate,3,02:34:19.423
+GC,GC-CRP,81,-M,Alex Nairz,TALENTF - TALENTF - LETOUR,3,02:37:21.006
+GC,GC-CRP,82,-M,Christian Deschênes,5W4T - 5W4T,2,02:42:09.102
+GC,GC-CRP,83,-M,Julian Herz,WATTFAB - WATTFAB - LETOUR,1,02:00:46.249
+GC,GC-CRP,84,-M,Ruben Villalain,TFC - TFC Harriers,1,02:06:08.259
+GC,GC-CRP,85,-M,Rune Jensen,KST - KST - LETOUR,1,02:07:34.994
+GC,GC-CRP,86,-M,Mathew Bassett,COALITION - Le Tour,2,02:16:23.418
+GC,GC-CRP,87,-M,Jesse Dekker,BAKPDL - BP1,3,02:20:07.593
+GC,GC-CRP,88,-M,Alden Basmajian,RELENTLESS - Taipan,3,02:21:40.403
+GC,GC-CRP,89,-M,Troy de Juncker,BAKPDL - BP1,1,00:35:59.175
+GC,GC-CRP,90,-M,Myles Ward,FRR - Spectre,1,00:36:29.540
+GC,GC-CRP,91,-M,JamesLawler,WLECOL - WLECOL - LETOUR,1,00:37:15.834
+GC,GC-CRP,92,-M,Neil Bennison,ABR - ABR Bloobo webdesign,1,00:37:41.394
+GC,GC-CRP,93,-M,Magnus Wiklund,eSRT - eSRT - LETOUR,1,00:43:17.000
+GC,GC-CRP,94,-M,Benjamin Axt,WATTFAB - WATTFAB - LETOUR,3,02:35:06.129
+GC,GC-CRP,95,-M,Michiel Balcaen,COALITION - Le Tour,3,02:44:40.341
+GC,GC-CRP,96,-M,Nathan Parton,SISU - SISU - LETOUR,1,01:10:42.799
+GC,GC-CRP,97,-M,Nathan McGinty,DRAFTDINO - Dinos,2,01:13:14.068
+GC,GC-CRP,98,-M,Pedro Pinheiro,FRR - Spectre,1,01:13:49.820
+GC,GC-CRP,99,-M,Tom Boveree,Race3R - ACDC,1,01:15:10.005
+GC,GC-CRP,100,-M,Frank Walter,TALENTF - TALENTF - LETOUR,1,01:15:12.030
+GC,GC-CRP,101,-M,Bruno Passos,FRR - Spectre,1,01:16:27.852
+GC,GC-CRP,102,-M,Kevin Metcalfe,COALITION - Le Tour,1,00:56:30.343
+GC,GC-CRP,103,-M,JÃ©rÃ©mie Vachon,5W4T - 5W4T,1,00:56:53.087
+GC,GC-CRP,104,-M,Matthias Seismann,TALENTF - TALENTF - LETOUR,2,01:18:14.875
+GC,GC-CRP,105,-M,Jason Caine,BAKPDL - BP1,2,01:23:27.833
+GC,GC-CRP,106,-M,David,VELOS - VELOSiraptors,2,01:23:47.963
+GC,GC-CRP,107,-M,Unai Balenciaga,EVOLUTION - Le Tour,2,01:29:39.050
+GC,GC-CRP,108,-M,Jakob Wilson,RELENTLESS - Taipan,1,01:12:51.310
+GC,GC-CRP,109,-M,Peter Bradbury,ZSCOT - ZSCOT - LETOUR,1,01:24:01.361
+GC,GC-CRP,110,-M,Travis Frazier,OMG - OMG avec WEZ,1,00:05:20.009
+GC,GC-CRP,111,-M,Nick Salentin,TALENTF - TALENTF - LETOUR,1,00:05:21.100
+GC,GC-CRP,112,-M,Remi Tremblay,DIRT - DIRT - LETOUR,1,00:05:24.912
+GC,GC-CRP,113,-M,Maik Abraham,TALENTF - TALENTF - LETOUR,1,00:05:28.755
+GC,GC-CRP,114,-M,Jos Medema,VELOS - VELOSiraptors,1,00:05:57.142
+GC,GC-CRP,115,-M,Brett,DRAFTDINO - Dinos,1,00:07:17.263
+GC,GC-GHT,1,-M,Chris Harnish,FRR - Spectre,8,08:21:46.049
+GC,GC-GHT,2,-M,Luis Ma Olivares,TBW - Watopia Tour,8,08:27:34.264
+GC,GC-GHT,3,-M,Neil Hodgson,OTR - Snowflakes,8,08:32:18.673
+GC,GC-GHT,4,-M,Stewart White,TFC - TFC Harriers,8,08:32:44.605
+GC,GC-GHT,5,-M,Patrick Caisse,5W4T - 5W4T,8,08:36:02.295
+GC,GC-GHT,6,-M,Jens Schumann,WATTFAB - WATTFAB - LETOUR,8,08:39:03.364
+GC,GC-GHT,7,-F,Anne Nevin,SOCKS4W - Le Tour,8,08:39:40.085
+GC,GC-GHT,8,-M,Greg Welton,OTR - Snowflakes,8,08:40:21.409
+GC,GC-GHT,9,-F,Timea Cserhegyi,EVOLUTION - Le Tour,8,08:40:27.385
+GC,GC-GHT,10,-M,Felix,WATTFAB - WATTFAB - LETOUR,8,08:44:35.569
+GC,GC-GHT,11,-M,Nicolas Rafael,OPT - Velo Optimum,8,08:45:12.578
+GC,GC-GHT,12,-M,David Browne,PCH - PCH - LETOUR,8,08:45:43.783
+GC,GC-GHT,13,-M,Ossie Assem,EVOLUTION - Le Tour,8,08:46:49.287
+GC,GC-GHT,14,-M,Antonio Dias,TugaZ - Pico,8,08:47:16.300
+GC,GC-GHT,15,-M,Jon Telfer,FRR - Spectre,8,08:47:30.676
+GC,GC-GHT,16,-M,Maxime Turcotte,OPT - Velo Optimum,8,08:47:34.420
+GC,GC-GHT,17,-M,Jacket,FRR - Spectre,8,08:47:44.538
+GC,GC-GHT,18,-M,Fernando Cortes,FRR - Spectre,8,08:47:44.611
+GC,GC-GHT,19,-M,Jonathan Winward,TT1 - TT1 - LETOUR,8,08:47:58.222
+GC,GC-GHT,20,-M,Matthew Ladd,COALITION - Le Tour,8,08:49:22.302
+GC,GC-GHT,21,-F,Sarah Bishop,OTR - Octopi,8,08:49:59.996
+GC,GC-GHT,22,-M,Mattias Forslin,FRR - Spectre,8,08:50:07.208
+GC,GC-GHT,23,-M,Eltjo Biemold,ZSUNR - ZSUNR - LETOUR,8,08:50:31.881
+GC,GC-GHT,24,-M,Luís Castro,TugaZ - Pico,8,08:53:24.448
+GC,GC-GHT,25,-M,Duende Santana,FRR - Spectre,8,08:53:37.453
+GC,GC-GHT,26,-M,Markian Yskout,DIRT - DIRT - LETOUR,8,08:55:29.493
+GC,GC-GHT,27,-F,Cat Haines,SOCKS4W - Le Tour,8,08:57:00.203
+GC,GC-GHT,28,-M,Fredrik Nygren,SZ - SZ LOKE,8,08:58:02.785
+GC,GC-GHT,29,-M,Kevin Broadstreet,FFZ - FFZ Spartiate,8,09:01:05.905
+GC,GC-GHT,30,-M,Calle Olsen,SZ - SZ LOKE,8,09:01:30.837
+GC,GC-GHT,31,-M,Lukas Markard,SWM - SWM - LETOUR,8,09:01:32.893
+GC,GC-GHT,32,-M,Tom Durham,ATWT - ATWT - LETOUR,8,09:02:45.054
+GC,GC-GHT,33,-M,Colin Swan,DIRT - DIRT - LETOUR,8,09:03:20.450
+GC,GC-GHT,34,-F,Mia Mawdsley,eSRT - eSRT - LETOUR,8,09:03:27.900
+GC,GC-GHT,35,-M,Chris H,HERD - HERD - LETOUR,8,09:03:45.039
+GC,GC-GHT,36,-M,Robert Taylor,ZSCOT - ZSCOT - LETOUR,8,09:06:40.302
+GC,GC-GHT,37,-M,Robert Griffin,DRAFTDINO - Dinos,8,09:07:34.270
+GC,GC-GHT,38,-M,JJ,ABR - ABR Bloobo webdesign,8,09:08:15.025
+GC,GC-GHT,39,-M,Jon Meals,TFC - TFC Harriers,8,09:08:39.082
+GC,GC-GHT,40,-M,Steve Cambria,CRCAF - CRCAF - LETOUR,8,09:10:32.005
+GC,GC-GHT,41,-M,Nico Damrat,ABR - ABR Bloobo webdesign,8,09:12:16.135
+GC,GC-GHT,42,-M,Nathan Manyk,DIRT - DIRT - LETOUR,8,09:13:54.637
+GC,GC-GHT,43,-M,Jean-Christophe Simard,OPT - Velo Optimum,8,09:14:36.969
+GC,GC-GHT,44,-M,Alexandre Dumont,5W4T - 5W4T,8,09:15:07.196
+GC,GC-GHT,45,-M,Thomas Scholz,RCP - RC Pfeil Rebellunas 1,8,09:16:08.558
+GC,GC-GHT,46,-M,Peter Salt,CCC - CCC - LETOUR,8,09:19:10.821
+GC,GC-GHT,47,-M,Dustin Hess,OTR - Octopi,8,09:19:10.835
+GC,GC-GHT,48,-M,Jasmin Marinelli,5W4T - 5W4T,8,09:23:44.633
+GC,GC-GHT,49,-M,Scott Pomeroy,TFC - TFC Harriers,8,09:28:23.895
+GC,GC-GHT,50,-M,Josh Mahlandt,OTR - Octopi,8,09:28:58.497
+GC,GC-GHT,51,-M,Chris Rüter,WATTFAB - WATTFAB - LETOUR,8,09:29:38.544
+GC,GC-GHT,52,-M,Matt Corse,LVLESPORT - LEVEL Men,8,09:31:12.186
+GC,GC-GHT,53,-M,Kevin Horsley,WLECOL - WLECOL - LETOUR,8,09:33:41.151
+GC,GC-GHT,54,-M,Wendell,USMES - Tour,8,09:37:11.264
+GC,GC-GHT,55,-M,Martin Ward,ATWT - ATWT - LETOUR,8,09:37:23.567
+GC,GC-GHT,56,-M,Jay Keteleers,WLECOL - WLECOL - LETOUR,8,09:42:53.993
+GC,GC-GHT,57,-M,DAVID LAMINETTE  FFZ,FFZ - FFZ Spartiate,7,08:42:48.386
+GC,GC-GHT,58,-M,Martin Coffey,FRR - Spectre,7,07:34:59.869
+GC,GC-GHT,59,-M,Erwin Bootsmann,RCP - RC Pfeil Rebellunas 1,6,07:52:37.177
+GC,GC-GHT,60,-M,Jonathan Grenier,5W4T - 5W4T,7,07:55:05.722
+GC,GC-GHT,61,-M,Kevin Davis,USMES - Tour,7,08:04:08.218
+GC,GC-GHT,62,-M,Samuel Dupuis,LWATT - E-mmortels,7,07:29:07.610
+GC,GC-GHT,63,-M,Kieran Ronan,CRCAF - CRCAF - LETOUR,7,07:37:37.017
+GC,GC-GHT,64,-M,Rob Millar,OTR - Octopi,7,07:50:38.962
+GC,GC-GHT,65,-M,Andrew Harry,ZIRT - ZIRT Uno,7,08:00:10.326
+GC,GC-GHT,66,-M,James Esbester,WELLW - WELLW - LETOUR,6,06:43:32.767
+GC,GC-GHT,67,-M,Luis Barbosa,TugaZ - Pico,7,08:48:58.037
+GC,GC-GHT,68,-M,Paul Graham,WELLW - WELLW - LETOUR,6,06:28:35.628
+GC,GC-GHT,69,-M,Pedro Nunes,TugaZ - Pico,7,06:43:49.614
+GC,GC-GHT,70,-M,Florian Halstenbach,KIRCHMAIR - KIRCHMAIR - LETOUR,7,06:53:19.206
+GC,GC-GHT,71,-M,Oliver Tobian,ALPENTVC - AVC-Hippos,7,06:53:50.422
+GC,GC-GHT,72,-M,Janne HÃ¶ijer Jakobsson,eSRT - eSRT - LETOUR,7,06:54:08.974
+GC,GC-GHT,73,-M,Sven-Bertil Forsberg,SZ - SZ LOKE,7,06:56:32.929
+GC,GC-GHT,74,-M,Thomas Schulz,CRCAF - CRCAF - LETOUR,7,06:57:39.223
+GC,GC-GHT,75,-M,Samuel Wirawibawa,ZIRT - ZIRT Uno,7,07:28:39.295
+GC,GC-GHT,76,-M,Rui Azevedo,TugaZ - Pico,6,06:06:38.637
+GC,GC-GHT,77,-M,Andrew Maljaars,EVOLUTION - Le Tour,7,07:46:15.612
+GC,GC-GHT,78,-M,Laurent LeBel,5W4T - 5W4T,7,07:49:28.520
+GC,GC-GHT,79,-M,Johan Löwenhamn,SZ - SZ LOKE,7,07:50:53.858
+GC,GC-GHT,80,-M,Thomas Muraton,OPT - Velo Optimum,7,08:36:07.751
+GC,GC-GHT,81,-M,Alessandro campana,PCH - PCH - LETOUR,6,05:25:31.836
+GC,GC-GHT,82,-M,Eric Detrick,FRR - Spectre,6,07:26:35.931
+GC,GC-GHT,83,-M,Christian Müller,ABR - ABR Bloobo webdesign,4,04:26:21.517
+GC,GC-GHT,84,-M,Peter Holzmann,WLBB - WLBB - LETOUR,4,04:34:11.761
+GC,GC-GHT,85,-M,Joe Woodson,DRAFTDINO - Dinos,6,06:15:55.339
+GC,GC-GHT,86,-M,Jeremy Chaix,5W4T - 5W4T,6,06:17:09.529
+GC,GC-GHT,87,-F,Catherine Paquet,5W4T - 5W4T,5,03:58:28.351
+GC,GC-GHT,88,-M,Martijn Wiggers,AMANI - AMANI - LETOUR,4,05:27:48.215
+GC,GC-GHT,89,-M,Stuart Bulloch,Race3R - ACDC,5,05:42:32.789
+GC,GC-GHT,90,-M,Andrew Rayner,EVOLUTION - Le Tour,4,04:15:52.750
+GC,GC-GHT,91,-M,Marco Von Rickenbach,KIRCHMAIR - KIRCHMAIR - LETOUR,4,05:52:51.581
+GC,GC-GHT,92,-M,Niels Harbs,WATTFAB - WATTFAB - LETOUR,6,06:18:29.494
+GC,GC-GHT,93,-M,Dennis 7B,EVOLUTION - Le Tour,6,06:23:45.286
+GC,GC-GHT,94,-M,Chris Shelton,OTR - Snowflakes,6,07:16:54.376
+GC,GC-GHT,95,-M,Victor Charlie,AMANI - AMANI - LETOUR,4,03:54:56.961
+GC,GC-GHT,96,-M,Anders PetersÃ©n,SZ - SZ LOKE,5,04:32:15.222
+GC,GC-GHT,97,-M,Cory Dams,RELENTLESS - Taipan,6,05:48:12.761
+GC,GC-GHT,98,-M,Espouy,FFZ - FFZ Spartiate,5,05:29:20.718
+GC,GC-GHT,99,-M,Vincent Kirste,WATTFAB - WATTFAB - LETOUR,5,05:14:52.169
+GC,GC-GHT,100,-M,David Higgins,TBR - JumboVisma,5,06:11:38.593
+GC,GC-GHT,101,-M,Rui Dias,FRR - Spectre,4,04:13:43.818
+GC,GC-GHT,102,-M,Gary Haydon,CRYO-GEN - Lancelot,5,04:23:30.133
+GC,GC-GHT,103,-M,Harm Verhoeven,TEAMCLS - Vitesse verte,4,04:25:26.462
+GC,GC-GHT,104,-M,Sean van der Plas,AMANI - AMANI - LETOUR,5,04:35:20.197
+GC,GC-GHT,105,-M,Francesco Roberto Bell,RELENTLESS - Taipan,4,05:01:14.326
+GC,GC-GHT,106,-F,Jen Moroz,OTR - Snowflakes,3,03:09:39.793
+GC,GC-GHT,107,-M,Stephan Hussmann,FRR - Spectre,4,03:15:59.738
+GC,GC-GHT,108,-M,Florian KÃ¶rber,WLBB - WLBB - LETOUR,4,03:17:09.972
+GC,GC-GHT,109,-M,Philippe Ponsot,OPT - Velo Optimum,5,04:48:48.566
+GC,GC-GHT,110,-M,Matt Nelson,RELENTLESS - Taipan,5,05:57:49.673
+GC,GC-GHT,111,-M,Michael da Silva Gunther,CRYO-GEN - Lancelot,4,03:31:41.481
+GC,GC-GHT,112,-M,Joel Harding,USMES - Tour,3,03:48:45.806
+GC,GC-GHT,113,-M,Edward Hems,COALITION - Le Tour,3,02:50:03.116
+GC,GC-GHT,114,-M,Andre Landry,5W4T - 5W4T,2,03:11:57.101
+GC,GC-GHT,115,-M,Shaun Yeoman,TFC - TFC Harriers,5,04:46:45.481
+GC,GC-GHT,116,-M,Robert Egelnor,SZ - SZ LOKE,5,04:49:12.352
+GC,GC-GHT,117,-F,Cornelia Engström,SZ - SZ LOKE,5,04:52:53.544
+GC,GC-GHT,118,-M,Joseph Anthony,RELENTLESS - Taipan,5,05:00:37.770
+GC,GC-GHT,119,-M,S. Lebeau,FFZ - FFZ Spartiate,5,05:08:37.992
+GC,GC-GHT,120,-M,Jeff Tsang,OTR - Snowflakes,3,02:38:41.158
+GC,GC-GHT,121,-M,Stephane lachance,LWATT - E-mmortels,3,02:43:23.253
+GC,GC-GHT,122,-M,Ulf Bergling,SZ - SZ LOKE,4,03:46:05.688
+GC,GC-GHT,123,-M,Erik John,TFC - TFC Harriers,3,04:23:47.390
+GC,GC-GHT,124,-F,Morgan Cabot,REVO - REVO,2,02:45:05.511
+GC,GC-GHT,125,-M,Sean Phillips,DIRT - DIRT - LETOUR,2,02:47:31.901
+GC,GC-GHT,126,-M,Oliver Kiefer,ALPENTVC - AVC-Hippos,4,02:55:01.162
+GC,GC-GHT,127,-M,Andy Stewart,RELENTLESS - Taipan,2,02:57:38.498
+GC,GC-GHT,128,-F,Ann-Sophie Therrien,OPT - Velo Optimum,4,03:00:01.425
+GC,GC-GHT,129,-M,Kendrew Leung,DIRT - DIRT - LETOUR,4,03:13:15.774
+GC,GC-GHT,130,-F,Amanda,COALITION - Beta,4,04:47:07.003
+GC,GC-GHT,131,-M,Andreas Kuntz,FRR - Spectre,2,02:03:04.858
+GC,GC-GHT,132,-M,Sacha Ouimet,5W4T - 5W4T,3,03:02:49.969
+GC,GC-GHT,133,-M,Reinold Bürki,WATTFAB - WATTFAB - LETOUR,4,04:00:17.069
+GC,GC-GHT,134,-F,Antonia Jubb,ATWT - ATWT - LETOUR,3,01:53:13.964
+GC,GC-GHT,135,-M,Kenneth Cools,COALITION - Le Tour,2,03:13:02.246
+GC,GC-GHT,136,-M,René Meijer,AMANI - AMANI - LETOUR,4,04:04:11.292
+GC,GC-GHT,137,-M,Stevie Cobb,ATWT - ATWT - LETOUR,4,04:13:29.162
+GC,GC-GHT,138,-M,Truls Gronvold,FRR - Spectre,2,01:35:05.702
+GC,GC-GHT,139,-M,Henrik Engelsen,FRR - Spectre,2,01:35:52.918
+GC,GC-GHT,140,-M,David Gillam,TT1 - TT1 - LETOUR,2,03:25:27.457
+GC,GC-GHT,141,-F,Caroline,eSRT - eSRT - LETOUR,3,03:38:04.476
+GC,GC-GHT,142,-M,Kent Langridge,TFC - TFC Harriers,4,03:41:44.877
+GC,GC-GHT,143,-M,Steve Carson,Race3R - ACDC,3,02:06:43.372
+GC,GC-GHT,144,-M,Michael Haar,KIRCHMAIR - KIRCHMAIR - LETOUR,2,02:14:00.961
+GC,GC-GHT,145,-M,Ant Jenkins,SISU - SISU - LETOUR,2,02:39:02.336
+GC,GC-GHT,146,-M,Mikael Herling,eSRT - eSRT - LETOUR,2,00:43:48.993
+GC,GC-GHT,147,-M,Tiago SILVA,FRR - Spectre,1,01:59:55.532
+GC,GC-GHT,148,-M,Iain Sully,DIRT - DIRT - LETOUR,1,02:12:20.429
+GC,GC-GHT,149,-M,Martin RanefjÃ¤rd,SZ - SZ LOKE,1,02:13:13.482
+GC,GC-GHT,150,-M,Magnus Boucsein,TALENTF - TALENTF - LETOUR,3,02:18:18.718
+GC,GC-GHT,151,-M,Tim Ellis,DIRT - DIRT - LETOUR,3,02:24:40.300
+GC,GC-GHT,152,-M,Jonathan Milberg,SWM - SWM - LETOUR,3,02:24:52.143
+GC,GC-GHT,153,-M,Neil Atherton,COALITION - Le Tour,3,02:40:44.927
+GC,GC-GHT,154,-M,Thomas Janka,TALENTF - TALENTF - LETOUR,1,00:36:42.637
+GC,GC-GHT,155,-M,giulio strazzulla,FOUDRE - FOUDRE - LETOUR,1,00:38:13.608
+GC,GC-GHT,156,-M,Björn Schaap,LVLESPORT - LEVEL Men,1,00:42:08.437
+GC,GC-GHT,157,-M,Vincent Lavallee,OPT - Velo Optimum,2,01:25:28.050
+GC,GC-GHT,158,-M,Dejan Presen,Race3R - ACDC,2,02:23:13.038
+GC,GC-GHT,159,-F,Åsa Fast-Berglund,SZ - SZ LOKE,3,02:39:50.051
+GC,GC-GHT,160,-M,Alex Wiseman,CRCAF - CRCAF - LETOUR,3,02:47:34.182
+GC,GC-GHT,161,-M,Magnus Andersson,SZ - SZ LOKE,3,02:49:47.218
+GC,GC-GHT,162,-F,Michèle Jean,OPT - Velo Optimum,3,02:53:09.438
+GC,GC-GHT,163,-M,Julian Rampelmann,CRCAF - CRCAF - LETOUR,3,02:57:37.209
+GC,GC-GHT,164,-M,Jordy,FRR - Spectre,1,01:13:29.646
+GC,GC-GHT,165,-M,Tom,FRR - Spectre,1,01:16:32.342
+GC,GC-GHT,166,-M,Alfred Platzer,FRR - Spectre,2,02:42:55.491
+GC,GC-GHT,167,-M,Nick Benham,RELENTLESS - Taipan,1,00:55:12.532
+GC,GC-GHT,168,-M,Simon Law,ABR - ABR Bloobo webdesign,1,00:57:55.680
+GC,GC-GHT,169,-M,Dan Stimson,Race3R - ACDC,2,01:27:57.940
+GC,GC-GHT,170,-M,Fredrik Ringström,SZ - SZ LOKE,2,01:20:46.821
+GC,GC-GHT,171,-M,Bob Dickhoff,WLECOL - WLECOL - LETOUR,2,01:23:46.458
+GC,GC-GHT,172,-M,Sören Schumacher,VEGAN - VEGAN - LETOUR,2,01:24:10.257
+GC,GC-GHT,173,-M,Michael Haran,BAKPDL - BP1,2,01:24:43.072
+GC,GC-GHT,174,-M,Tom Monta,CRYO-GEN - Lancelot,2,01:25:12.623
+GC,GC-GHT,175,-M,Gasper Matelic,Race3R - ACDC,2,01:25:38.632
+GC,GC-GHT,176,-M,Patrik Beck,eSRT - eSRT - LETOUR,1,01:26:49.377
+GC,GC-GHT,177,-F,Emma Wingrove,TEAMCLS - Vitesse verte,2,01:29:36.218
+GC,GC-GHT,178,-M,Dan robathan,DIRT - DIRT - LETOUR,2,01:30:18.768
+GC,GC-GHT,179,-M,Carl Desrosiers,5W4T - 5W4T,2,01:37:14.058
+GC,GC-GHT,180,-M,Reggie,FRR - Spectre,1,01:22:03.031
+GC,GC-GHT,181,-M,Piotr Olejnik,PCH - PCH - LETOUR,1,00:05:20.183
+GC,GC-GHT,182,-M,Dave Husband,DIRT - DIRT - LETOUR,1,00:05:25.235
+GC,GC-GHT,183,-M,Frank Jordan,ALPENTVC - AVC-Hippos,1,00:05:30.243
+GC,GC-GHT,184,-M,Krister Aalto,eSRT - eSRT - LETOUR,1,00:05:37.395
+GC,GC-GHT,185,-M,Phillip Hardaway,COALITION - Le Tour,1,00:05:44.315
+GC,GC-HAB,1,-M,John O´Callaghan,ABR - ABR Bloobo webdesign,8,08:41:01.800
+GC,GC-HAB,2,-M,Ralph Matecki,FRR - Spectre,8,08:41:57.513
+GC,GC-HAB,3,-M,Schneemann,TALENTF - TALENTF - LETOUR,8,08:44:52.216
+GC,GC-HAB,4,-M,Jesper Johansson,SZ - SZ LOKE,8,08:47:41.821
+GC,GC-HAB,5,-M,Ricky Klingvall,eSRT - eSRT - LETOUR,8,08:52:45.553
+GC,GC-HAB,6,-M,Thomas Hebestreit,TALENTF - TALENTF - LETOUR,8,08:53:00.517
+GC,GC-HAB,7,-M,Frank Schweinheim,FRR - Spectre,8,08:53:51.200
+GC,GC-HAB,8,-M,Mike Box,BURRITO - BURRITO - LETOUR,8,08:55:31.263
+GC,GC-HAB,9,-M,Andy Erickson (RC),CRCAF - CRCAF - LETOUR,8,08:56:30.999
+GC,GC-HAB,10,-M,Fabian H.,ABR - ABR Bloobo webdesign,8,08:58:01.358
+GC,GC-HAB,11,-M,Christopher Booth,EVOLUTION - Le Tour,8,08:59:43.495
+GC,GC-HAB,12,-M,Dirk Seifried,ALPENTVC - AVC-Hippos,8,09:01:34.266
+GC,GC-HAB,13,-M,Christian Christoph,SWM - SWM - LETOUR,8,09:02:07.712
+GC,GC-HAB,14,-M,Morten Monsrud-Nielsen,CRCAF - CRCAF - LETOUR,8,09:08:46.970
+GC,GC-HAB,15,-M,Luis Rosado,TugaZ - Pico,8,09:09:34.305
+GC,GC-HAB,16,-M,Sam Mack,BPCC - BPCC - LETOUR,8,09:10:28.001
+GC,GC-HAB,17,-M,Nathan Joyce,ABR - ABR Bloobo webdesign,8,09:11:17.288
+GC,GC-HAB,18,-F,Alison Kerr,ZSCOT - ZSCOT - LETOUR,8,09:11:43.269
+GC,GC-HAB,19,-M,Akihiro Shinki,PCH - PCH - LETOUR,8,09:14:06.093
+GC,GC-HAB,20,-M,Hugo Angelina,TBW - Watopia Tour,8,09:14:29.664
+GC,GC-HAB,21,-M,Martin Grieger,ALPENTVC - AVC-Hippos,8,09:15:29.255
+GC,GC-HAB,22,-M,Albert Chan,OTR - Octopi,8,09:16:39.709
+GC,GC-HAB,23,-M,Bob Jongeneel,TFC - TFC Harriers,8,09:17:46.247
+GC,GC-HAB,24,-F,Anna Rogers,REVO - REVO,8,09:18:15.094
+GC,GC-HAB,25,-F,Zeina Loutfi,REVO - REVO,8,09:18:37.052
+GC,GC-HAB,26,-M,Fabio Santos,TugaZ - Pico,8,09:19:21.177
+GC,GC-HAB,27,-F,Sarah Olimb,ABR - ABR Bloobo webdesign,8,09:19:24.343
+GC,GC-HAB,28,-M,Irwan Budiman,ZIRT - ZIRT Uno,8,09:19:43.612
+GC,GC-HAB,29,-M,Julio Jimenez,ABR - ABR Bloobo webdesign,8,09:21:06.412
+GC,GC-HAB,30,-M,Richard Vale,Race3R - ACDC,8,09:22:37.088
+GC,GC-HAB,31,-M,Kevin jones [ BON],WELLW - WELLW - LETOUR,8,09:23:04.486
+GC,GC-HAB,32,-M,Colin Cunningham,BPCC - BPCC - LETOUR,8,09:23:23.492
+GC,GC-HAB,33,-M,Dan Poynton,DIRT - DIRT - LETOUR,8,09:23:33.739
+GC,GC-HAB,34,-F,Emilie Marsolais,OPT - Velo Optimum,8,09:23:40.387
+GC,GC-HAB,35,-M,Dominic LarrivÃ©e,LWATT - E-mmortels,8,09:24:00.958
+GC,GC-HAB,36,-F,Valerie Pa,ABR - ABR Bloobo webdesign,8,09:24:14.134
+GC,GC-HAB,37,-M,Graeme Crane,ZSCOT - ZSCOT - LETOUR,8,09:24:14.293
+GC,GC-HAB,38,-M,Jose Teixeira,TugaZ - Pico,8,09:24:55.705
+GC,GC-HAB,39,-F,Alycia Staats,REVO - REVO,8,09:25:32.678
+GC,GC-HAB,40,-M,Peter Sjostrom,ABR - ABR Bloobo webdesign,8,09:26:27.778
+GC,GC-HAB,41,-M,Henrik Tullborg,SZ - SZ LOKE,8,09:26:38.080
+GC,GC-HAB,42,-M,Erik Schulz,FRR - Spectre,8,09:27:42.085
+GC,GC-HAB,43,-F,Mim Taylor-Carter,LVLESPORT - LEVEL Women,8,09:29:07.348
+GC,GC-HAB,44,-M,Gregor Simpson,ZSCOT - ZSCOT - LETOUR,8,09:29:56.082
+GC,GC-HAB,45,-M,Brian Glancy,FRR - Spectre,8,09:32:52.735
+GC,GC-HAB,46,-M,Thomas Christiansen,FRR - Spectre,8,09:33:08.323
+GC,GC-HAB,47,-M,Nick O'Connell,LVLESPORT - LEVEL Men,8,09:33:42.854
+GC,GC-HAB,48,-M,Alexandre Branco,TugaZ - Pico,8,09:36:13.133
+GC,GC-HAB,49,-M,Jonathan Flavin,USMES - Tour,8,09:38:31.176
+GC,GC-HAB,50,-M,g isenbarg,USMES - Tour,8,09:40:03.492
+GC,GC-HAB,51,-M,Paul Peppard,CRYO-GEN - Lancelot,8,09:40:44.013
+GC,GC-HAB,52,-M,david bird,WLECOL - WLECOL - LETOUR,8,09:40:52.287
+GC,GC-HAB,53,-F,Pia Vakkilainen-Liegl,KIRCHMAIR - KIRCHMAIR - LETOUR,8,09:44:28.628
+GC,GC-HAB,54,-M,Dean hunt,ABR - ABR Bloobo webdesign,8,09:46:04.661
+GC,GC-HAB,55,-M,Chris Hoiberg,TBR - JumboVisma,8,09:51:27.068
+GC,GC-HAB,56,-M,arif rizki zesfi [ZIRT],ZIRT - ZIRT Duo,8,09:53:22.220
+GC,GC-HAB,57,-M,Ronnie Reynolds,FRR - Spectre,8,10:06:40.579
+GC,GC-HAB,58,-F,Marie Jaegers,WATTFAB - WATTFAB - LETOUR,8,10:09:44.183
+GC,GC-HAB,59,-M,Derek Cobb,LVLESPORT - LEVEL Men,8,10:10:40.678
+GC,GC-HAB,60,-M,Tom Elliott,ZSUNR - ZSUNR - LETOUR,8,10:11:04.217
+GC,GC-HAB,61,-M,Ed England,eSRT - eSRT - LETOUR,8,10:15:31.098
+GC,GC-HAB,62,-M,Christian Lemyre,LWATT - Phoenix,8,10:16:34.673
+GC,GC-HAB,63,-M,Mick Woods,TFC - TFC Harriers,8,10:19:02.610
+GC,GC-HAB,64,-M,Lucky S,ZIRT - ZIRT Uno,8,10:20:53.233
+GC,GC-HAB,65,-M,Shane Lee,USMES - Tour,8,10:28:19.060
+GC,GC-HAB,66,-M,Roy Imahara,BPCC - BPCC - LETOUR,8,10:40:19.235
+GC,GC-HAB,67,-M,Ralf Damrat,ABR - ABR Bloobo webdesign,8,10:42:22.300
+GC,GC-HAB,68,-M,Lars Schrödel,ALPENTVC - AVC-Hippos,7,07:57:24.117
+GC,GC-HAB,69,-M,Martin Poettgen,KIRCHMAIR - KIRCHMAIR - LETOUR,7,08:00:29.372
+GC,GC-HAB,70,-M,Torsten Boeswetter,KIRCHMAIR - KIRCHMAIR - LETOUR,7,08:06:52.595
+GC,GC-HAB,71,-M,Dany Foster,LWATT - E-mmortels,6,08:06:53.119
+GC,GC-HAB,72,-M,Benedikt Reiffer,DIRT - DIRT - LETOUR,7,08:08:31.777
+GC,GC-HAB,73,-M,Nate Wick,LVLESPORT - LEVEL Men,5,06:42:41.528
+GC,GC-HAB,74,-M,Andy Winterbottom,WELLW - WELLW - LETOUR,7,08:57:45.570
+GC,GC-HAB,75,-M,Edu Harms,WLECOL - WLECOL - LETOUR,7,07:12:15.642
+GC,GC-HAB,76,-M,Chris Gambs,WELLW - WELLW - LETOUR,6,07:24:19.027
+GC,GC-HAB,77,-M,Mark Feeney,COALITION - Le Tour,7,07:59:48.039
+GC,GC-HAB,78,-M,Jeffrey Janssen,OTR - Snowflakes,7,08:16:39.661
+GC,GC-HAB,79,-M,James Hilton,LVLESPORT - LEVEL Men,7,08:18:02.168
+GC,GC-HAB,80,-M,Dean Hardie,TFC - TFC Harriers,7,08:26:20.556
+GC,GC-HAB,81,-M,RIJAN Emmanuel,HEX - HEX - LETOUR,7,08:37:31.596
+GC,GC-HAB,82,-M,Mathieu Alarie,OPT - Velo Optimum,7,08:55:19.868
+GC,GC-HAB,83,-M,Guilherme Pereira,TugaZ - Pico,5,05:20:00.192
+GC,GC-HAB,84,-M,Domenico Spano,VEGAN - VEGAN - LETOUR,6,07:54:30.602
+GC,GC-HAB,85,-M,Stijn Bollen,FRR - Spectre,4,05:53:03.874
+GC,GC-HAB,86,-M,guy junior beauvais,OPT - Velo Optimum,6,05:26:44.628
+GC,GC-HAB,87,-M,Langgo Farid,ZIRT - ZIRT Duo,6,06:02:40.649
+GC,GC-HAB,88,-M,Sébastien Filion,LWATT - E-mmortels,6,06:03:51.271
+GC,GC-HAB,89,-M,Tommy,DIRT - DIRT - LETOUR,5,06:13:16.825
+GC,GC-HAB,90,-M,Richard Webster,DRAFTDINO - Dinos,5,04:51:14.369
+GC,GC-HAB,91,-M,Greg CARLITO,FFZ - FFZ Spartiate,5,05:15:55.597
+GC,GC-HAB,92,-M,Henning | A-Team,FRR - Spectre,6,06:49:25.924
+GC,GC-HAB,93,-M,Brendan Parker,Race3R - ACDC,6,07:05:43.618
+GC,GC-HAB,94,-M,John fickling,WLECOL - WLECOL - LETOUR,6,08:06:06.595
+GC,GC-HAB,95,-F,Jenny Perle,WATTFAB - WATTFAB - LETOUR,6,05:35:10.812
+GC,GC-HAB,96,-M,Steve Ripley,EVOLUTION - Le Tour,6,05:57:03.073
+GC,GC-HAB,97,-M,Adam Leech,LVLESPORT - LEVEL Men,6,06:02:16.030
+GC,GC-HAB,98,-M,Marc Böhret,WATTFAB - WATTFAB - LETOUR,6,06:05:08.771
+GC,GC-HAB,99,-M,Casey Burton,OTR - Snowflakes,6,06:08:43.980
+GC,GC-HAB,100,-M,Beretio Thebe,FRR - Spectre,6,06:16:26.590
+GC,GC-HAB,101,-F,Stephanie Lavigueur,OPT - Velo Optimum,5,06:58:51.541
+GC,GC-HAB,102,-M,Weber Mark,SWM - SWM - LETOUR,5,04:51:28.583
+GC,GC-HAB,103,-M,Gary Birch,EVOLUTION - Le Tour,5,05:44:28.293
+GC,GC-HAB,104,-M,Andreas Kasperek,ALPENTVC - AVC-Hippos,4,05:46:29.713
+GC,GC-HAB,105,-M,Matthew Day,ABR - ABR Bloobo webdesign,4,03:14:43.624
+GC,GC-HAB,106,-M,Rene Benz,WATTFAB - WATTFAB - LETOUR,5,06:06:02.557
+GC,GC-HAB,107,-M,Randy Hermann,BPCC - BPCC - LETOUR,4,06:14:00.494
+GC,GC-HAB,108,-M,Guillaume Letourneau,LWATT - Phoenix,4,03:26:16.238
+GC,GC-HAB,109,-M,Stephen Burrell,ATWT - ATWT - LETOUR,4,03:46:23.774
+GC,GC-HAB,110,-M,Gustaf Lindqvist,SZ - SZ LOKE,5,05:30:11.175
+GC,GC-HAB,111,-M,Zafar Siddiqui,TFC - TFC Harriers,5,06:40:06.899
+GC,GC-HAB,112,-M,Alex James,CRYO-GEN - Lancelot,4,05:06:33.372
+GC,GC-HAB,113,-M,Thomas Schneider,RCP - RC Pfeil Rebellunas 1,3,02:57:40.120
+GC,GC-HAB,114,-M,Robert Maas,ABR - ABR Bloobo webdesign,2,03:22:53.716
+GC,GC-HAB,115,-M,James Ranger,RELENTLESS - Taipan,5,05:05:15.625
+GC,GC-HAB,116,-M,Bram van Montfort,VEGAN - VEGAN - LETOUR,5,05:09:33.444
+GC,GC-HAB,117,-M,Mathieu Fournier G,LWATT - E-mmortels,4,05:16:52.342
+GC,GC-HAB,118,-M,Ryan Howard,BPCC - BPCC - LETOUR,5,05:25:09.823
+GC,GC-HAB,119,-M,Paul Broom,WELLW - WELLW - LETOUR,5,05:27:45.299
+GC,GC-HAB,120,-F,Oriane Bouchon,OPT - Velo Optimum,4,03:21:28.608
+GC,GC-HAB,121,-M,Bruno Carneiro,TugaZ - Pico,3,03:52:22.154
+GC,GC-HAB,122,-M,Oli Stahl,RCP - RC Pfeil Rebellunas 1,4,04:16:22.404
+GC,GC-HAB,123,-F,Anne Krollmann,FRR - Spectre,2,02:07:40.544
+GC,GC-HAB,124,-M,Joaquim Viegas,TugaZ - Pico,2,02:11:00.105
+GC,GC-HAB,125,-M,James Farren,ABR - ABR Bloobo webdesign,4,03:37:39.386
+GC,GC-HAB,126,-M,Alan Bates,VELOS - VELOSiraptors,4,03:41:35.876
+GC,GC-HAB,127,-M,Henry,TBR - JumboVisma,3,03:43:24.019
+GC,GC-HAB,128,-M,Daniel BjÃ¶rkman,SZ - SZ LOKE,4,03:51:53.511
+GC,GC-HAB,129,-M,Bernd Mayer,ABR - ABR Bloobo webdesign,4,03:53:30.128
+GC,GC-HAB,130,-M,Ryan Manongdo,OTR - Octopi,2,03:53:50.215
+GC,GC-HAB,131,-M,Tony Lo,EVOLUTION - Le Tour,3,01:53:40.783
+GC,GC-HAB,132,-M,Mike Jubb,ATWT - ATWT - LETOUR,3,02:00:10.576
+GC,GC-HAB,133,-F,Nora,WATTFAB - WATTFAB - LETOUR,3,02:46:14.444
+GC,GC-HAB,134,-M,Julius Küchler,SWM - SWM - LETOUR,3,03:23:29.582
+GC,GC-HAB,135,-M,Michael SchÃ¼bel,ALPENTVC - AVC-Hippos,3,03:53:05.404
+GC,GC-HAB,136,-M,Chris Jasinski,EVOLUTION - Le Tour,4,04:42:05.146
+GC,GC-HAB,137,-F,Emma Julie Dyrhovden,SOCKS4W - Le Tour,2,01:32:35.572
+GC,GC-HAB,138,-M,Ricardo Capelo,TugaZ - Pico,2,01:55:26.389
+GC,GC-HAB,139,-M,Anthony Cree,EVOLUTION - Le Tour,3,02:42:22.595
+GC,GC-HAB,140,-M,Michael Powell,TFC - TFC Harriers,3,03:05:06.410
+GC,GC-HAB,141,-M,Jan van Doeselaar,COALITION - Le Tour,4,03:41:31.718
+GC,GC-HAB,142,-F,Emma Dixon,COALITION - Beta,4,03:57:52.746
+GC,GC-HAB,143,-M,T.yso TBW (HAB ),TBW - Watopia Tour,4,04:00:04.996
+GC,GC-HAB,144,-M,Rainer Faulstich,WATTFAB - WATTFAB - LETOUR,4,04:04:46.255
+GC,GC-HAB,145,-F,Sonia Foote,LVLESPORT - LEVEL Women,2,02:21:54.092
+GC,GC-HAB,146,-M,Nicholas Keat,TFC - TFC Harriers,2,02:31:42.667
+GC,GC-HAB,147,-M,Eibert van't Hof,AMANI - AMANI - LETOUR,1,01:11:22.032
+GC,GC-HAB,148,-M,Jeff Schurz,TFC - TFC Harriers,1,01:21:12.294
+GC,GC-HAB,149,-M,Huub de Waard,FRR - Spectre,2,03:00:03.412
+GC,GC-HAB,150,-M,Jürgen Wäger,WLBB - WLBB - LETOUR,2,02:33:23.398
+GC,GC-HAB,151,-M,Rissyo Melandy RM,ZIRT - ZIRT Uno,2,02:36:43.544
+GC,GC-HAB,152,-M,David Andrews,CRYO-GEN - Lancelot,3,02:47:21.903
+GC,GC-HAB,153,-M,Robert Spink,WLECOL - WLECOL - LETOUR,3,02:53:46.564
+GC,GC-HAB,154,-M,HÃ¥kan Ohlsson,SZ - SZ LOKE,3,03:03:35.461
+GC,GC-HAB,155,-M,Bas Inghels,BAKPDL - BP1,3,03:03:49.081
+GC,GC-HAB,156,-M,Allan Georgiou-Park,DIRT - DIRT - LETOUR,1,01:16:58.335
+GC,GC-HAB,157,-M,Aaron Locke,OMG - OMG avec WEZ,1,01:24:37.171
+GC,GC-HAB,158,-M,JHarvey,TBR - JumboVisma,1,01:06:45.287
+GC,GC-HAB,159,-M,Nicolas Santerre,SISU - SISU - LETOUR,2,01:27:20.246
+GC,GC-HAB,160,-M,Jeremy Leal,OTR - Snowflakes,2,01:29:32.589
+GC,GC-HAB,161,-M,Breuil,FFZ - FFZ Spartiate,2,01:29:44.070
+GC,GC-HAB,162,-M,Don Wilkey,OTR - Snowflakes,2,01:29:51.988
+GC,GC-HAB,163,-M,Florian Meyer,TALENTF - TALENTF - LETOUR,2,01:30:00.512
+GC,GC-HAB,164,-M,Frank Kratzer,OTR - Crazy8s,2,01:31:06.792
+GC,GC-HAB,165,-M,Felipe (Luppe) Sanhueza,SZ - SZ LOKE,2,01:31:06.939
+GC,GC-HAB,166,-M,Simon Tuck,RELENTLESS - Taipan,2,01:32:03.049
+GC,GC-HAB,167,-M,Matt Goodld,ATWT - ATWT - LETOUR,1,01:32:13.787
+GC,GC-HAB,168,-M,Markus Goetz,WLBB - WLBB - LETOUR,2,01:32:51.286
+GC,GC-HAB,169,-M,Michael Frater,WATTFAB - WATTFAB - LETOUR,2,01:33:43.795
+GC,GC-HAB,170,-M,Frank Scherr,TALENTF - TALENTF - LETOUR,2,01:40:13.364
+GC,GC-HAB,171,-M,Ronald Termaat,TEAMCLS - Vitesse verte,1,01:25:36.773
+GC,GC-HAB,172,-M,Alexander Rühli,FRR - Spectre,1,00:05:39.878
+GC,GC-HAB,173,-M,Ryan Ness,TFC - TFC Harriers,1,00:05:40.405
+GC,GC-HAB,174,-M,Rick Ashby,TEAMCLS - Vitesse verte,1,00:05:42.834
+GC,GC-HAB,175,-M,Alex Eames,CCC - CCC - LETOUR,1,00:05:54.807
+GC,GC-HAB,176,-M,Sergio Cuesta,HISP - HISP - LETOUR,1,00:06:03.777
+GC,GC-HAB,177,-M,Mitch Lane,AMANI - AMANI - LETOUR,1,00:06:06.356
+GC,GC-BON,1,-F,Philippa Paxman,COALITION - Le Tour,8,09:00:20.036
+GC,GC-BON,2,-M,Andy Jones,SISU - SISU - LETOUR,8,09:04:20.938
+GC,GC-BON,3,-F,Aliseeyah,DRAFTDINO - Dinos,8,09:08:55.655
+GC,GC-BON,4,-M,Jon Block,SISU - SISU - LETOUR,8,09:14:09.717
+GC,GC-BON,5,-M,Jens Lueckhof,ALPENTVC - AVC-Hippos,8,09:14:43.993
+GC,GC-BON,6,-M,Frank Doyle,VEGAN - VEGAN - LETOUR,8,09:15:36.178
+GC,GC-BON,7,-M,Guillaume Borduas,OPT - Velo Optimum,8,09:25:29.665
+GC,GC-BON,8,-M,Brian Monaghan,TFC - TFC Harriers,8,09:33:43.080
+GC,GC-BON,9,-M,Johannes,WATTFAB - WATTFAB - LETOUR,8,09:33:46.646
+GC,GC-BON,10,-F,Rachel Rodger,ZSCOT - ZSCOT - LETOUR,8,09:35:41.590
+GC,GC-BON,11,-M,Dave Ronan,EVOLUTION - Le Tour,8,09:36:13.934
+GC,GC-BON,12,-M,Micky Konsta,PCH - PCH - LETOUR,8,09:37:34.117
+GC,GC-BON,13,-F,Heli Laurila,RAVE - RAVE - LETOUR,8,09:39:57.232
+GC,GC-BON,14,-M,Ian Greaves,OTR - Crazy8s,8,09:40:27.724
+GC,GC-BON,15,-F,Rhiannon Mulley,TFC - TFC Harriers,8,09:40:51.150
+GC,GC-BON,16,-M,Juergen Becker,WATTFAB - WATTFAB - LETOUR,8,09:41:21.206
+GC,GC-BON,17,-M,Jens Bittner,ABR - ABR Bloobo webdesign,8,09:43:02.741
+GC,GC-BON,18,-M,Jeffrey Budden,EVOLUTION - Le Tour,8,09:46:32.982
+GC,GC-BON,19,-M,Anders Kvale,HERD - HERD - LETOUR,8,09:46:50.005
+GC,GC-BON,20,-M,Adi Hense,TBW - Watopia Tour,8,09:47:02.976
+GC,GC-BON,21,-M,Ron Gallo,OTR - Crazy8s,8,09:49:13.909
+GC,GC-BON,22,-F,Nathalie Gagnon,LWATT - Phoenix,8,09:49:17.666
+GC,GC-BON,23,-M,José Mendes,TugaZ - Pico,8,09:50:15.809
+GC,GC-BON,24,-F,Maggie Carden,DRAFTDINO - Dinos,8,09:50:53.824
+GC,GC-BON,25,-F,Staci Murphy,LVLESPORT - LEVEL Women,8,09:51:53.163
+GC,GC-BON,26,-F,Eija Kestila,EVOLUTION - Le Tour,8,09:52:00.597
+GC,GC-BON,27,-M,Gary Cordery,COALITION - Le Tour,8,09:52:06.488
+GC,GC-BON,28,-M,Patrick Wichert,WLBB - WLBB - LETOUR,8,09:52:08.509
+GC,GC-BON,29,-F,Barbi Brochu,COALITION - Le Tour,8,09:52:12.472
+GC,GC-BON,30,-F,Louise Everitt,RAVE - RAVE - LETOUR,8,09:52:13.342
+GC,GC-BON,31,-F,Heather Downie,REVO - REVO,8,09:55:12.815
+GC,GC-BON,32,-F,Josee Pouliot,LWATT - E-mmortels,8,09:56:31.633
+GC,GC-BON,33,-M,Richard Ersted,COALITION - Le Tour,8,09:56:49.258
+GC,GC-BON,34,-M,Douglas Munro,ZSCOT - ZSCOT - LETOUR,8,09:57:39.213
+GC,GC-BON,35,-F,Maria Wiklund,FRR - Spectre,8,09:58:51.221
+GC,GC-BON,36,-M,Maxime LÃ©tourneau,LWATT - Phoenix,8,09:58:52.229
+GC,GC-BON,37,-F,Netta Vogt,DRAFTDINO - Dinos,8,09:59:40.866
+GC,GC-BON,38,-M,Jeffery Arnier,CRYO-GEN - Lancelot,8,10:03:42.546
+GC,GC-BON,39,-F,Julia Brook,EVOLUTION - Le Tour,8,10:03:42.825
+GC,GC-BON,40,-M,Adrian van Landbertsrode,COALITION - Le Tour,8,10:04:39.961
+GC,GC-BON,41,-M,Wolfgang Reh,ALPENTVC - AVC-Hippos,8,10:05:22.538
+GC,GC-BON,42,-F,Anna Cico,TBW - Watopia Tour,8,10:07:15.285
+GC,GC-BON,43,-M,Garry Cooper,DRAFTDINO - Dinos,8,10:07:18.950
+GC,GC-BON,44,-F,Flávia lopes,FRR - Spectre,8,10:07:41.489
+GC,GC-BON,45,-M,Louis-Pierre Dupuis,LWATT - Phoenix,8,10:08:39.411
+GC,GC-BON,46,-F,Holly Martinson,LVLESPORT - LEVEL Women,8,10:09:02.698
+GC,GC-BON,47,-F,Cathy Collins,DRAFTDINO - Dinos,8,10:09:58.919
+GC,GC-BON,48,-M,Niels Cornelisse,FRR - Spectre,8,10:10:33.184
+GC,GC-BON,49,-M,Charlie Marshall,ZSCOT - ZSCOT - LETOUR,8,10:13:00.179
+GC,GC-BON,50,-M,Levente Incze,ABR - ABR Bloobo webdesign,8,10:16:20.622
+GC,GC-BON,51,-M,Eric Brisebois,LWATT - Phoenix,8,10:19:04.008
+GC,GC-BON,52,-M,Matt Cromwell,TFC - TFC Harriers,8,10:19:12.079
+GC,GC-BON,53,-M,Larry Tait [BON],WELLW - WELLW - LETOUR,8,10:19:14.086
+GC,GC-BON,54,-F,K Hill,TEAMCLS - Vitesse verte,8,10:23:21.518
+GC,GC-BON,55,-M,Jason Garratt,ABR - ABR Bloobo webdesign,8,10:24:19.431
+GC,GC-BON,56,-F,Laura Damrat,ABR - ABR Bloobo webdesign,8,10:27:50.107
+GC,GC-BON,57,-M,Henrik Hansen,WELLW - WELLW - LETOUR,8,10:28:08.382
+GC,GC-BON,58,-F,(FOXY) Lisa Jane Lait,RAVE - RAVE - LETOUR,8,10:29:40.176
+GC,GC-BON,59,-M,James Balloch,COALITION - Le Tour,8,10:34:05.602
+GC,GC-BON,60,-M,Tovey Giezentanner,TFC - TFC Harriers,8,10:37:13.275
+GC,GC-BON,61,-M,Helder Silva,TugaZ - Pico,8,10:45:08.322
+GC,GC-BON,62,-M,Gary Gaffel,TT1 - TT1 - LETOUR,8,10:45:33.574
+GC,GC-BON,63,-M,Philip Plummer,CCC - CCC - LETOUR,8,10:50:42.711
+GC,GC-BON,64,-F,Gina van Rossum,TBW - Watopia Tour,8,10:55:22.104
+GC,GC-BON,65,-M,Mike Natleborg,CRCAF - CRCAF - LETOUR,8,11:00:43.543
+GC,GC-BON,66,-F,D Daffner,Race3R - ACDC,8,11:16:52.355
+GC,GC-BON,67,-M,German Pizarro,OTR - Snowflakes,8,11:26:07.555
+GC,GC-BON,68,-M,Luis Coelho,TugaZ - Pico,7,09:25:35.142
+GC,GC-BON,69,-M,Eric Lorenz,TFC - TFC Harriers,7,08:31:47.664
+GC,GC-BON,70,-M,Frank Zitzelsberger,KIRCHMAIR - KIRCHMAIR - LETOUR,7,08:42:44.209
+GC,GC-BON,71,-M,Pat M (BON],ATWT - ATWT - LETOUR,7,09:16:13.653
+GC,GC-BON,72,-M,Malte,TBR - JumboVisma,7,08:34:15.181
+GC,GC-BON,73,-M,Ludwig Kettenberger,ALPENTVC - AVC-Hippos,7,08:49:38.267
+GC,GC-BON,74,-M,Dario Prudencio,TugaZ - Pico,7,09:01:30.430
+GC,GC-BON,75,-M,Jean-Francois Langlais,LWATT - Phoenix,7,08:24:01.925
+GC,GC-BON,76,-F,Marci Cascanette,DRAFTDINO - Dinos,7,08:31:25.368
+GC,GC-BON,77,-F,Kimberly Juul,TBR - JumboVisma,7,09:00:42.310
+GC,GC-BON,78,-F,Karen Taplin,TFC - TFC Harriers,7,09:11:54.170
+GC,GC-BON,79,-M,Joao Severino,TugaZ - Pico,7,09:24:14.207
+GC,GC-BON,80,-M,Alexandre Gendron,LWATT - E-mmortels,7,07:06:07.124
+GC,GC-BON,81,-M,Jonathan Cloutier,OPT - Velo Optimum,7,07:25:10.327
+GC,GC-BON,82,-M,lee messenger,FRR - Spectre,7,07:34:35.848
+GC,GC-BON,83,-F,Steph waring,REVO - REVO,7,07:36:34.909
+GC,GC-BON,84,-M,Peter Mosbaek,RELENTLESS - Taipan,5,06:42:07.666
+GC,GC-BON,85,-M,Mark Visser,PCH - PCH - LETOUR,5,06:50:13.068
+GC,GC-BON,86,-M,John Atkinson,DRAFTDINO - Dinos,7,08:32:21.381
+GC,GC-BON,87,-M,Mark Arnold,TBW - Watopia Tour,7,08:41:13.075
+GC,GC-BON,88,-M,Jonathan Banks,TFC - TFC Harriers,7,08:45:59.449
+GC,GC-BON,89,-M,Huw Thomas,WELLW - WELLW - LETOUR,7,08:52:18.454
+GC,GC-BON,90,-M,Luís Marques,TugaZ - Pico,7,08:54:02.793
+GC,GC-BON,91,-M,Paul Harrison,WELLW - WELLW - LETOUR,7,08:56:16.314
+GC,GC-BON,92,-F,R Wheaty,RAVE - RAVE - LETOUR,7,09:02:56.904
+GC,GC-BON,93,-M,Alex Balke,OTR - Snowflakes,7,09:17:15.291
+GC,GC-BON,94,-M,Mike Nelder,WELLW - WELLW - LETOUR,6,06:23:26.549
+GC,GC-BON,95,-M,Micha Willer,ALPENTVC - AVC-Hippos,6,05:58:14.787
+GC,GC-BON,96,-F,Laura Nordine,RAVE - RAVE - LETOUR,6,06:31:26.523
+GC,GC-BON,97,-F,Caressa,AMANI - AMANI - LETOUR,5,06:54:02.353
+GC,GC-BON,98,-M,Berthold Wimmer,WLBB - WLBB - LETOUR,4,06:22:04.286
+GC,GC-BON,99,-M,Jeffrey Lakerveld,AMANI - AMANI - LETOUR,4,05:51:29.682
+GC,GC-BON,100,-M,Mikael Myrsell,SZ - SZ LOKE,5,05:47:30.884
+GC,GC-BON,101,-M,Wyle Solomon,CRCAF - CRCAF - LETOUR,6,06:04:50.698
+GC,GC-BON,102,-F,Jackie Gilbert,EVOLUTION - Le Tour,6,06:12:12.222
+GC,GC-BON,103,-F,Nina hodgson,EVOLUTION - Le Tour,6,06:15:55.019
+GC,GC-BON,104,-M,Dave Rossow,DRAFTDINO - Dinos,6,06:24:45.625
+GC,GC-BON,105,-M,Peter Ferngren,SZ - SZ LOKE,6,06:28:33.661
+GC,GC-BON,106,-M,Lar Hayden,TFC - TFC Harriers,6,06:30:22.689
+GC,GC-BON,107,-M,Julien Beijer,TT1 - TT1 - LETOUR,6,06:32:38.391
+GC,GC-BON,108,-M,Michael Beny Junior,ZIRT - ZIRT Duo,6,06:39:37.071
+GC,GC-BON,109,-M,Toby Farrow,FRR - Spectre,6,06:41:33.347
+GC,GC-BON,110,-M,Marc-Etienne Gagnon,OPT - Velo Optimum,6,07:01:47.949
+GC,GC-BON,111,-F,Alisa Healy,LVLESPORT - LEVEL Women,3,04:40:52.977
+GC,GC-BON,112,-M,Frank Göppinger,KIRCHMAIR - KIRCHMAIR - LETOUR,4,05:03:55.211
+GC,GC-BON,113,-M,Jan-Willem Huidink,TEAMCLS - Vitesse verte,5,05:17:51.205
+GC,GC-BON,114,-M,Jay O’Neil,EVOLUTION - Le Tour,5,05:45:25.908
+GC,GC-BON,115,-M,Simon Evatt,TFC - TFC Harriers,5,04:36:24.130
+GC,GC-BON,116,-F,Ema Falez,TBW - Watopia Tour,5,07:00:05.775
+GC,GC-BON,117,-M,Pedro Pedroso,TugaZ - Pico,4,03:41:41.934
+GC,GC-BON,118,-M,Arran Leach,USMES - Tour,4,04:48:19.393
+GC,GC-BON,119,-M,Dan Evanko,OTR - Snowflakes,5,04:55:20.168
+GC,GC-BON,120,-F,ivonne,ZIRT - ZIRT Duo,5,04:56:29.896
+GC,GC-BON,121,-M,Dave Hall,TBW - Watopia Tour,5,05:16:42.126
+GC,GC-BON,122,-M,Keith Hardiman,VELOS - VELOSiraptors,4,06:29:59.238
+GC,GC-BON,123,-M,John Rogers,SISU - SISU - LETOUR,4,03:14:30.400
+GC,GC-BON,124,-M,Haydn Jones,Race3R - ACDC,4,04:41:37.010
+GC,GC-BON,125,-M,Stef Dixon,WELLW - WELLW - LETOUR,3,03:09:13.385
+GC,GC-BON,126,-M,Charlie Loignon,LWATT - Phoenix,3,03:18:21.997
+GC,GC-BON,127,-M,Simon Haaf,WLBB - WLBB - LETOUR,2,03:47:16.568
+GC,GC-BON,128,-M,Leif Larsson,SZ - SZ LOKE,5,05:25:05.000
+GC,GC-BON,129,-M,stefan bodin,SZ - SZ LOKE,5,05:56:33.497
+GC,GC-BON,130,-F,Samantha Haacke,COALITION - Le Tour,4,05:18:15.383
+GC,GC-BON,131,-F,Catherine Crawley,RAVE - RAVE - LETOUR,4,05:41:26.189
+GC,GC-BON,132,-F,Kara Tranter,FEARLESS - FEARLESS - LETOUR,3,02:24:33.765
+GC,GC-BON,133,-M,Ricardo Machado,TugaZ - Pico,2,03:13:21.471
+GC,GC-BON,134,-F,Catherine Holt,RAVE - RAVE - LETOUR,3,03:30:37.683
+GC,GC-BON,135,-F,Dorien Geertsema,AMANI - AMANI - LETOUR,4,03:48:58.721
+GC,GC-BON,136,-M,Brice Gary,COALITION - Le Tour,4,04:09:14.083
+GC,GC-BON,137,-M,Anthony Nicholson,CRYO-GEN - Lancelot,4,04:11:11.812
+GC,GC-BON,138,-F,Anne-Marie Poisson,OPT - Velo Optimum,3,01:58:18.906
+GC,GC-BON,139,-F,Fiona Blackwell,TBW - Watopia Tour,3,03:08:41.813
+GC,GC-BON,140,-M,Markus Schneider,ALPENTVC - AVC-Hippos,2,01:45:47.351
+GC,GC-BON,141,-M,Mike Platt,BPCC - BPCC - LETOUR,3,03:58:24.353
+GC,GC-BON,142,-F,Bronwyn MacGregor,REVO - REVO,4,04:01:44.126
+GC,GC-BON,143,-M,Jeroen Rijk,RELENTLESS - Taipan,4,04:02:27.669
+GC,GC-BON,144,-M,Ian Jervis,ZSUNR - ZSUNR - LETOUR,4,04:07:50.120
+GC,GC-BON,145,-M,Stein Arvid,DRAFTDINO - Dinos,3,04:10:58.261
+GC,GC-BON,146,-F,Lucy Esdaile,TBR - JumboVisma,4,04:14:27.659
+GC,GC-BON,147,-F,Carole welch,RAVE - RAVE - LETOUR,2,04:16:03.245
+GC,GC-BON,148,-M,Shane Walker,ZSUNR - ZSUNR - LETOUR,4,04:17:30.897
+GC,GC-BON,149,-M,JS Prenovost,LWATT - Phoenix,4,04:27:15.752
+GC,GC-BON,150,-M,John van der Veldt,AMANI - AMANI - LETOUR,3,04:31:35.360
+GC,GC-BON,151,-F,Silke Optekamp,WATTFAB - WATTFAB - LETOUR,3,02:13:57.025
+GC,GC-BON,152,-M,Juergen Weinacht,KIRCHMAIR - KIRCHMAIR - LETOUR,3,02:23:27.270
+GC,GC-BON,153,-M,Abraham,DRAFTDINO - Dinos,3,03:37:49.074
+GC,GC-BON,154,-M,Stuart Codling,ABR - ABR Bloobo webdesign,2,02:56:00.356
+GC,GC-BON,155,-M,Mike barber,ATWT - ATWT - LETOUR,2,03:04:09.596
+GC,GC-BON,156,-F,Amy Mundisev,FEARLESS - FEARLESS - LETOUR,3,03:21:23.821
+GC,GC-BON,157,-M,Peter Enserer,WLBB - WLBB - LETOUR,1,02:36:30.527
+GC,GC-BON,158,-M,Lionel Spooner,Race3R - ACDC,3,02:43:37.431
+GC,GC-BON,159,-F,Kirstein Janine,KIRCHMAIR - KIRCHMAIR - LETOUR,3,02:44:33.054
+GC,GC-BON,160,-M,Richard Jones,EVOLUTION - Le Tour,3,02:47:34.521
+GC,GC-BON,161,-M,Anthony Wooldridge,VELOS - VELOSiraptors,3,02:48:02.004
+GC,GC-BON,162,-M,Nathan Kiger,OTR - Snowflakes,3,03:09:32.720
+GC,GC-BON,163,-M,Mr. Pink,VELOS - VELOSiraptors,1,00:43:54.744
+GC,GC-BON,164,-M,Roger Puig Antunez,FRR - Spectre,2,01:32:13.631
+GC,GC-BON,165,-M,Joe Bradshaw,AMANI - AMANI - LETOUR,3,02:57:42.070
+GC,GC-BON,166,-F,Joey Lythgoe,FEARLESS - FEARLESS - LETOUR,3,03:06:00.725
+GC,GC-BON,167,-M,Lee Dixon,BAKPDL - BP1,3,03:08:48.164
+GC,GC-BON,168,-F,Sarah Thomas,TFC - TFC Harriers,3,03:13:15.659
+GC,GC-BON,169,-F,Pamela Schamber,LVLESPORT - LEVEL Women,3,03:14:14.400
+GC,GC-BON,170,-M,Nathan Brauer,CRCAF - CRCAF - LETOUR,3,03:15:34.539
+GC,GC-BON,171,-M,Marcel Marbaise,WATTFAB - WATTFAB - LETOUR,3,03:25:40.472
+GC,GC-BON,172,-M,Mark,FRR - Spectre,3,03:39:15.684
+GC,GC-BON,173,-M,Piotr Trzciński,PCH - PCH - LETOUR,1,01:18:49.824
+GC,GC-BON,174,-M,Ian Brewer,BAKPDL - BP1,1,01:31:41.672
+GC,GC-BON,175,-M,Danny Fritzsche,KIRCHMAIR - KIRCHMAIR - LETOUR,2,02:56:10.285
+GC,GC-BON,176,-M,Edwin Euser,AMANI - AMANI - LETOUR,1,01:07:57.199
+GC,GC-BON,177,-M,Paul Barber,WELLW - WELLW - LETOUR,1,01:17:50.200
+GC,GC-BON,178,-M,Rene Haber,ABR - ABR Bloobo webdesign,2,01:49:50.500
+GC,GC-BON,179,-M,Andrew Mudge,EVOLUTION - Le Tour,2,01:25:31.158
+GC,GC-BON,180,-F,Camilla Edvardsson Stenvold,eSRT - eSRT - LETOUR,1,01:27:12.535
+GC,GC-BON,181,-M,Eddie Jensen,TFC - TFC Harriers,2,01:28:00.984
+GC,GC-BON,182,-F,Noemie Labbe-Roy,OPT - Velo Optimum,1,01:29:09.525
+GC,GC-BON,183,-M,Nils Edvardsson Stenvold,eSRT - eSRT - LETOUR,1,01:29:32.889
+GC,GC-BON,184,-M,Antonio Superweak,TugaZ - Pico,2,01:30:42.770
+GC,GC-BON,185,-M,Carl Raynham,BAKPDL - BP1,1,01:31:50.805
+GC,GC-BON,186,-M,Todd Wichman,USMES - Tour,1,01:32:26.545
+GC,GC-BON,187,-M,Johan Andersson,SZ - SZ LOKE,2,01:33:07.414
+GC,GC-BON,188,-M,Richard G,FRR - Spectre,1,01:33:54.851
+GC,GC-BON,189,-M,Vasco,TugaZ - Pico,1,01:34:12.008
+GC,GC-BON,190,-F,Mandy Heijblok,COALITION - Le Tour,2,01:36:28.207
+GC,GC-BON,191,-M,Glen Pollock,ABR - ABR Bloobo webdesign,1,01:37:29.857
+GC,GC-BON,192,-M,Andreas Weilemann,PCH - PCH - LETOUR,2,01:38:51.034
+GC,GC-BON,193,-M,Mike Schuster,WATTFAB - WATTFAB - LETOUR,2,01:39:25.468
+GC,GC-BON,194,-M,FloWRiN [Dinos-BON],DRAFTDINO - Dinos,2,01:39:56.346
+GC,GC-BON,195,-M,Birdman23,FRR - Spectre,1,01:41:28.953
+GC,GC-BON,196,-M,Stephan,FRR - Spectre,2,01:41:53.543
+GC,GC-BON,197,-M,Adrian ray,VELOS - VELOSiraptors,2,01:44:31.441
+GC,GC-BON,198,-F,Hillie Van’t Klooster,REVO - REVO,2,01:53:33.144
+GC,GC-BON,199,-M,Paul Scully,EVOLUTION - Le Tour,1,01:29:40.097
+GC,GC-BON,200,-M,Rob Keunen,Race3R - ACDC,1,00:05:40.179
+GC,GC-BON,201,-F,Bekki Seal,TFC - TFC Harriers,1,00:05:54.370
+GC,GC-BON,202,-M,John Hankey,BAKPDL - BP1,1,00:06:03.534
+GC,GC-BON,203,-F,Paige Hewett,COALITION - Le Tour,1,00:06:09.604
+GC,GC-BON,204,-M,Christoph Martin,KIRCHMAIR - KIRCHMAIR - LETOUR,1,00:06:09.830
+GC,GC-BON,205,-F,Kimberley Kerns-Stokes,TBR - JumboVisma,1,00:06:12.782
+GC,GC-BON,206,-M,John Rodriguez,BPCC - BPCC - LETOUR,1,00:06:15.268
+GC,GC-BON,207,-F,Kate Seiler,CRCAF - CRCAF - LETOUR,1,00:06:15.464
+GC,GC-BON,208,-M,Anderson Ryan,DRAFTDINO - Dinos,1,00:06:18.440
+GC,GC-CAY,1,-F,Anne Vincent,OPT - Velo Optimum,8,09:36:57.603
+GC,GC-CAY,2,-M,David Gagnon,OPT - Velo Optimum,8,09:46:23.333
+GC,GC-CAY,3,-F,Roswitha Hense-Simenko,TBW - Watopia Tour,8,09:50:14.271
+GC,GC-CAY,4,-F,Pia Wertheimer,WLBB - WLBB - LETOUR,8,09:54:10.144
+GC,GC-CAY,5,-M,Lars Junger,ALPENTVC - AVC-Hippos,8,09:55:02.165
+GC,GC-CAY,6,-F,Laura Sayers,DRAFTDINO - Dinos,8,09:55:23.969
+GC,GC-CAY,7,-F,Emma Dooley,FEARLESS - FEARLESS - LETOUR,8,10:00:17.228
+GC,GC-CAY,8,-M,John Smalley,EVOLUTION - Le Tour,8,10:03:16.108
+GC,GC-CAY,9,-F,Claudia Kreupl,KIRCHMAIR - KIRCHMAIR - LETOUR,8,10:03:51.620
+GC,GC-CAY,10,-M,Pascal Gilbert,LWATT - E-mmortels,8,10:05:56.286
+GC,GC-CAY,11,-M,Neil Glezer-Jones,DRAFTDINO - Dinos,8,10:06:03.039
+GC,GC-CAY,12,-M,Nicolas Foisy,OPT - Velo Optimum,8,10:06:42.132
+GC,GC-CAY,13,-F,Jd bergkamp,LVLESPORT - LEVEL Women,8,10:06:49.790
+GC,GC-CAY,14,-M,Jose Monteiro,TugaZ - Pico,8,10:07:41.884
+GC,GC-CAY,15,-M,Matt Thomson,OTR - Crazy8s,8,10:08:09.044
+GC,GC-CAY,16,-M,Andreas Fischer,WLBB - WLBB - LETOUR,8,10:11:22.927
+GC,GC-CAY,17,-F,Julia Hargreaves,SOCKS4W - Le Tour,8,10:12:07.849
+GC,GC-CAY,18,-F,Joanne gladding,CRYO-GEN - Lancelot,8,10:13:19.957
+GC,GC-CAY,19,-F,Sabine Seifried,ALPENTVC - AVC-Hippos,8,10:14:06.092
+GC,GC-CAY,20,-F,Andrea Grupp,ALPENTVC - AVC-Hippos,8,10:14:31.310
+GC,GC-CAY,21,-M,Robert Ekberg,ZSUNR - ZSUNR - LETOUR,8,10:21:32.325
+GC,GC-CAY,22,-M,Andrew Smith,EVOLUTION - Le Tour,8,10:24:10.718
+GC,GC-CAY,23,-F,Sarah Johnson,ABR - ABR Bloobo webdesign,8,10:26:58.952
+GC,GC-CAY,24,-M,Jean Roy,LWATT - E-mmortels,8,10:29:29.008
+GC,GC-CAY,25,-F,Caroline Bailes (ATRT),ATWT - ATWT - LETOUR,8,10:34:58.434
+GC,GC-CAY,26,-M,James Hayes,ZSCOT - ZSCOT - LETOUR,8,10:36:28.628
+GC,GC-CAY,27,-M,Thomas Sachse,KIRCHMAIR - KIRCHMAIR - LETOUR,8,10:44:27.632
+GC,GC-CAY,28,-M,Hal Sutherland,OTR - Snowflakes,8,10:46:54.560
+GC,GC-CAY,29,-F,Anna Waite,TEAMCLS - Vitesse verte,8,10:49:12.381
+GC,GC-CAY,30,-F,Elisabete Ribeiro,TugaZ - Pico,8,10:50:02.398
+GC,GC-CAY,31,-M,Barry McGuigan,ZSCOT - ZSCOT - LETOUR,8,10:51:36.086
+GC,GC-CAY,32,-M,Darren Ellis,CRYO-GEN - Lancelot,8,10:53:58.878
+GC,GC-CAY,33,-M,J ohn K,TBR - JumboVisma,8,10:54:13.554
+GC,GC-CAY,34,-F,Tanya Appuhn Crates,TT1 - TT1 - LETOUR,8,11:05:03.783
+GC,GC-CAY,35,-M,Tom Marley,COALITION - Le Tour,8,11:11:49.433
+GC,GC-CAY,36,-M,Tomek Koguc,PCH - PCH - LETOUR,8,11:17:33.941
+GC,GC-CAY,37,-M,Philipp Foerster,FRR - Spectre,8,11:18:22.928
+GC,GC-CAY,38,-M,Louis Fournaise,LWATT - E-mmortels,8,11:22:53.186
+GC,GC-CAY,39,-M,Hengky Irawan,ZIRT - ZIRT Duo,8,11:24:36.469
+GC,GC-CAY,40,-M,Bob Horn,SISU - SISU - LETOUR,8,11:41:24.092
+GC,GC-CAY,41,-F,Rikke Amilde Seehuus,LVLESPORT - LEVEL Women,8,12:05:36.878
+GC,GC-CAY,42,-F,Malene Hansen CAY (LEVEL RACING),LVLESPORT - LEVEL Women,7,09:40:05.299
+GC,GC-CAY,43,-F,Myriam Tjorbajes,LWATT - Phoenix,7,09:37:15.298
+GC,GC-CAY,44,-M,Justin Bolduc,LWATT - Phoenix,7,10:20:09.010
+GC,GC-CAY,45,-F,Paola Peroni,ABR - ABR Bloobo webdesign,6,07:23:50.522
+GC,GC-CAY,46,-M,Christoph Bosshard,DRAFTDINO - Dinos,7,07:35:10.653
+GC,GC-CAY,47,-F,Clare giles,REVO - REVO,7,07:35:39.839
+GC,GC-CAY,48,-M,Rob Imrie,LWATT - Phoenix,7,07:50:30.123
+GC,GC-CAY,49,-F,Jo Lawrence,TFC - TFC Harriers,7,08:06:14.744
+GC,GC-CAY,50,-M,Juergen Pirker,KIRCHMAIR - KIRCHMAIR - LETOUR,7,08:21:34.840
+GC,GC-CAY,51,-M,Glenn Houston,LWATT - Phoenix,7,08:57:58.553
+GC,GC-CAY,52,-M,Laurence Dunford,SOCKS4W - Le Tour,7,09:03:25.997
+GC,GC-CAY,53,-M,Jeff Edwards,TFC - TFC Harriers,7,09:19:22.643
+GC,GC-CAY,54,-F,Christine Bertram,WATTFAB - WATTFAB - LETOUR,7,09:58:57.008
+GC,GC-CAY,55,-M,Tam McNeish,ZSCOT - ZSCOT - LETOUR,7,10:06:30.476
+GC,GC-CAY,56,-F,Jessica Vachon,LWATT - E-mmortels,6,06:29:34.580
+GC,GC-CAY,57,-M,Blake Chalson,BPCC - BPCC - LETOUR,6,07:22:51.939
+GC,GC-CAY,58,-M,Dave Corbin,LWATT - E-mmortels,6,08:10:31.664
+GC,GC-CAY,59,-F,Astrid Bontzek,KIRCHMAIR - KIRCHMAIR - LETOUR,5,07:13:41.742
+GC,GC-CAY,60,-M,Damon McKay,TFC - TFC Harriers,6,08:06:35.332
+GC,GC-CAY,61,-F,Danielle Gaynor,TFC - TFC Harriers,6,06:06:01.263
+GC,GC-CAY,62,-F,Patrina brennan,eSRT - eSRT - LETOUR,5,07:21:45.115
+GC,GC-CAY,63,-F,DIAS ADIASTUTI,ZIRT - ZIRT Uno,4,04:52:01.586
+GC,GC-CAY,64,-M,Nathan Melvin,ABR - ABR Bloobo webdesign,6,07:01:19.088
+GC,GC-CAY,65,-M,Gerhard Leeb,WLBB - WLBB - LETOUR,6,07:04:21.637
+GC,GC-CAY,66,-F,Tara Follett,REVO - REVO,6,07:12:04.840
+GC,GC-CAY,67,-M,Duncan Farley,CRYO-GEN - Lancelot,6,07:45:36.233
+GC,GC-CAY,68,-M,Thomas Finger,WATTFAB - WATTFAB - LETOUR,6,07:58:46.152
+GC,GC-CAY,69,-M,Matt Armitage,CRYO-GEN - Lancelot,5,07:48:52.235
+GC,GC-CAY,70,-F,Ann-Charlotte Bivall,EVOLUTION - Le Tour,6,08:43:20.479
+GC,GC-CAY,71,-F,Annik Belanger,DRAFTDINO - Dinos,5,04:47:41.910
+GC,GC-CAY,72,-M,Andy Baines,ABR - ABR Bloobo webdesign,5,05:01:17.577
+GC,GC-CAY,73,-M,Stefan Bosin,WLBB - WLBB - LETOUR,3,05:05:28.428
+GC,GC-CAY,74,-M,Mike Soukini,LWATT - E-mmortels,6,06:28:11.418
+GC,GC-CAY,75,-M,Greg Morrow,TFC - TFC Harriers,6,06:38:49.877
+GC,GC-CAY,76,-F,Nadine Schaper,WATTFAB - WATTFAB - LETOUR,5,06:42:46.293
+GC,GC-CAY,77,-M,Tobias Beck,FRR - Spectre,6,06:54:06.465
+GC,GC-CAY,78,-M,B.K. MILNE,SISU - SISU - LETOUR,6,06:56:34.283
+GC,GC-CAY,79,-M,Oliver Goßmann,WLBB - WLBB - LETOUR,6,06:58:11.574
+GC,GC-CAY,80,-M,Mário Andrade,TugaZ - Pico,5,06:06:37.732
+GC,GC-CAY,81,-F,Edie Oje,RAVE - RAVE - LETOUR,5,06:34:36.371
+GC,GC-CAY,82,-F,Sarah Champion,TFC - TFC Harriers,4,05:19:20.079
+GC,GC-CAY,83,-F,Jen Schmidt,LVLESPORT - LEVEL Women,5,07:00:23.319
+GC,GC-CAY,84,-F,Kelly Waterson,SOCKS4W - Le Tour,3,03:26:38.974
+GC,GC-CAY,85,-M,Jason Vaughan,BAKPDL - BP1,5,04:53:05.309
+GC,GC-CAY,86,-M,Gilo Clayson,ABR - ABR Bloobo webdesign,5,05:01:19.202
+GC,GC-CAY,87,-M,Dirk Ehrmantraut,ALPENTVC - AVC-Hippos,5,05:27:38.061
+GC,GC-CAY,88,-M,Mark Sole,ABR - ABR Bloobo webdesign,5,06:12:59.434
+GC,GC-CAY,89,-F,Paula Mayer,ABR - ABR Bloobo webdesign,3,04:46:45.342
+GC,GC-CAY,90,-F,Alice Schilder,LVLESPORT - LEVEL Women,4,04:57:45.646
+GC,GC-CAY,91,-M,Mark Grasley,OTR - Snowflakes,5,06:46:53.162
+GC,GC-CAY,92,-M,Johan Bäckström,SZ - SZ LOKE,5,04:48:01.920
+GC,GC-CAY,93,-F,Gabi Leder,WLBB - WLBB - LETOUR,3,02:06:57.568
+GC,GC-CAY,94,-M,Jonathan Doyon,OPT - Velo Optimum,5,05:41:20.776
+GC,GC-CAY,95,-F,Jill Theodossi,COALITION - Le Tour,5,05:45:43.314
+GC,GC-CAY,96,-M,John Smith,OTR - Octopi,5,06:09:53.132
+GC,GC-CAY,97,-M,Dan Tice,DRAFTDINO - Dinos,5,06:24:40.034
+GC,GC-CAY,98,-M,angelo mileto,HERD - HERD - LETOUR,2,06:52:41.260
+GC,GC-CAY,99,-F,Sarah Watmore,REVO - REVO,4,04:02:34.280
+GC,GC-CAY,100,-M,Boen Bunawan,ZIRT - ZIRT Uno,3,04:07:01.117
+GC,GC-CAY,101,-F,Patricia Christoph,RAVE - RAVE - LETOUR,3,02:16:28.446
+GC,GC-CAY,102,-M,Steven Robinson,CCC - CCC - LETOUR,4,04:57:10.591
+GC,GC-CAY,103,-M,Ken deLaski,FRR - Spectre,2,01:43:16.639
+GC,GC-CAY,104,-M,Andreas Kress,WLBB - WLBB - LETOUR,4,04:12:56.601
+GC,GC-CAY,105,-F,Caz Kay,TFC - TFC Harriers,4,04:24:21.503
+GC,GC-CAY,106,-F,Mary Whitehead,FEARLESS - FEARLESS - LETOUR,4,04:29:49.109
+GC,GC-CAY,107,-F,Sanna Friborg,SZ - SZ LOKE,4,04:34:47.591
+GC,GC-CAY,108,-M,Herry Irpanni,ZIRT - ZIRT Duo,4,04:56:52.132
+GC,GC-CAY,109,-F,Ozge Yazar,REVO - REVO,2,03:18:46.255
+GC,GC-CAY,110,-M,Jo Teddy,ZIRT - ZIRT Duo,3,02:46:09.637
+GC,GC-CAY,111,-M,Andi Hakim,ZIRT - ZIRT Duo,3,02:46:51.589
+GC,GC-CAY,112,-M,Ben Nitti,TT1 - TT1 - LETOUR,3,03:22:36.230
+GC,GC-CAY,113,-M,Nick Le-Mon,TFC - TFC Harriers,1,00:44:18.518
+GC,GC-CAY,114,-M,John Greenhalgh,ZSCOT - ZSCOT - LETOUR,1,00:45:39.989
+GC,GC-CAY,115,-M,Phil Pelgrim,TBW - Watopia Tour,1,00:46:29.312
+GC,GC-CAY,116,-M,Kyle Hoover,DIRT - DIRT - LETOUR,1,00:46:51.070
+GC,GC-CAY,117,-F,June Alm,CRYO-GEN - Lancelot,2,01:43:25.318
+GC,GC-CAY,118,-M,Juan Mendez,DIRT - DIRT - LETOUR,3,03:15:28.108
+GC,GC-CAY,119,-F,Charlotte Chapman,ATWT - ATWT - LETOUR,3,03:21:08.242
+GC,GC-CAY,120,-M,Tom Lawton,OTR - Octopi,2,01:14:26.221
+GC,GC-CAY,121,-F,Nina LaFerla,eSRT - eSRT - LETOUR,1,01:29:21.455
+GC,GC-CAY,122,-M,Clayton Wilkinson,OTR - Crazy8s,1,01:16:55.244
+GC,GC-CAY,123,-F,Tiffany Kolbe,RAVE - RAVE - LETOUR,2,01:46:08.327
+GC,GC-CAY,124,-M,Simon Boyle,TFC - TFC Harriers,1,01:35:20.254
+GC,GC-CAY,125,-M,Arie Pandubowo,ZIRT - ZIRT Uno,2,01:37:47.002
+GC,GC-CAY,126,-M,Gary Joyce,ABR - ABR Bloobo webdesign,2,01:39:39.563
+GC,GC-CAY,127,-F,Heike Moschel,ALPENTVC - AVC-Hippos,2,01:41:12.787
+GC,GC-CAY,128,-F,Mary Dootson,Race3R - ACDC,2,01:43:05.558
+GC,GC-CAY,129,-F,Caryl Williams,TFC - TFC Harriers,1,01:43:38.722
+GC,GC-CAY,130,-F,Soraia Sousa,TugaZ - Pico,2,01:44:28.524
+GC,GC-CAY,131,-M,Paulo Costa,TugaZ - Pico,2,01:45:44.945
+GC,GC-CAY,132,-F,Kristina Kring,RAVE - RAVE - LETOUR,2,01:47:02.990
+GC,GC-CAY,133,-F,Wanda Mauricio,FEARLESS - FEARLESS - LETOUR,2,01:48:28.291
+GC,GC-CAY,134,-M,AndyCXR,CCC - CCC - LETOUR,1,01:27:43.032
+GC,GC-CAY,135,-F,Pam Thomas,DRAFTDINO - Dinos,1,01:33:57.786
+GC,GC-CAY,136,-M,Roby,TT1 - TT1 - LETOUR,1,00:06:10.211
+GC,GC-CAY,137,-F,Jennie Routley,ZSCOT - ZSCOT - LETOUR,1,00:06:33.404
+GC,GC-CAY,138,-M,Vladimir Lipinski,FRR - Spectre,1,00:06:34.665
+GC,GC-JLP,1,-F,Catherine Deveault,LWATT - Phoenix,8,10:14:21.946
+GC,GC-JLP,2,-F,Hayley Vale,Race3R - ACDC,8,10:22:52.371
+GC,GC-JLP,3,-F,Sharon Almanza,COALITION - Le Tour,8,10:23:11.368
+GC,GC-JLP,4,-M,Jeremy Lohman,TT1 - TT1 - LETOUR,8,10:28:19.478
+GC,GC-JLP,5,-F,Anneli KylÃ©n,SZ - SZ LOKE,8,10:59:20.087
+GC,GC-JLP,6,-F,LESLEY WILKINSON,LVLESPORT - LEVEL Women,8,11:00:09.452
+GC,GC-JLP,7,-M,Brian Walburn,FRR - Spectre,8,11:01:52.908
+GC,GC-JLP,8,-F,Michelle Spicer,TBW - Watopia Tour,8,11:04:51.753
+GC,GC-JLP,9,-F,Lenny Koppert,FRR - Spectre,8,11:08:45.145
+GC,GC-JLP,10,-F,Catherine St-Pierre,OPT - Velo Optimum,8,11:11:47.010
+GC,GC-JLP,11,-M,Mickael Vachon,OPT - Velo Optimum,8,11:16:35.293
+GC,GC-JLP,12,-M,Jose Onofre,TugaZ - Pico,8,11:23:02.587
+GC,GC-JLP,13,-F,Nikki Croft,CRYO-GEN - Lancelot,8,11:25:45.803
+GC,GC-JLP,14,-M,Gunter Haacke,FRR - Spectre,8,11:25:56.407
+GC,GC-JLP,15,-M,Jack Son,DRAFTDINO - Dinos,8,11:26:22.387
+GC,GC-JLP,16,-M,Enno Enno,WLBB - WLBB - LETOUR,8,11:34:24.700
+GC,GC-JLP,17,-F,Nikki Faulkner,DRAFTDINO - Dinos,8,11:46:18.847
+GC,GC-JLP,18,-F,Shaz Bat,REVO - REVO,8,11:51:07.151
+GC,GC-JLP,19,-F,Rizcha DA,ZIRT - ZIRT Uno,8,12:01:33.126
+GC,GC-JLP,20,-M,Andy Craig,ZSCOT - ZSCOT - LETOUR,8,12:09:06.773
+GC,GC-JLP,21,-M,Pierre Cypihot,LWATT - Phoenix,8,12:13:06.233
+GC,GC-JLP,22,-F,Katie Isermann,REVO - REVO,8,12:50:12.346
+GC,GC-JLP,23,-F,Nasrin Büttner,ALPENTVC - AVC-Hippos,7,09:12:34.545
+GC,GC-JLP,24,-M,Ian Breslin,TFC - TFC Harriers,6,09:50:01.219
+GC,GC-JLP,25,-F,Manuela Bootsmann,RCP - RC Pfeil Rebellunas 1,6,10:03:03.051
+GC,GC-JLP,26,-M,Zorza,TugaZ - Pico,7,09:23:37.369
+GC,GC-JLP,27,-F,Annabel Vella,RAVE - RAVE - LETOUR,7,09:39:38.579
+GC,GC-JLP,28,-M,Peter Mignacca,OPT - Velo Optimum,7,08:39:01.155
+GC,GC-JLP,29,-F,Patricia Harrison,ABR - ABR Bloobo webdesign,7,09:44:33.709
+GC,GC-JLP,30,-F,Clare Taylor,ZSCOT - ZSCOT - LETOUR,7,10:05:42.725
+GC,GC-JLP,31,-F,Marie-Hélène Blouin,LWATT - E-mmortels,6,06:56:30.346
+GC,GC-JLP,32,-M,Matt Sellors,TFC - TFC Harriers,6,08:47:20.807
+GC,GC-JLP,33,-M,Gus Goad,WELLW - WELLW - LETOUR,4,07:28:50.216
+GC,GC-JLP,34,-F,Janica Ahl,SZ - SZ LOKE,4,05:33:28.558
+GC,GC-JLP,35,-M,Moe Cascanette,DRAFTDINO - Dinos,5,05:09:23.142
+GC,GC-JLP,36,-M,Eric Surprenant,OPT - Velo Optimum,6,06:36:57.229
+GC,GC-JLP,37,-M,Andrew Mead,TBR - JumboVisma,6,06:40:00.398
+GC,GC-JLP,38,-F,Juliette Williams,TFC - TFC Harriers,6,07:05:17.725
+GC,GC-JLP,39,-M,David Hill,TFC - TFC Harriers,6,07:06:20.420
+GC,GC-JLP,40,-M,Ernst F Retief,CRYO-GEN - Lancelot,6,07:26:01.799
+GC,GC-JLP,41,-F,Ellen Peleikis,RCP - RC Pfeil Rebellunas 1,5,05:26:02.566
+GC,GC-JLP,42,-M,kziere,TFC - TFC Harriers,5,05:31:31.459
+GC,GC-JLP,43,-F,Katrin Junkers,RCP - RC Pfeil Rebellunas 1,5,05:33:37.294
+GC,GC-JLP,44,-F,Lisa Lim,REVO - REVO,3,05:09:27.333
+GC,GC-JLP,45,-F,Mel Gagnon,LWATT - Phoenix,5,06:01:40.992
+GC,GC-JLP,46,-M,Mats Roesgaard Sjödin,WATTFAB - WATTFAB - LETOUR,4,03:32:50.205
+GC,GC-JLP,47,-F,Claire Spencer,FEARLESS - FEARLESS - LETOUR,3,03:43:18.551
+GC,GC-JLP,48,-M,JFPINEAULT,LWATT - E-mmortels,3,03:23:52.132
+GC,GC-JLP,49,-F,Gry Bruun-Rasmussen,RAVE - RAVE - LETOUR,3,03:53:35.320
+GC,GC-JLP,50,-M,Andrew Rodger,ZSCOT - ZSCOT - LETOUR,3,02:58:42.546
+GC,GC-JLP,51,-F,Julie Woods,TFC - TFC Harriers,4,04:46:02.521
+GC,GC-JLP,52,-M,Steve Bowden,DRAFTDINO - Dinos,4,05:11:23.171
+GC,GC-JLP,53,-F,Lena Kolumna,BAKPDL - BP1,2,02:53:06.268
+GC,GC-JLP,54,-F,Morganne Cruz,FEARLESS - FEARLESS - LETOUR,1,01:23:59.093
+GC,GC-JLP,55,-M,Waldemar Szewczuk,ABR - ABR Bloobo webdesign,3,03:03:27.118
+GC,GC-JLP,56,-F,Beatrice Rambaldi,eSRT - eSRT - LETOUR,3,03:26:40.670
+GC,GC-JLP,57,-M,Ike Messmore,TFC - TFC Harriers,2,01:47:45.567
+GC,GC-JLP,58,-F,Lyna [Dinos-JLP],DRAFTDINO - Dinos,2,01:48:04.067
+GC,GC-JLP,59,-M,Doug Earle,ABR - ABR Bloobo webdesign,1,02:13:25.894
+GC,GC-JLP,60,-M,Dan Dan,TFC - TFC Harriers,1,00:06:09.003
+GC,GC-JLP,61,-F,Virginia Graham,ABR - ABR Bloobo webdesign,1,00:06:47.555
+GC,GC-PEP,1,-M,B B,DRAFTDINO - Dinos,8,10:33:16.558
+GC,GC-PEP,2,-M,Dominic Harrison,TFC - TFC Harriers,8,10:57:56.730
+GC,GC-PEP,3,-M,David Roberts,DRAFTDINO - Dinos,8,11:03:35.972
+GC,GC-PEP,4,-M,KevinJ Brown,OTR - Crazy8s,8,11:17:00.993
+GC,GC-PEP,5,-M,Jo Laniel,OPT - Velo Optimum,8,11:18:45.635
+GC,GC-PEP,6,-F,Beata Listopad,ABR - ABR Bloobo webdesign,8,12:06:44.469
+GC,GC-PEP,7,-M,Raffa,TALENTF - TALENTF - LETOUR,8,12:10:05.844
+GC,GC-PEP,8,-F,Heidi Earp,CRYO-GEN - Lancelot,8,12:17:24.635
+GC,GC-PEP,9,-M,Andreas Kunath,WLBB - WLBB - LETOUR,8,12:19:23.305
+GC,GC-PEP,10,-F,Christy Johnson,FEARLESS - FEARLESS - LETOUR,8,12:28:30.540
+GC,GC-PEP,11,-M,Mark Parker,TEAMCLS - Vitesse verte,8,12:35:27.354
+GC,GC-PEP,12,-F,Hilary Readhead,EVOLUTION - Le Tour,8,12:38:07.806
+GC,GC-PEP,13,-F,Sinead Goss,DRAFTDINO - Dinos,8,12:41:45.182
+GC,GC-PEP,14,-F,Lillian Taylor,ABR - ABR Bloobo webdesign,8,12:43:41.874
+GC,GC-PEP,15,-F,Rowena Howard,RAVE - RAVE - LETOUR,8,13:35:22.592
+GC,GC-PEP,16,-F,Jessica Kaiser,FRR - Spectre,8,14:19:50.758
+GC,GC-PEP,17,-F,Maya Hidajat,ZSCOT - ZSCOT - LETOUR,7,09:56:53.976
+GC,GC-PEP,18,-F,Beate // FrlTri,RCP - RC Pfeil Rebellunas 1,7,08:55:11.480
+GC,GC-PEP,19,-F,Susanne Battegay,DRAFTDINO - Dinos,7,09:01:03.479
+GC,GC-PEP,20,-M,Kevin Mothersole,DRAFTDINO - Dinos,6,07:57:24.081
+GC,GC-PEP,21,-F,Fay J.,FRR - Spectre,4,08:23:32.836
+GC,GC-PEP,22,-F,Kat Cat,DRAFTDINO - Dinos,6,11:09:57.566
+GC,GC-PEP,23,-M,Shaun Chinapen,DRAFTDINO - Dinos,6,07:40:26.572
+GC,GC-PEP,24,-F,Karina Weise,RCP - RC Pfeil Rebellunas 1,6,09:13:53.104
+GC,GC-PEP,25,-F,Sonja Zinken,DRAFTDINO - Dinos,5,06:58:43.377
+GC,GC-PEP,26,-M,Udo Sinz,WLBB - WLBB - LETOUR,3,05:07:15.196
+GC,GC-PEP,27,-F,Valden Bush,RAVE - RAVE - LETOUR,5,07:14:05.263
+GC,GC-PEP,28,-F,Liz Rice,REVO - REVO,6,07:21:17.502
+GC,GC-PEP,29,-M,David Perry,TEAMCLS - Vitesse verte,6,07:22:57.299
+GC,GC-PEP,30,-F,Heather Moon,REVO - REVO,6,07:23:26.982
+GC,GC-PEP,31,-M,Allan Poulsen,FRR - Spectre,6,07:57:31.121
+GC,GC-PEP,32,-M,Richard D’Amour,LWATT - Phoenix,6,08:30:20.044
+GC,GC-PEP,33,-M,Bruce Dovey,SISU - SISU - LETOUR,6,08:45:09.392
+GC,GC-PEP,34,-F,Magdalena Prylowska,eSRT - eSRT - LETOUR,5,07:36:50.129
+GC,GC-PEP,35,-F,Clare Atkinson,DRAFTDINO - Dinos,5,07:45:52.286
+GC,GC-PEP,36,-F,Vicky coleman,REVO - REVO,3,04:11:25.777
+GC,GC-PEP,37,-F,Rosie Phillips,TFC - TFC Harriers,4,04:30:39.305
+GC,GC-PEP,38,-F,Jana Parsons,REVO - REVO,5,05:52:19.330
+GC,GC-PEP,39,-F,Nicola Morris,DRAFTDINO - Dinos,5,06:03:11.622
+GC,GC-PEP,40,-F,Shonagh McAlpine,ZSCOT - ZSCOT - LETOUR,5,06:53:45.796
+GC,GC-PEP,41,-F,Lisa McDermott,DRAFTDINO - Dinos,5,05:37:38.917
+GC,GC-PEP,42,-F,Angela Stevenson,EVOLUTION - Le Tour,4,06:00:09.335
+GC,GC-PEP,43,-F,Emma Strobel,RCP - RC Pfeil Rebellunas 1,3,02:47:08.201
+GC,GC-PEP,44,-M,Scott House,HERD - HERD - LETOUR,5,06:42:58.883
+GC,GC-PEP,45,-M,Andre As [PEP][RCP],RCP - RC Pfeil Rebellunas 1,5,06:59:05.471
+GC,GC-PEP,46,-F,Alicia Mickes,REVO - REVO,4,08:25:56.195
+GC,GC-PEP,47,-F,Claudia Beimel,WLBB - WLBB - LETOUR,2,02:55:01.327
+GC,GC-PEP,48,-F,Jennifer Anderson,DRAFTDINO - Dinos,3,04:23:34.275
+GC,GC-PEP,49,-M,David Barnett,TBW - Watopia Tour,4,07:49:35.872
+GC,GC-PEP,50,-M,Miles Ushaw,TFC - TFC Harriers,4,04:03:46.103
+GC,GC-PEP,51,-F,Janine Parlevliet,TBW - Watopia Tour,4,04:18:25.123
+GC,GC-PEP,52,-F,Isabelle Malcolm,FEARLESS - FEARLESS - LETOUR,4,04:20:20.263
+GC,GC-PEP,53,-F,Allison Duvall,TT1 - TT1 - LETOUR,4,05:01:55.314
+GC,GC-PEP,54,-F,Silvia Fischer,WLBB - WLBB - LETOUR,2,04:32:37.836
+GC,GC-PEP,55,-M,Andy Fyles,ABR - ABR Bloobo webdesign,4,04:34:13.237
+GC,GC-PEP,56,-F,Julz Anderson,DRAFTDINO - Dinos,4,05:20:43.607
+GC,GC-PEP,57,-F,Cindy vincent,LWATT - E-mmortels,3,02:28:57.147
+GC,GC-PEP,58,-F,Vivian Workman,REVO - REVO,3,04:48:35.168
+GC,GC-PEP,59,-F,Molly Cripe Birt,REVO - REVO,3,03:15:43.159
+GC,GC-PEP,60,-F,Gina Durante,BAKPDL - BP1,3,03:46:39.236
+GC,GC-PEP,61,-M,Michiel Kersten,TFC - TFC Harriers,4,04:30:59.607
+GC,GC-PEP,62,-M,Andrew Webster,ABR - ABR Bloobo webdesign,2,04:36:48.098
+GC,GC-PEP,63,-F,Val Bowden,DRAFTDINO - Dinos,3,03:44:04.500
+GC,GC-PEP,64,-F,Heather Clarke,DRAFTDINO - Dinos,3,04:12:37.235
+GC,GC-PEP,65,-M,Stuart Liggins,ABR - ABR Bloobo webdesign,2,00:53:37.550
+GC,GC-PEP,66,-F,Kerry Knowler,TBW - Watopia Tour,2,01:07:26.631
+GC,GC-PEP,67,-F,Annika Claus,RCP - RC Pfeil Rebellunas 1,3,03:04:08.651
+GC,GC-PEP,68,-F,Jenni Kinnunen,RAVE - RAVE - LETOUR,3,03:19:30.880
+GC,GC-PEP,69,-F,Annamarie Miles,DRAFTDINO - Dinos,3,03:24:03.385
+GC,GC-PEP,70,-F,Jenn Norris,FRR - Spectre,1,00:54:45.141
+GC,GC-PEP,71,-F,Gail Kocher,REVO - REVO,2,01:25:38.625
+GC,GC-PEP,72,-F,Sabine Kettenberger,ALPENTVC - AVC-Hippos,2,01:35:46.867
+GC,GC-PEP,73,-F,Kaz Tarry,FRR - Spectre,1,01:17:50.249
+GC,GC-PEP,74,-F,Daniella Garcia,REVO - REVO,2,01:59:37.224
+GC,GC-PEP,75,-M,Steve Brewer,ABR - ABR Bloobo webdesign,1,02:07:13.649
+GC,GC-PEP,76,-F,Erin Williams,DRAFTDINO - Dinos,2,02:12:32.802
+GC,GC-PEP,77,-F,Molly Schicantek,DRAFTDINO - Dinos,2,02:25:08.338
+GC,GC-PEP,78,-M,Paul Corkill,ABR - ABR Bloobo webdesign,1,00:06:18.479
+GC,GC-PEP,79,-M,Michael Gallucci,SOCKS4W - Le Tour,1,00:06:58.281
+GC,GC-PEP,80,-F,Isabelle Zimmermann,DRAFTDINO - Dinos,1,00:07:09.130
+GC,GC-PEP,81,-F,Cindy McCourt,DRAFTDINO - Dinos,1,00:07:09.383
+GC,GC-PEP,82,-F,Chus Martin,HISP - HISP - LETOUR,1,00:07:15.455
+GC,GC-PEP,83,-F,Amanda Hunt,EVOLUTION - Le Tour,1,00:07:18.808
+GC,GC-PEP,84,-F,Winter Powell,FEARLESS - FEARLESS - LETOUR,1,00:08:21.645
